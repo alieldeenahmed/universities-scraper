@@ -102,6 +102,15 @@ export class CrawlUniversity {
       this.deps.clock.now(),
     );
 
+    if (discovery.safeToMarkMissing) {
+      // majors that are gone can't be repaired, stop chasing their gaps
+      await this.deps.gaps.resolveForMajorsNotIn(
+        university.id,
+        refs.map((r) => r.externalId),
+        this.deps.clock.now(),
+      );
+    }
+
     const targets = await this.pickTargets(run, university.id, refs);
     stats.skipped = refs.length - targets.length;
     await this.deps.runs.setProgress(run.id, 0, targets.length);

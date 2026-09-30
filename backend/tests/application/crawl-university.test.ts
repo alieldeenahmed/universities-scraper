@@ -130,6 +130,30 @@ describe("CrawlUniversity", () => {
     expect(await h.majors.count(h.university.id, "missing")).toBe(1);
   });
 
+  it("drops the gaps of a major that is gone, so repair doesn't chase it forever", async () => {
+    adapter.majors = [scrapedMajor({ externalId: "m1", creditHours: null }), ...majorsNumbered(4).slice(1)];
+    await crawl(h);
+    expect(await h.gaps.repairTargets(h.university.id)).toEqual(["m1"]);
+
+    adapter.majors = adapter.majors.filter((m) => m.externalId !== "m1");
+    await crawl(h);
+
+    expect(await h.gaps.listUnresolved({ universityId: h.university.id })).toEqual([]);
+    expect(await h.gaps.repairTargets(h.university.id)).toEqual([]);
+  });
+
+  it("keeps the gaps of majors that merely vanished from a suspiciously short list", async () => {
+    adapter.majors = [scrapedMajor({ externalId: "m1", creditHours: null }), ...majorsNumbered(10).slice(1)];
+    await crawl(h);
+
+    // only 3 of 10 come back, that looks like a broken listing rather than closed programs
+    adapter.majors = majorsNumbered(10).slice(5, 8);
+    await crawl(h);
+
+    const gaps = await h.gaps.listUnresolved({ universityId: h.university.id });
+    expect(gaps.map((g) => g.majorExternalId)).toContain("m1");
+  });
+
   it("flags a big drop in discovered majors and does not mark half the catalog missing", async () => {
     adapter.majors = majorsNumbered(10);
     await crawl(h);
