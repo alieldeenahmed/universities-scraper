@@ -27,7 +27,15 @@ export interface CrawlStats {
 }
 
 export interface CrawlFailure {
-  stage: "start" | "prepare" | "discover" | "persist" | "timeout" | "interrupted" | "unexpected";
+  stage:
+    | "start"
+    | "prepare"
+    | "discover"
+    | "blocked"
+    | "persist"
+    | "timeout"
+    | "interrupted"
+    | "unexpected";
   message: string;
 }
 
