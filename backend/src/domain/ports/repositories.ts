@@ -112,6 +112,11 @@ export interface GapRepository {
     observed: GapObservation[],
     now: Date,
   ): Promise<void>;
+  /**
+   * Resolves the gaps of majors that are no longer listed. Nothing is going to
+   * fill them in, and leaving them open would keep the repair loop busy forever.
+   */
+  resolveForMajorsNotIn(universityId: number, present: string[], now: Date): Promise<number>;
   /** open and gave_up gaps */
   listUnresolved(options?: { universityId?: number }): Promise<Gap[]>;
   /** external ids of majors that have an open (not given up) gap */

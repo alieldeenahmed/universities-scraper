@@ -43,6 +43,16 @@ export class PostgresGapRepository implements GapRepository {
     return this.db.transaction((tx) => this.sync(tx, universityId, null, null, observed, kinds, now));
   }
 
+  async resolveForMajorsNotIn(universityId: number, present: string[], now: Date): Promise<number> {
+    const result = await this.db.query(
+      `update crawl_gaps set status = 'resolved', resolved_at = $3
+       where university_id = $1 and status <> 'resolved' and major_external_id is not null
+         and not (major_external_id = any($2::text[]))`,
+      [universityId, present, now],
+    );
+    return result.rowCount;
+  }
+
   async listUnresolved(options: { universityId?: number } = {}): Promise<Gap[]> {
     const params: unknown[] = [];
     let scope = "";

@@ -95,6 +95,20 @@ describe("gap repository", () => {
     expect(left.map((g) => g.kind)).toEqual(["missing_field"]);
   });
 
+  it("resolves the gaps of majors that are no longer listed, and only those", async () => {
+    const drop: GapObservation = { kind: "count_drop", field: null, detail: "found 10, was 36" };
+    await gaps.syncForMajor(uni, "10", "Film", [credits], t0);
+    await gaps.syncForMajor(uni, "11", "Music", [credits], t0);
+    await gaps.syncForUniversity(uni, ["count_drop"], [drop], t0);
+
+    const resolved = await gaps.resolveForMajorsNotIn(uni, ["11"], at(1));
+    expect(resolved).toBe(1);
+
+    const left = await gaps.listUnresolved({ universityId: uni });
+    // the listed major keeps its gap, and so does the university wide one
+    expect(left.map((g) => g.majorExternalId).sort()).toEqual(["11", null]);
+  });
+
   it("reports the highest attempt counter among gaps still being retried", async () => {
     expect(await gaps.maxOpenAttempts(uni)).toBe(0);
     await gaps.syncForMajor(uni, "10", "Film", [credits], t0);
