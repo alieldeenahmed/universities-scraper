@@ -121,6 +121,9 @@ describe("splitCatalogDescription", () => {
     expect(overview).toContain("Bachelor of Science in Computer Science");
     expect(overview).toContain("accredited by the Computing Accreditation Commission of ABET");
     expect(overview).not.toContain("Eligibility Criteria");
+    // objectives and outcomes are part of the overview, only the declaration part is split off
+    expect(overview).toContain("Program Objectives");
+    expect(overview).toContain("Program Learning Outcomes");
     expect(declaration?.title).toBe("Declaration of the Computer Science Major");
     expect(declaration?.body).toMatch(/eligib/i);
   });

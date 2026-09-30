@@ -128,8 +128,12 @@ export interface CatalogDescription {
 }
 
 const DECLARATION_START = /declar|admission|admit|eligib|entry requirement/i;
-const DECLARATION_END =
-  /degree requirements|program (learning )?(outcomes|objectives)|curriculum|course requirements|requirements for (the )?(degree|major)|\bminor\b|core curriculum/i;
+// where the curriculum part begins. Ends both the overview and the declaration section.
+const REQUIREMENTS_START =
+  /degree requirements|course requirements|requirements for (the )?(degree|major)|\bminor\b|core curriculum|curriculum/i;
+// objectives and outcomes belong to the overview, but they also end a declaration section
+// if they happen to come after it
+const DECLARATION_END = new RegExp(`${REQUIREMENTS_START.source}|program (learning )?(outcomes|objectives)`, "i");
 
 const MAX_OVERVIEW_LENGTH = 5000;
 
@@ -158,7 +162,7 @@ export function splitCatalogDescription(html: string): CatalogDescription {
 
   const headings = kids.map((el, index) => ({ index, text: headingText(el) })).filter((h) => h.text);
   const start = headings.find((h) => DECLARATION_START.test(h.text!));
-  const firstBoundary = headings.find((h) => DECLARATION_START.test(h.text!) || DECLARATION_END.test(h.text!));
+  const firstBoundary = headings.find((h) => DECLARATION_START.test(h.text!) || REQUIREMENTS_START.test(h.text!));
 
   const overviewEnd = firstBoundary ? firstBoundary.index : kids.length;
   let overview = nodesToText(kids.slice(0, overviewEnd));
