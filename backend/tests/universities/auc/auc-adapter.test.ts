@@ -2,7 +2,7 @@ import { beforeEach, describe, expect, it } from "vitest";
 import { ScrapeError } from "../../../src/domain/errors";
 import type { MajorReference } from "../../../src/domain/scraped-major";
 import { assessMajor } from "../../../src/domain/rules/assess-major";
-import { AucAdapter, isUndergraduateMajor } from "../../../src/infrastructure/universities/auc/auc-adapter";
+import { AucAdapter, cleanDegreeType, isUndergraduateMajor } from "../../../src/infrastructure/universities/auc/auc-adapter";
 import { PAGES } from "../../../src/infrastructure/universities/auc/urls";
 import { aucHttp } from "../../support/auc-http";
 import { fixtureJson } from "../../support/fixtures";
@@ -32,6 +32,18 @@ describe("isUndergraduateMajor", () => {
     expect(kept).toContain("Film (B.A.)");
     expect(kept).not.toContain("Accounting Minor");
     expect(kept).not.toContain("Computer Science (M.Sc.)");
+  });
+});
+
+describe("cleanDegreeType", () => {
+  it("drops the trailing abbreviation some degree names carry", () => {
+    expect(cleanDegreeType("Bachelor of Business in Finance (B.B.F.)")).toBe("Bachelor of Business in Finance");
+    expect(cleanDegreeType("Bachelor of Science")).toBe("Bachelor of Science");
+  });
+
+  it("returns null for nothing", () => {
+    expect(cleanDegreeType(undefined)).toBeNull();
+    expect(cleanDegreeType("  ")).toBeNull();
   });
 });
 

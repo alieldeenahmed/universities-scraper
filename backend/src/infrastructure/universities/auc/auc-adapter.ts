@@ -41,6 +41,12 @@ export function isUndergraduateMajor(program: CatalogProgramSummary): boolean {
   return isMajor && isBachelor;
 }
 
+/** "Bachelor of Business in Finance (B.B.F.)" -> "Bachelor of Business in Finance" */
+export function cleanDegreeType(name: string | undefined): string | null {
+  const cleaned = name?.replace(/\s*\([^)]*\)\s*$/, "").trim();
+  return cleaned ? cleaned : null;
+}
+
 export class AucAdapter implements UniversityAdapter {
   readonly info = AUC_INFO;
 
@@ -132,7 +138,7 @@ export class AucAdapter implements UniversityAdapter {
     return {
       externalId: ref.externalId,
       name: program.name,
-      degreeType: program.degree_types[0]?.name ?? null,
+      degreeType: cleanDegreeType(program.degree_types[0]?.name),
       faculty,
       department,
       description: overview || null,
