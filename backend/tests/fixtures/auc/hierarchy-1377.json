@@ -1,0 +1,730 @@
+{
+ "id": 1377,
+ "legacy-id": 2078,
+ "catalog-id": 32,
+ "name": "Youssef Nabih Department of Accounting",
+ "status": {
+  "catalog-id": 32,
+  "active": true,
+  "searchable": true,
+  "visible": true
+ },
+ "hierarchy_type": "Department",
+ "parents": [
+  {
+   "id": 1376,
+   "legacy-id": 2077,
+   "catalog-id": 32,
+   "name": "Onsi Sawiris School of Business",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "hierarchy_type": "School",
+   "url": "/api/aucegypt/catalog/32/hierarchy/1376/"
+  }
+ ],
+ "courses": [
+  {
+   "id": 59963,
+   "legacy-id": 117544,
+   "catalog-id": 32,
+   "title": "ACCT 2001  -  Financial Accounting (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3256,
+     "legacy-id": 3996,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Accounting",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 1,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/59963/"
+  },
+  {
+   "id": 60063,
+   "legacy-id": 117545,
+   "catalog-id": 32,
+   "title": "ACCT 2002  -  Managerial Accounting (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3256,
+     "legacy-id": 3996,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Accounting",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 1,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/60063/"
+  },
+  {
+   "id": 60064,
+   "legacy-id": 117546,
+   "catalog-id": 32,
+   "title": "ACCT 3001  -  Intermediate Accounting I (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3256,
+     "legacy-id": 3996,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Accounting",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 1,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/60064/"
+  },
+  {
+   "id": 60065,
+   "legacy-id": 117547,
+   "catalog-id": 32,
+   "title": "ACCT 3002  -  Intermediate Accounting II (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3256,
+     "legacy-id": 3996,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Accounting",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 1,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/60065/"
+  },
+  {
+   "id": 60066,
+   "legacy-id": 117548,
+   "catalog-id": 32,
+   "title": "ACCT 3003  -  Advanced Accounting (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3256,
+     "legacy-id": 3996,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Accounting",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 1,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/60066/"
+  },
+  {
+   "id": 60067,
+   "legacy-id": 117549,
+   "catalog-id": 32,
+   "title": "ACCT 3004  -  Cost Accounting (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3256,
+     "legacy-id": 3996,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Accounting",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 1,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/60067/"
+  },
+  {
+   "id": 60068,
+   "legacy-id": 117550,
+   "catalog-id": 32,
+   "title": "ACCT 3005  -  Auditing (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3256,
+     "legacy-id": 3996,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Accounting",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 1,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/60068/"
+  },
+  {
+   "id": 60069,
+   "legacy-id": 117551,
+   "catalog-id": 32,
+   "title": "ACCT 3006  -  Principles of Taxation (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3256,
+     "legacy-id": 3996,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Accounting",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 1,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/60069/"
+  },
+  {
+   "id": 60070,
+   "legacy-id": 117552,
+   "catalog-id": 32,
+   "title": "ACCT 4001  -  Contemporary Issues in Auditing and Forensic Accounting (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3256,
+     "legacy-id": 3996,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Accounting",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 1,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/60070/"
+  },
+  {
+   "id": 60071,
+   "legacy-id": 117553,
+   "catalog-id": 32,
+   "title": "ACCT 4002  -  Special Topics in Tax Accounting (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3256,
+     "legacy-id": 3996,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Accounting",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 1,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/60071/"
+  },
+  {
+   "id": 60072,
+   "legacy-id": 117554,
+   "catalog-id": 32,
+   "title": "ACCT 4005  -  Contemporary Issues in Financial Reporting (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3256,
+     "legacy-id": 3996,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Accounting",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 1,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/60072/"
+  },
+  {
+   "id": 60073,
+   "legacy-id": 117555,
+   "catalog-id": 32,
+   "title": "ACCT 4070  -  Special Topics in Accounting (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3256,
+     "legacy-id": 3996,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Accounting",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 1,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/60073/"
+  },
+  {
+   "id": 60074,
+   "legacy-id": 117556,
+   "catalog-id": 32,
+   "title": "ACCT 4075  -  Independent Study in Accounting (1-3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3256,
+     "legacy-id": 3996,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Accounting",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 1,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/60074/"
+  },
+  {
+   "id": 60075,
+   "legacy-id": 117557,
+   "catalog-id": 32,
+   "title": "ACCT 5201  -  Financial Reporting and Analysis (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3256,
+     "legacy-id": 3996,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Accounting",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 1,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/60075/"
+  },
+  {
+   "id": 60076,
+   "legacy-id": 117558,
+   "catalog-id": 32,
+   "title": "ACCT 5301  -  Managerial Accounting for Decision Making (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3256,
+     "legacy-id": 3996,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Accounting",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 1,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/60076/"
+  },
+  {
+   "id": 62797,
+   "legacy-id": 119273,
+   "catalog-id": 32,
+   "title": "ACCT 5370  -  Selected Topics in Accounting (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3256,
+     "legacy-id": 3996,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Accounting",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 1,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62797/"
+  },
+  {
+   "id": 62798,
+   "legacy-id": 119274,
+   "catalog-id": 32,
+   "title": "ACCT 5375  -  Independent Study in Accounting (1-3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3256,
+     "legacy-id": 3996,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Accounting",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 1,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62798/"
+  },
+  {
+   "id": 62925,
+   "legacy-id": 119409,
+   "catalog-id": 32,
+   "title": "ACCT 4000  -  Automated Financial Accounting (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3256,
+     "legacy-id": 3996,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Accounting",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 1,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62925/"
+  },
+  {
+   "id": 63157,
+   "legacy-id": 119649,
+   "catalog-id": 32,
+   "title": "ACCT 5211  -  Accounting for Managers (1.5 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3256,
+     "legacy-id": 3996,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Accounting",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 1,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/63157/"
+  },
+  {
+   "id": 63190,
+   "legacy-id": 119682,
+   "catalog-id": 32,
+   "title": "ACCT 4004  -  Financial Statement Analysis and Sustainability Reporting (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3256,
+     "legacy-id": 3996,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Accounting",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 1,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/63190/"
+  },
+  {
+   "id": 63229,
+   "legacy-id": 119721,
+   "catalog-id": 32,
+   "title": "ACCT 3007  -  Accounting Analytics (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3256,
+     "legacy-id": 3996,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Accounting",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 1,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/63229/"
+  }
+ ],
+ "description": "<p><span>Emeriti Professor: S. Farag<br />\r\nProfessors: A. Abdel-Meguid, M. Basouny (Department Chair), K. Dahawy, M. Hegazy, K. Samaha, N. Shehata<br />\r\nAssociate Professors: A. Abdel-zaher, A. Elbayoumi, M. El Helaly<br />\r\nAssistant Professor: D. El Bassionuy</span></p>\r\n",
+ "options": "{\"searchable\":1}",
+ "college-types": [],
+ "department-types": [],
+ "created": "2026-06-07 10:59:16",
+ "modified": "2026-08-06 07:01:09"
+}

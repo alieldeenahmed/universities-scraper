@@ -1,0 +1,3601 @@
+{
+ "id": 1381,
+ "legacy-id": 2082,
+ "catalog-id": 32,
+ "name": "The Sheikh Hassan Abbas Sharbatly Department of Arab and Islamic Civilizations",
+ "status": {
+  "catalog-id": 32,
+  "active": true,
+  "searchable": false,
+  "visible": true
+ },
+ "hierarchy_type": "Department",
+ "parents": [
+  {
+   "id": 1380,
+   "legacy-id": 2081,
+   "catalog-id": 32,
+   "name": "School of Humanities and Social Sciences",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "hierarchy_type": "School",
+   "url": "/api/aucegypt/catalog/32/hierarchy/1380/"
+  }
+ ],
+ "courses": [
+  {
+   "id": 60297,
+   "legacy-id": 117684,
+   "catalog-id": 32,
+   "title": "ARIC 1101  -  Children's Literature and Cultural Representations (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3259,
+     "legacy-id": 3999,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Arab and Islamic Civilizations",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 5,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/60297/"
+  },
+  {
+   "id": 60298,
+   "legacy-id": 117685,
+   "catalog-id": 32,
+   "title": "ARIC 1099  -  Selected Topics for Core Curriculum (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3259,
+     "legacy-id": 3999,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Arab and Islamic Civilizations",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 5,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/60298/"
+  },
+  {
+   "id": 60299,
+   "legacy-id": 117686,
+   "catalog-id": 32,
+   "title": "ARIC 2101  -  Classical Arabic Literature (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3259,
+     "legacy-id": 3999,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Arab and Islamic Civilizations",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 5,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/60299/"
+  },
+  {
+   "id": 60300,
+   "legacy-id": 117687,
+   "catalog-id": 32,
+   "title": "ARIC 2102  -  Modern Arabic Literature (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3259,
+     "legacy-id": 3999,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Arab and Islamic Civilizations",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 5,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/60300/"
+  },
+  {
+   "id": 60301,
+   "legacy-id": 117688,
+   "catalog-id": 32,
+   "title": "ARIC 2103  -  Classical Arabic Literature in Translation (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3259,
+     "legacy-id": 3999,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Arab and Islamic Civilizations",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 5,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/60301/"
+  },
+  {
+   "id": 60302,
+   "legacy-id": 117689,
+   "catalog-id": 32,
+   "title": "ARIC 2104  -  Modern Arabic Literature in Translation (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3259,
+     "legacy-id": 3999,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Arab and Islamic Civilizations",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 5,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/60302/"
+  },
+  {
+   "id": 60303,
+   "legacy-id": 117690,
+   "catalog-id": 32,
+   "title": "ARIC 2206  -  The City of Cairo (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3259,
+     "legacy-id": 3999,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Arab and Islamic Civilizations",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 5,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/60303/"
+  },
+  {
+   "id": 60304,
+   "legacy-id": 117691,
+   "catalog-id": 32,
+   "title": "ARIC 2346  -  Survey of Arab History (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3259,
+     "legacy-id": 3999,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Arab and Islamic Civilizations",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 5,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/60304/"
+  },
+  {
+   "id": 60305,
+   "legacy-id": 117692,
+   "catalog-id": 32,
+   "title": "ARIC 2271  -  Islamic Art And Architecture (1250-1800) (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3259,
+     "legacy-id": 3999,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Arab and Islamic Civilizations",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 5,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/60305/"
+  },
+  {
+   "id": 60306,
+   "legacy-id": 117693,
+   "catalog-id": 32,
+   "title": "ARIC 2097  -  Selected Topics for the Core Curriculum in Arab World Studies (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3259,
+     "legacy-id": 3999,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Arab and Islamic Civilizations",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 5,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/60306/"
+  },
+  {
+   "id": 60307,
+   "legacy-id": 117694,
+   "catalog-id": 32,
+   "title": "ARIC 3104  -  Arabic Literature and Gender (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3259,
+     "legacy-id": 3999,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Arab and Islamic Civilizations",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 5,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/60307/"
+  },
+  {
+   "id": 60308,
+   "legacy-id": 117695,
+   "catalog-id": 32,
+   "title": "ARIC 3106  -  Arabic Literature and Film (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3259,
+     "legacy-id": 3999,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Arab and Islamic Civilizations",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 5,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/60308/"
+  },
+  {
+   "id": 60309,
+   "legacy-id": 117696,
+   "catalog-id": 32,
+   "title": "ARIC 3107  -  The Writer and the State (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3259,
+     "legacy-id": 3999,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Arab and Islamic Civilizations",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 5,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/60309/"
+  },
+  {
+   "id": 60310,
+   "legacy-id": 117697,
+   "catalog-id": 32,
+   "title": "ARIC 3108  -  Colloquial and Folk Literature (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3259,
+     "legacy-id": 3999,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Arab and Islamic Civilizations",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 5,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/60310/"
+  },
+  {
+   "id": 60311,
+   "legacy-id": 117698,
+   "catalog-id": 32,
+   "title": "ARIC 3097  -  Selected Themes and Topics in Arabic Literature (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3259,
+     "legacy-id": 3999,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Arab and Islamic Civilizations",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 5,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/60311/"
+  },
+  {
+   "id": 60312,
+   "legacy-id": 117699,
+   "catalog-id": 32,
+   "title": "ARIC 3197  -  Selected Themes and Topics in Arabic Literature in Translation (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3259,
+     "legacy-id": 3999,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Arab and Islamic Civilizations",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 5,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/60312/"
+  },
+  {
+   "id": 60313,
+   "legacy-id": 117700,
+   "catalog-id": 32,
+   "title": "ARIC 3114  -  The Arabic Novel (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3259,
+     "legacy-id": 3999,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Arab and Islamic Civilizations",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 5,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/60313/"
+  },
+  {
+   "id": 60314,
+   "legacy-id": 117701,
+   "catalog-id": 32,
+   "title": "ARIC 3115  -  Arabic Drama (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3259,
+     "legacy-id": 3999,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Arab and Islamic Civilizations",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 5,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/60314/"
+  },
+  {
+   "id": 60315,
+   "legacy-id": 117702,
+   "catalog-id": 32,
+   "title": "ARIC 3116  -  The Arabic Short Story (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3259,
+     "legacy-id": 3999,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Arab and Islamic Civilizations",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 5,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/60315/"
+  },
+  {
+   "id": 60316,
+   "legacy-id": 117703,
+   "catalog-id": 32,
+   "title": "ARIC 3319  -  Islamic Spain and North Africa (711-1492 A.D.) (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3259,
+     "legacy-id": 3999,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Arab and Islamic Civilizations",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 5,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/60316/"
+  },
+  {
+   "id": 60317,
+   "legacy-id": 117704,
+   "catalog-id": 32,
+   "title": "ARIC 3020  -  Introduction to Sufism (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3259,
+     "legacy-id": 3999,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Arab and Islamic Civilizations",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 5,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/60317/"
+  },
+  {
+   "id": 60318,
+   "legacy-id": 117705,
+   "catalog-id": 32,
+   "title": "ARIC 3321  -  Zawiyas, Harems, Coffee shops, Everyday Life in the Pre-Modern Mideast (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3259,
+     "legacy-id": 3999,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Arab and Islamic Civilizations",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 5,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/60318/"
+  },
+  {
+   "id": 60319,
+   "legacy-id": 117707,
+   "catalog-id": 32,
+   "title": "ARIC 3323  -  Marriage and the Family in the Medieval and Early Modern Middle East (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3259,
+     "legacy-id": 3999,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Arab and Islamic Civilizations",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 5,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/60319/"
+  },
+  {
+   "id": 60320,
+   "legacy-id": 117708,
+   "catalog-id": 32,
+   "title": "ARIC 3324  -  Non-Muslim Communities in the Muslim World (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3259,
+     "legacy-id": 3999,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Arab and Islamic Civilizations",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 5,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/60320/"
+  },
+  {
+   "id": 60321,
+   "legacy-id": 117709,
+   "catalog-id": 32,
+   "title": "ARIC 3325  -  Beggars, Madmen, Prostitutes: the Marginalized in Pre-Modern Mideast History. (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3259,
+     "legacy-id": 3999,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Arab and Islamic Civilizations",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 5,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/60321/"
+  },
+  {
+   "id": 60322,
+   "legacy-id": 117710,
+   "catalog-id": 32,
+   "title": "ARIC 3435  -  Introduction to the Study of Islam (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3259,
+     "legacy-id": 3999,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Arab and Islamic Civilizations",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 5,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/60322/"
+  },
+  {
+   "id": 60323,
+   "legacy-id": 117712,
+   "catalog-id": 32,
+   "title": "ARIC 3337  -  Shi'i Muslims in History (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3259,
+     "legacy-id": 3999,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Arab and Islamic Civilizations",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 5,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/60323/"
+  },
+  {
+   "id": 60324,
+   "legacy-id": 117713,
+   "catalog-id": 32,
+   "title": "ARIC 3343  -  Early Islamic History (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3259,
+     "legacy-id": 3999,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Arab and Islamic Civilizations",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 5,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/60324/"
+  },
+  {
+   "id": 60325,
+   "legacy-id": 117714,
+   "catalog-id": 32,
+   "title": "ARIC 3344  -  Caliphs and Sultans in the Age of Crusades and Mongols (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3259,
+     "legacy-id": 3999,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Arab and Islamic Civilizations",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 5,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/60325/"
+  },
+  {
+   "id": 60326,
+   "legacy-id": 117715,
+   "catalog-id": 32,
+   "title": "ARIC 3345  -  Gunpowder Empires: Ottomans, Safavids and Mughals (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3259,
+     "legacy-id": 3999,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Arab and Islamic Civilizations",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 5,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/60326/"
+  },
+  {
+   "id": 60327,
+   "legacy-id": 117716,
+   "catalog-id": 32,
+   "title": "ARIC 3405  -  Islamic Philosophy (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3259,
+     "legacy-id": 3999,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Arab and Islamic Civilizations",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 5,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/60327/"
+  },
+  {
+   "id": 60328,
+   "legacy-id": 117717,
+   "catalog-id": 32,
+   "title": "ARIC 3355  -  State and Society in the Middle East, 1699-1914 (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3259,
+     "legacy-id": 3999,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Arab and Islamic Civilizations",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 5,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/60328/"
+  },
+  {
+   "id": 60329,
+   "legacy-id": 117718,
+   "catalog-id": 32,
+   "title": "ARIC 3356  -  State and Society in the Middle East, 1906-present (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3259,
+     "legacy-id": 3999,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Arab and Islamic Civilizations",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 5,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/60329/"
+  },
+  {
+   "id": 60330,
+   "legacy-id": 117719,
+   "catalog-id": 32,
+   "title": "ARIC 3268  -  The Art of the Book in the Islamic World (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3259,
+     "legacy-id": 3999,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Arab and Islamic Civilizations",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 5,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/60330/"
+  },
+  {
+   "id": 60331,
+   "legacy-id": 117720,
+   "catalog-id": 32,
+   "title": "ARIC 3269  -  The Arts of Fire: Ceramics and Glass of the Islamic World (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3259,
+     "legacy-id": 3999,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Arab and Islamic Civilizations",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 5,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/60331/"
+  },
+  {
+   "id": 60332,
+   "legacy-id": 117721,
+   "catalog-id": 32,
+   "title": "ARIC 3272  -  Building the Sultanate: Architecture under the Ayyubids and Mamluks in Egypt and Syria (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3259,
+     "legacy-id": 3999,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Arab and Islamic Civilizations",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 5,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/60332/"
+  },
+  {
+   "id": 60333,
+   "legacy-id": 117722,
+   "catalog-id": 32,
+   "title": "ARIC 5100  -  Independent Study (1-3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3259,
+     "legacy-id": 3999,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Arab and Islamic Civilizations",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 5,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/60333/"
+  },
+  {
+   "id": 60334,
+   "legacy-id": 117723,
+   "catalog-id": 32,
+   "title": "ARIC 5110  -  Senior Seminar in Arabic Texts (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3259,
+     "legacy-id": 3999,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Arab and Islamic Civilizations",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 5,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/60334/"
+  },
+  {
+   "id": 60335,
+   "legacy-id": 117724,
+   "catalog-id": 32,
+   "title": "ARIC 5111  -  Senior Seminar in Arabic Literature in Translation (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3259,
+     "legacy-id": 3999,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Arab and Islamic Civilizations",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 5,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/60335/"
+  },
+  {
+   "id": 60336,
+   "legacy-id": 117725,
+   "catalog-id": 32,
+   "title": "ARIC 5112  -  Arabic Literary Criticism (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3259,
+     "legacy-id": 3999,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Arab and Islamic Civilizations",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 5,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/60336/"
+  },
+  {
+   "id": 60337,
+   "legacy-id": 117726,
+   "catalog-id": 32,
+   "title": "ARIC 5113  -  Sira and Hadith (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3259,
+     "legacy-id": 3999,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Arab and Islamic Civilizations",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 5,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/60337/"
+  },
+  {
+   "id": 60338,
+   "legacy-id": 117727,
+   "catalog-id": 32,
+   "title": "ARIC 5114  -  Special Studies in Arabic Texts (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3259,
+     "legacy-id": 3999,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Arab and Islamic Civilizations",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 5,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/60338/"
+  },
+  {
+   "id": 60339,
+   "legacy-id": 117728,
+   "catalog-id": 32,
+   "title": "ARIC 5141  -  Studies in the Qur'an (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3259,
+     "legacy-id": 3999,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Arab and Islamic Civilizations",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 5,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/60339/"
+  },
+  {
+   "id": 60340,
+   "legacy-id": 117729,
+   "catalog-id": 32,
+   "title": "ARIC 5142  -  Islamic Law (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3259,
+     "legacy-id": 3999,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Arab and Islamic Civilizations",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 5,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/60340/"
+  },
+  {
+   "id": 60341,
+   "legacy-id": 117730,
+   "catalog-id": 32,
+   "title": "ARIC 5131  -  Arabic Historical Literature (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3259,
+     "legacy-id": 3999,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Arab and Islamic Civilizations",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 5,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/60341/"
+  },
+  {
+   "id": 60342,
+   "legacy-id": 117731,
+   "catalog-id": 32,
+   "title": "ARIC 5132  -  Selected Topics in Coptic Studies (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3259,
+     "legacy-id": 3999,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Arab and Islamic Civilizations",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 5,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/60342/"
+  },
+  {
+   "id": 60343,
+   "legacy-id": 117732,
+   "catalog-id": 32,
+   "title": "ARIC 5133  -  Islamic Institutions (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3259,
+     "legacy-id": 3999,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Arab and Islamic Civilizations",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 5,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/60343/"
+  },
+  {
+   "id": 60344,
+   "legacy-id": 117733,
+   "catalog-id": 32,
+   "title": "ARIC 5134  -  Modern Movements in Islam (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3259,
+     "legacy-id": 3999,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Arab and Islamic Civilizations",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 5,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/60344/"
+  },
+  {
+   "id": 60345,
+   "legacy-id": 117734,
+   "catalog-id": 32,
+   "title": "ARIC 5135  -  Selected Topics in Middle Eastern History, 600-1800 AD (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3259,
+     "legacy-id": 3999,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Arab and Islamic Civilizations",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 5,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/60345/"
+  },
+  {
+   "id": 60346,
+   "legacy-id": 117735,
+   "catalog-id": 32,
+   "title": "ARIC 5136  -  Selected Topics in the History of the Modern Middle East (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3259,
+     "legacy-id": 3999,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Arab and Islamic Civilizations",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 5,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/60346/"
+  },
+  {
+   "id": 60347,
+   "legacy-id": 117736,
+   "catalog-id": 32,
+   "title": "ARIC 5101  -  Selected Topics in the History of Islamic Thought and Institutions (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3259,
+     "legacy-id": 3999,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Arab and Islamic Civilizations",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 5,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/60347/"
+  },
+  {
+   "id": 60348,
+   "legacy-id": 117737,
+   "catalog-id": 32,
+   "title": "ARIC 5121  -  Islamic Art and Architecture in India and Pakistan (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3259,
+     "legacy-id": 3999,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Arab and Islamic Civilizations",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 5,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/60348/"
+  },
+  {
+   "id": 60349,
+   "legacy-id": 117738,
+   "catalog-id": 32,
+   "title": "ARIC 5122-5123  -  Islamic Architecture in Turkey, Persia and Central Asia (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3259,
+     "legacy-id": 3999,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Arab and Islamic Civilizations",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 5,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/60349/"
+  },
+  {
+   "id": 60350,
+   "legacy-id": 117739,
+   "catalog-id": 32,
+   "title": "ARIC 5124  -  Islamic Architecture in Spain and North Africa (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3259,
+     "legacy-id": 3999,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Arab and Islamic Civilizations",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 5,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/60350/"
+  },
+  {
+   "id": 60351,
+   "legacy-id": 117740,
+   "catalog-id": 32,
+   "title": "ARIC 5125  -  Decorative Arts of the Islamic World: Metalwork, Woodwork, and Ivory (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3259,
+     "legacy-id": 3999,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Arab and Islamic Civilizations",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 5,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/60351/"
+  },
+  {
+   "id": 60352,
+   "legacy-id": 117741,
+   "catalog-id": 32,
+   "title": "ARIC 5210  -  Seminar on a Selected Work or Author in Classical Arabic Literature (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3259,
+     "legacy-id": 3999,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Arab and Islamic Civilizations",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 5,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/60352/"
+  },
+  {
+   "id": 60353,
+   "legacy-id": 117742,
+   "catalog-id": 32,
+   "title": "ARIC 5211  -  Seminar on Modern Arabic Literature: Nineteenth Century (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3259,
+     "legacy-id": 3999,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Arab and Islamic Civilizations",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 5,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/60353/"
+  },
+  {
+   "id": 60354,
+   "legacy-id": 117743,
+   "catalog-id": 32,
+   "title": "ARIC 5201  -  Bibliography and Manuscript Study (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3259,
+     "legacy-id": 3999,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Arab and Islamic Civilizations",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 5,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/60354/"
+  },
+  {
+   "id": 60355,
+   "legacy-id": 117744,
+   "catalog-id": 32,
+   "title": "ARIC 5202  -  Selected Themes in Arabic and Islamic Studies (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3259,
+     "legacy-id": 3999,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Arab and Islamic Civilizations",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 5,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/60355/"
+  },
+  {
+   "id": 60356,
+   "legacy-id": 117745,
+   "catalog-id": 32,
+   "title": "ARIC 5240  -  Seminar on Selected Topics in Qur'anic Studies (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3259,
+     "legacy-id": 3999,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Arab and Islamic Civilizations",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 5,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/60356/"
+  },
+  {
+   "id": 60357,
+   "legacy-id": 117746,
+   "catalog-id": 32,
+   "title": "ARIC 5241  -  Seminar on Selected Topics in Sira or Hadith (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3259,
+     "legacy-id": 3999,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Arab and Islamic Civilizations",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 5,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/60357/"
+  },
+  {
+   "id": 60358,
+   "legacy-id": 117747,
+   "catalog-id": 32,
+   "title": "ARIC 5242  -  Seminar on Selected Topics in Islamic Law and Legal Theory (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3259,
+     "legacy-id": 3999,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Arab and Islamic Civilizations",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 5,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/60358/"
+  },
+  {
+   "id": 60359,
+   "legacy-id": 117748,
+   "catalog-id": 32,
+   "title": "ARIC 5243  -  Selected Topics in Islamic Theology, Sufism or Philosophy (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3259,
+     "legacy-id": 3999,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Arab and Islamic Civilizations",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 5,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/60359/"
+  },
+  {
+   "id": 60360,
+   "legacy-id": 117749,
+   "catalog-id": 32,
+   "title": "ARIC 5244  -  Selected Topics in Islamic Studies (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3259,
+     "legacy-id": 3999,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Arab and Islamic Civilizations",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 5,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/60360/"
+  },
+  {
+   "id": 60361,
+   "legacy-id": 117750,
+   "catalog-id": 32,
+   "title": "ARIC 5245  -  World Religions and the Study of Religion (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3259,
+     "legacy-id": 3999,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Arab and Islamic Civilizations",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 5,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/60361/"
+  },
+  {
+   "id": 60362,
+   "legacy-id": 117751,
+   "catalog-id": 32,
+   "title": "ARIC 5230  -  Seminar on a Selected Topic in Medieval Arab/Islamic History, 600-1800 A.D. (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3259,
+     "legacy-id": 3999,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Arab and Islamic Civilizations",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 5,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/60362/"
+  },
+  {
+   "id": 60563,
+   "legacy-id": 117752,
+   "catalog-id": 32,
+   "title": "ARIC 5231  -  Seminar on the Nineteenth-Century Middle East (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3259,
+     "legacy-id": 3999,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Arab and Islamic Civilizations",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 5,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/60563/"
+  },
+  {
+   "id": 60663,
+   "legacy-id": 117753,
+   "catalog-id": 32,
+   "title": "ARIC 5232  -  Seminar on the Twentieth-Century Middle East (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3259,
+     "legacy-id": 3999,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Arab and Islamic Civilizations",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 5,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/60663/"
+  },
+  {
+   "id": 60664,
+   "legacy-id": 117754,
+   "catalog-id": 32,
+   "title": "ARIC 5220  -  Fieldwork in Islamic Architecture (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3259,
+     "legacy-id": 3999,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Arab and Islamic Civilizations",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 5,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/60664/"
+  },
+  {
+   "id": 60665,
+   "legacy-id": 117755,
+   "catalog-id": 32,
+   "title": "ARIC 5221  -  Seminar on the Architecture of a Selected Period (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3259,
+     "legacy-id": 3999,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Arab and Islamic Civilizations",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 5,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/60665/"
+  },
+  {
+   "id": 60666,
+   "legacy-id": 117756,
+   "catalog-id": 32,
+   "title": "ARIC 5200  -  Independent Study and Readings (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3259,
+     "legacy-id": 3999,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Arab and Islamic Civilizations",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 5,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/60666/"
+  },
+  {
+   "id": 60667,
+   "legacy-id": 117757,
+   "catalog-id": 32,
+   "title": "ARIC 5299  -  Research Guidance and Thesis (no cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3259,
+     "legacy-id": 3999,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Arab and Islamic Civilizations",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 5,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/60667/"
+  },
+  {
+   "id": 61959,
+   "legacy-id": 118412,
+   "catalog-id": 32,
+   "title": "MEST 4210  -  Individual Study and Selected Readings (1-3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3306,
+     "legacy-id": 4046,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Middle East Studies",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 64,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/61959/"
+  },
+  {
+   "id": 61960,
+   "legacy-id": 118413,
+   "catalog-id": 32,
+   "title": "MEST 4301  -  Special Topics in Middle East Studies (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3306,
+     "legacy-id": 4046,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Middle East Studies",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 64,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/61960/"
+  },
+  {
+   "id": 61961,
+   "legacy-id": 118414,
+   "catalog-id": 32,
+   "title": "MEST 5201  -  A Critical Introduction to Middle East Studies (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3306,
+     "legacy-id": 4046,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Middle East Studies",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 64,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/61961/"
+  },
+  {
+   "id": 61962,
+   "legacy-id": 118415,
+   "catalog-id": 32,
+   "title": "MEST 5202  -  Interdisciplinary Seminar in Middle East Studies (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3306,
+     "legacy-id": 4046,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Middle East Studies",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 64,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/61962/"
+  },
+  {
+   "id": 61963,
+   "legacy-id": 118416,
+   "catalog-id": 32,
+   "title": "MEST 5280  -  Selected Topics (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3306,
+     "legacy-id": 4046,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Middle East Studies",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 64,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/61963/"
+  },
+  {
+   "id": 61964,
+   "legacy-id": 118417,
+   "catalog-id": 32,
+   "title": "MEST 5281  -  Independent Study and Readings (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3306,
+     "legacy-id": 4046,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Middle East Studies",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 64,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/61964/"
+  },
+  {
+   "id": 61965,
+   "legacy-id": 118418,
+   "catalog-id": 32,
+   "title": "MEST 5289  -  Comprehensives (no cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3306,
+     "legacy-id": 4046,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Middle East Studies",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 64,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/61965/"
+  },
+  {
+   "id": 61966,
+   "legacy-id": 118419,
+   "catalog-id": 32,
+   "title": "MEST 5298  -  Research Methods (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3306,
+     "legacy-id": 4046,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Middle East Studies",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 64,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/61966/"
+  },
+  {
+   "id": 61967,
+   "legacy-id": 118420,
+   "catalog-id": 32,
+   "title": "MEST 5299  -  Thesis (no cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3306,
+     "legacy-id": 4046,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Middle East Studies",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 64,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/61967/"
+  },
+  {
+   "id": 62481,
+   "legacy-id": 118938,
+   "catalog-id": 32,
+   "title": "ARIC 3397  -  Selected Topics in Middle East History (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3259,
+     "legacy-id": 3999,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Arab and Islamic Civilizations",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 5,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62481/"
+  },
+  {
+   "id": 62483,
+   "legacy-id": 118940,
+   "catalog-id": 32,
+   "title": "ARIC 1300  -  Arabs and Muslims Encountering the Other (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3259,
+     "legacy-id": 3999,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Arab and Islamic Civilizations",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 5,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62483/"
+  },
+  {
+   "id": 62484,
+   "legacy-id": 118941,
+   "catalog-id": 32,
+   "title": "ARIC 2205  -  The World of Islamic Architecture (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3259,
+     "legacy-id": 3999,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Arab and Islamic Civilizations",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 5,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62484/"
+  },
+  {
+   "id": 62619,
+   "legacy-id": 119076,
+   "catalog-id": 32,
+   "title": "ARIC 3353  -  Islamic Political Thought (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3259,
+     "legacy-id": 3999,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Arab and Islamic Civilizations",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 5,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62619/"
+  },
+  {
+   "id": 62671,
+   "legacy-id": 119131,
+   "catalog-id": 32,
+   "title": "ARIC 5212  -  Seminar on Modern Arabic Literature: Twentieth Century (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3259,
+     "legacy-id": 3999,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Arab and Islamic Civilizations",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 5,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62671/"
+  },
+  {
+   "id": 62783,
+   "legacy-id": 119258,
+   "catalog-id": 32,
+   "title": "ARIC 5117  -  Translation: Theory and Practice (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3259,
+     "legacy-id": 3999,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Arab and Islamic Civilizations",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 5,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62783/"
+  },
+  {
+   "id": 62784,
+   "legacy-id": 119260,
+   "catalog-id": 32,
+   "title": "ARIC 5118  -  Translation and The Arab \"Renaissance\" (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3259,
+     "legacy-id": 3999,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Arab and Islamic Civilizations",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 5,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62784/"
+  },
+  {
+   "id": 62821,
+   "legacy-id": 119297,
+   "catalog-id": 32,
+   "title": "ARIC 2096  -  Selected Topics for the Core Curriculum in Global Studies (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3259,
+     "legacy-id": 3999,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Arab and Islamic Civilizations",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 5,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62821/"
+  },
+  {
+   "id": 62822,
+   "legacy-id": 119298,
+   "catalog-id": 32,
+   "title": "ARIC 2099  -  Selected Topics for the Core Curriculum in Humanities and Social Sciences (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3259,
+     "legacy-id": 3999,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Arab and Islamic Civilizations",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 5,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62822/"
+  },
+  {
+   "id": 62957,
+   "legacy-id": 119441,
+   "catalog-id": 32,
+   "title": "ARIC 5137  -  International Trade 1000 - 1700: Egypt and the Mediterranean - Red Sea Trade (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3259,
+     "legacy-id": 3999,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Arab and Islamic Civilizations",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 5,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62957/"
+  },
+  {
+   "id": 62958,
+   "legacy-id": 119442,
+   "catalog-id": 32,
+   "title": "ARIC 5102  -  Cairo in the Cultural Imaginary (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3259,
+     "legacy-id": 3999,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Arab and Islamic Civilizations",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 5,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62958/"
+  },
+  {
+   "id": 62959,
+   "legacy-id": 119443,
+   "catalog-id": 32,
+   "title": "ARIC 1102  -  Passionate Love in Arabic and World Literatures (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3259,
+     "legacy-id": 3999,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Arab and Islamic Civilizations",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 5,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62959/"
+  },
+  {
+   "id": 62960,
+   "legacy-id": 119444,
+   "catalog-id": 32,
+   "title": "ARIC 5103  -  Source - Criticism and Classical Arabic Literature (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3259,
+     "legacy-id": 3999,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Arab and Islamic Civilizations",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 5,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62960/"
+  },
+  {
+   "id": 62961,
+   "legacy-id": 119445,
+   "catalog-id": 32,
+   "title": "ARIC 5130  -  Poetry for Historians (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3259,
+     "legacy-id": 3999,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Arab and Islamic Civilizations",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 5,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62961/"
+  },
+  {
+   "id": 62989,
+   "legacy-id": 119473,
+   "catalog-id": 32,
+   "title": "ARIC 5127  -  Selected Topics in Islamic Art and Architecture (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3259,
+     "legacy-id": 3999,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Arab and Islamic Civilizations",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 5,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62989/"
+  },
+  {
+   "id": 62999,
+   "legacy-id": 119483,
+   "catalog-id": 32,
+   "title": "ARIC 3098  -  Selected Topics in Islamic Studies (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3259,
+     "legacy-id": 3999,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Arab and Islamic Civilizations",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 5,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62999/"
+  },
+  {
+   "id": 63012,
+   "legacy-id": 119496,
+   "catalog-id": 32,
+   "title": "ARIC 3273  -  Building Under Empire: Ottoman-Period Architecture in Egypt and Syria (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3259,
+     "legacy-id": 3999,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Arab and Islamic Civilizations",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 5,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/63012/"
+  },
+  {
+   "id": 63177,
+   "legacy-id": 119669,
+   "catalog-id": 32,
+   "title": "ARIC 3346  -  Egypt since the Arab Conquest (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3259,
+     "legacy-id": 3999,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Arab and Islamic Civilizations",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 5,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/63177/"
+  },
+  {
+   "id": 63178,
+   "legacy-id": 119670,
+   "catalog-id": 32,
+   "title": "ARIC 5219  -  Internship in Arabic and Islamic Studies (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3259,
+     "legacy-id": 3999,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Arab and Islamic Civilizations",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 5,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/63178/"
+  },
+  {
+   "id": 63179,
+   "legacy-id": 119671,
+   "catalog-id": 32,
+   "title": "ARIC 5151  -  Heritage Management and Architectural Conservation in Cairo: Theory and Practice (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3259,
+     "legacy-id": 3999,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Arab and Islamic Civilizations",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 5,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/63179/"
+  },
+  {
+   "id": 63180,
+   "legacy-id": 119672,
+   "catalog-id": 32,
+   "title": "ARIC 5150  -  On Display: Collecting and Exhibiting Art of the Islamic World (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3259,
+     "legacy-id": 3999,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Arab and Islamic Civilizations",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 5,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/63180/"
+  },
+  {
+   "id": 63181,
+   "legacy-id": 119673,
+   "catalog-id": 32,
+   "title": "ARIC 3267  -  Arts of the Loom: Carpets and Textiles of the Islamic World (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3259,
+     "legacy-id": 3999,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Arab and Islamic Civilizations",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 5,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/63181/"
+  },
+  {
+   "id": 63194,
+   "legacy-id": 119686,
+   "catalog-id": 32,
+   "title": "ARIC 3271  -  Building for Islam: Architecture of the Early Caliphates in Egypt and Syria (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3259,
+     "legacy-id": 3999,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Arab and Islamic Civilizations",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 5,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/63194/"
+  },
+  {
+   "id": 63203,
+   "legacy-id": 119695,
+   "catalog-id": 32,
+   "title": "ARIC 3109  -  The World of Mahfouz (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3259,
+     "legacy-id": 3999,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Arab and Islamic Civilizations",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 5,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/63203/"
+  },
+  {
+   "id": 63204,
+   "legacy-id": 119696,
+   "catalog-id": 32,
+   "title": "ARIC 2001  -  Religion and Politics in Islam (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3259,
+     "legacy-id": 3999,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Arab and Islamic Civilizations",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 5,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/63204/"
+  },
+  {
+   "id": 63300,
+   "legacy-id": 119794,
+   "catalog-id": 32,
+   "title": "ARIC 2270  -  Islamic Art And Architecture (650-1250) (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3259,
+     "legacy-id": 3999,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Arab and Islamic Civilizations",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 5,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/63300/"
+  },
+  {
+   "id": 63355,
+   "legacy-id": 119850,
+   "catalog-id": 32,
+   "title": "ARIC 2098  -  Selected Topics in Egypt Studies (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3259,
+     "legacy-id": 3999,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Arab and Islamic Civilizations",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 5,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/63355/"
+  }
+ ],
+ "description": "<div>Professors Emeritus: M. El Rabie, S. Mehrez</div>\r\n\r\n<p>Distinguished University Professor: N. Hanna</p>\r\n\r\n<p>Professors: A. Dallal (AUC President), M. Pomerantz (HUSS Dean), B. O'Kane, M. Serag</p>\r\n\r\n<p>Associate Professor Emeritus: H. Lutfi</p>\r\n\r\n<p>Associate Professors: A. Elbendary (Chair), D. Heshmat, A. Talib</p>\r\n\r\n<p>Assistant Professors: N. Abou Khatwa, T. EL Leithy, A. Khan</p>\r\n",
+ "options": "{\"searchable\":0}",
+ "college-types": [],
+ "department-types": [],
+ "created": "2026-06-07 10:59:16",
+ "modified": "2026-08-20 03:48:32"
+}

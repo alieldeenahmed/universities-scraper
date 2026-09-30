@@ -1,0 +1,244 @@
+{
+ "id": 5008,
+ "legacy-id": 8462,
+ "catalog-id": 32,
+ "created": "2026-06-07 14:59:19",
+ "modified": "2026-08-31 21:29:08",
+ "name": "Film (B.A.)",
+ "code": "",
+ "status": {
+  "catalog-id": 32,
+  "active": true,
+  "searchable": true,
+  "visible": true
+ },
+ "program_types": [
+  {
+   "id": 3222,
+   "legacy-id": 271,
+   "catalog-id": 32,
+   "created": "2026-06-07 10:59:16",
+   "modified": "2026-06-07 10:59:16",
+   "name": "Major",
+   "description": "",
+   "category": "program",
+   "display": false,
+   "order": 3,
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   }
+  }
+ ],
+ "degree_types": [
+  {
+   "id": 3227,
+   "legacy-id": 974,
+   "catalog-id": 32,
+   "created": "2026-06-07 10:59:16",
+   "modified": "2026-06-07 10:59:16",
+   "name": "Bachelor of Arts",
+   "description": "",
+   "category": "degree",
+   "display": false,
+   "order": 3,
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   }
+  }
+ ],
+ "description": "<h3 style=\"text-align: justify;\">Bachelor of Arts</h3>\r\n\r\n<p style=\"text-align: justify;\">The Film Major is a hybrid four-year program combining film theory, aesthetics, and practice. The program aims to graduate multi-skilled filmmakers, film practitioners, and researchers through comprehensive training and courses that adopt a cross-disciplinary approach to film theory and production, forming an integral vision of the film as a medium. The program offers extensive exposure to different film production crafts while staying up-to-date with the fast-changing film language. Our students are mentored by a team of masterful, award-winning, experienced, and diverse faculty of scholars, thinkers, filmmakers, and film practitioners who cover a wide range of disciplines in film studies and practice.</p>\r\n\r\n<p style=\"text-align: justify;\">Knowledge exchange and cultural activities within the program are fostered through a solid local, regional, and international film-related network that also creates great opportunities for students to present their work locally and worldwide. Permanent interaction between students and faculty is highly encouraged and results in a dynamic learning environment that seeds the collective practice of filmmaking while motivating students to explore their singular cinematic voices.</p>\r\n\r\n<h4 style=\"text-align: justify;\"><strong>Declaration Policy</strong></h4>\r\n\r\n<ul>\r\n\t<li style=\"text-align: justify;\">A minimum grade of B in <a href=\"#\" class=\"permalink\" data-permalink_id=\"59746\" data-legacy_id=\"242\" data-signature=\"70ce1ccd0250f0d582948a3513dc7c9d\" data-display_type=\"tooltip\" data-link_text=\"%prefix% %code%\" data-anchor_text=\"\" data-from_id=\"5008\" data-from_type=\"program\" data-to_id=\"61555\" data-to_type=\"course\" data-show_title=\"1\" data-to_legacy_id=\"118146\" data-to_url=\"/api/aucegypt/catalog/32/course/61555/\">FILM 2120</a>.</li>\r\n\t<li style=\"text-align: justify;\">A minimum grade of B in either <a href=\"#\" class=\"permalink\" data-permalink_id=\"59744\" data-legacy_id=\"1502\" data-signature=\"e55f8fd86cfcc717f61ebb3c8812f327\" data-display_type=\"tooltip\" data-link_text=\"%prefix% %code%\" data-anchor_text=\"\" data-from_id=\"5008\" data-from_type=\"program\" data-to_id=\"62993\" data-to_type=\"course\" data-show_title=\"1\" data-to_legacy_id=\"119477\" data-to_url=\"/api/aucegypt/catalog/32/course/62993/\">FILM 2121</a> or <a href=\"#\" class=\"permalink\" data-permalink_id=\"59745\" data-legacy_id=\"1528\" data-signature=\"33fceef4438012fb32b0618feeb0b02e\" data-display_type=\"tooltip\" data-link_text=\"%prefix% %code%\" data-anchor_text=\"\" data-from_id=\"5008\" data-from_type=\"program\" data-to_id=\"62992\" data-to_type=\"course\" data-show_title=\"1\" data-to_legacy_id=\"119476\" data-to_url=\"/api/aucegypt/catalog/32/course/62992/\">FILM 2123</a>.</li>\r\n\t<li style=\"text-align: justify;\">A decision regarding the declaration is made following a portfolio-based interview with the applicant.</li>\r\n\t<li style=\"text-align: justify;\">Students who do not pass the first interview can sit for another interview after they complete a third Introductory Required Course from either <a href=\"#\" class=\"permalink\" data-permalink_id=\"59744\" data-legacy_id=\"1502\" data-signature=\"e55f8fd86cfcc717f61ebb3c8812f327\" data-display_type=\"tooltip\" data-link_text=\"%prefix% %code%\" data-anchor_text=\"\" data-from_id=\"5008\" data-from_type=\"program\" data-to_id=\"62993\" data-to_type=\"course\" data-show_title=\"1\" data-to_legacy_id=\"119477\" data-to_url=\"/api/aucegypt/catalog/32/course/62993/\">FILM 2121</a> or <a href=\"#\" class=\"permalink\" data-permalink_id=\"59745\" data-legacy_id=\"1528\" data-signature=\"33fceef4438012fb32b0618feeb0b02e\" data-display_type=\"tooltip\" data-link_text=\"%prefix% %code%\" data-anchor_text=\"\" data-from_id=\"5008\" data-from_type=\"program\" data-to_id=\"62992\" data-to_type=\"course\" data-show_title=\"1\" data-to_legacy_id=\"119476\" data-to_url=\"/api/aucegypt/catalog/32/course/62992/\">FILM 2123</a> with a minimum grade of 'B'.</li>\r\n\t<li style=\"text-align: justify;\">The decision that follows the second interview is final.</li>\r\n</ul>\r\n\r\n<h4 style=\"text-align: justify;\">Degree Requirements</h4>\r\n\r\n<p style=\"text-align: justify;\">A total of 120 credits is required for the bachelor's degree in Film in the following areas: I. Core Curriculum (37 credits), II. Film Concentration Requirements (48 - 51 credits), III. Collateral Requirements (9 credits), IV. General Electives (23-26 credits).</p>\r\n",
+ "parents": [
+  {
+   "id": 1384,
+   "legacy-id": 2085,
+   "catalog-id": 32,
+   "name": "Department of the Arts",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "hierarchy_type": "Department",
+   "url": "/api/aucegypt/catalog/32/hierarchy/1384/"
+  }
+ ],
+ "locations": [],
+ "cores": [
+  {
+   "id": 21872,
+   "catalog-id": 32,
+   "legacy-id": 36025,
+   "created": "2026-06-07 14:59:19",
+   "modified": "2026-08-31 21:30:01",
+   "name": "I. Core Curriculum (37 credits)",
+   "code": "",
+   "description": "<p style=\"text-align:justify;\">The remaining 3 credit hours required to satisfy the Core Curriculum are fulfilled by completing the film major capstone course, either <a href=\"#\" class=\"permalink\" data-permalink_id=\"63718\" data-legacy_id=\"740\" data-signature=\"6ae4e19bf62ba803f1d25b0289967fd0\" data-display_type=\"tooltip\" data-link_text=\"%prefix% %code%\" data-anchor_text=\"\" data-from_id=\"21872\" data-from_type=\"core\" data-to_id=\"61663\" data-to_type=\"course\" data-show_title=\"1\" data-to_legacy_id=\"118155\" data-to_url=\"/api/aucegypt/catalog/32/course/61663/\">FILM 4250</a> or <a href=\"#\" class=\"permalink\" data-permalink_id=\"63717\" data-legacy_id=\"741\" data-signature=\"9d8e7b13cdabba31211bd9f58d411c4f\" data-display_type=\"tooltip\" data-link_text=\"%prefix% %code%\" data-anchor_text=\"\" data-from_id=\"21872\" data-from_type=\"core\" data-to_id=\"61664\" data-to_type=\"course\" data-show_title=\"1\" data-to_legacy_id=\"118156\" data-to_url=\"/api/aucegypt/catalog/32/course/61664/\">FILM 5170</a>.  </p>\n",
+   "shared": false,
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "courses": [],
+   "adhocs": [],
+   "sort_order": 264,
+   "children": []
+  },
+  {
+   "id": 21873,
+   "catalog-id": 32,
+   "legacy-id": 36026,
+   "created": "2026-06-07 14:59:19",
+   "modified": "2026-06-07 14:59:19",
+   "name": "II. Film Concentration Requirements (48 - 51 credits)",
+   "code": "",
+   "description": "<p>Students must complete the following courses:</p>\n",
+   "shared": false,
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "courses": [],
+   "adhocs": [],
+   "sort_order": 488,
+   "children": [
+    {
+     "id": 22091,
+     "catalog-id": 32,
+     "legacy-id": 36250,
+     "created": "2026-06-07 14:59:19",
+     "modified": "2026-06-07 14:59:19",
+     "name": "1. Introductory Required Courses (9 Credits)",
+     "code": "",
+     "description": "",
+     "shared": false,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     },
+     "courses": [],
+     "adhocs": [],
+     "sort_order": 1,
+     "children": []
+    },
+    {
+     "id": 21874,
+     "catalog-id": 32,
+     "legacy-id": 36027,
+     "created": "2026-06-07 14:59:19",
+     "modified": "2026-06-07 14:59:19",
+     "name": "2. Film Studies Courses (18 credits)",
+     "code": "",
+     "description": "",
+     "shared": false,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     },
+     "courses": [],
+     "adhocs": [],
+     "sort_order": 2,
+     "children": []
+    },
+    {
+     "id": 21875,
+     "catalog-id": 32,
+     "legacy-id": 36028,
+     "created": "2026-06-07 14:59:19",
+     "modified": "2026-06-07 14:59:19",
+     "name": "3. Film Production (18 credits) ",
+     "code": "",
+     "description": "",
+     "shared": false,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     },
+     "courses": [],
+     "adhocs": [],
+     "sort_order": 3,
+     "children": []
+    },
+    {
+     "id": 22092,
+     "catalog-id": 32,
+     "legacy-id": 36251,
+     "created": "2026-06-07 14:59:19",
+     "modified": "2026-06-07 14:59:19",
+     "name": "4. Capstone Courses (3-6 credits)",
+     "code": "",
+     "description": "",
+     "shared": false,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     },
+     "courses": [],
+     "adhocs": [],
+     "sort_order": 4,
+     "children": []
+    }
+   ]
+  },
+  {
+   "id": 21877,
+   "catalog-id": 32,
+   "legacy-id": 36030,
+   "created": "2026-06-07 14:59:19",
+   "modified": "2026-06-07 14:59:19",
+   "name": "IV. General Electives (23-26 Credits)",
+   "code": "",
+   "description": "",
+   "shared": false,
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "courses": [],
+   "adhocs": [],
+   "sort_order": 638,
+   "children": []
+  },
+  {
+   "id": 21876,
+   "catalog-id": 32,
+   "legacy-id": 36029,
+   "created": "2026-06-07 14:59:19",
+   "modified": "2026-06-07 14:59:19",
+   "name": "III. Collateral Requirements (9 credits)",
+   "code": "",
+   "description": "<p>Choose three courses in THTR, DSGN, ARTV, MUSC, or ECLT in consultation with the advisor.</p>\n",
+   "shared": false,
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "courses": [],
+   "adhocs": [],
+   "sort_order": 767,
+   "children": []
+  }
+ ]
+}

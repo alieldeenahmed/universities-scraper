@@ -1,0 +1,243 @@
+{
+ "id": 4870,
+ "legacy-id": 8323,
+ "catalog-id": 32,
+ "created": "2026-06-07 14:59:19",
+ "modified": "2026-08-31 21:29:06",
+ "name": "Accounting (B.A.C.)",
+ "code": "UGBAC",
+ "status": {
+  "catalog-id": 32,
+  "active": true,
+  "searchable": true,
+  "visible": true
+ },
+ "program_types": [
+  {
+   "id": 3222,
+   "legacy-id": 271,
+   "catalog-id": 32,
+   "created": "2026-06-07 10:59:16",
+   "modified": "2026-06-07 10:59:16",
+   "name": "Major",
+   "description": "",
+   "category": "program",
+   "display": false,
+   "order": 3,
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   }
+  }
+ ],
+ "degree_types": [
+  {
+   "id": 3226,
+   "legacy-id": 973,
+   "catalog-id": 32,
+   "created": "2026-06-07 10:59:16",
+   "modified": "2026-06-07 10:59:16",
+   "name": "Bachelor of Accounting",
+   "description": "",
+   "category": "degree",
+   "display": false,
+   "order": 1,
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   }
+  }
+ ],
+ "description": "<p style=\"text-align:justify\">Accounting is both a primary communication channel between business entities and its stakeholders and a comprehensive information system which supports effective decision making. The role of the accounting profession is becoming more pronounced in today's business environment which is characterized by scarce resources, fierce rivalry, complex transactions and increased public scrutiny. Furthermore, auditors are considered the key deterrent to managerial malfeasance, a phenomenon which adversely affects markets and investors' confidence. Students pursuing the Bachelor of Accounting will be exposed to a comprehensive set of technical knowledge of financial accounting, cost/managerial accounting, taxation, and auditing. Ethical considerations, corporate governance and financial transparency issues are covered throughout the course offerings.<br />\r\n<br />\r\nAccounting graduates are qualified to work within different professional capacities at corporate multinationals, Big 4 auditing firms, banks, consulting firms, and other types of organizations. In addition, recent graduates of the program have attained, or are currently pursuing, professional certifications such as the Certified Public Accountant (CPA), the Chartered Financial Analyst (CFA), the Certified Management Accountant (CMA), and the Association of Chartered Certified Accountants (ACCA) qualification, in addition to other postgraduate studies.<br />\r\n<br />\r\nThe objective of the Bachelor of Accounting degree is to provide conceptual and practical knowledge to graduates who will prepare, report and analyse economic and financial information used for making sound managerial decisions.</p>\r\n\r\n<h4 style=\"text-align:justify\"><strong>Program Declaration Policy</strong></h4>\r\n\r\n<p style=\"text-align:justify\">Students now have two pathways to declare their major in Accounting:</p>\r\n\r\n<p style=\"text-align:justify\"><strong>Option 1: Declaration Upon Admission (From the Gate)</strong></p>\r\n\r\n<p style=\"text-align: justify;\">Qualified students, who have fulfilled AUC admission requirements, may apply to declare their major at the time of admission. Selection is competitive, and will be decided after evaluating:</p>\r\n\r\n<ul>\r\n\t<li>High school grades</li>\r\n\t<li>Aptitude Test score (ASSESS or ITB Business)</li>\r\n\t<li>Interview</li>\r\n</ul>\r\n\r\n<p style=\"text-align:justify\"><strong>Option 2: Declaration After Enrollment</strong></p>\r\n\r\n<p style=\"text-align:justify\">Students who do not declare upon admission may follow the standard declaration process after entering AUC. Students must complete 27 credit hours of study, including the courses listed in (1) below. Students who have successfully completed these courses, with the minimum required grades (where applicable), and who meet the minimum major weighted grade point average (GPA) as determined by the department, will be accepted in the major.</p>\r\n\r\n<p style=\"text-align:justify\"><br />\r\n1. Required Courses to be completed to declare Accounting as a major<br />\r\n<br />\r\n<a href=\"#\" class=\"permalink\" data-permalink_id=\"59300\" data-legacy_id=\"20\" data-signature=\"e6e048bf817b6f9182a3dbeb849e8570\" data-display_type=\"tooltip\" data-link_text=\" %title%\" data-anchor_text=\"\" data-from_id=\"4870\" data-from_type=\"program\" data-to_id=\"59963\" data-to_type=\"course\" data-show_title=\"1\" data-to_legacy_id=\"117544\" data-to_url=\"/api/aucegypt/catalog/32/course/59963/\"> ACCT 2001  -  Financial Accounting (3 cr.)</a>  with a minimum grade of B<br />\r\n<a href=\"#\" class=\"permalink\" data-permalink_id=\"59298\" data-legacy_id=\"24\" data-signature=\"65d56500fcdf241c719d235524b49792\" data-display_type=\"tooltip\" data-link_text=\" %title%\" data-anchor_text=\"\" data-from_id=\"4870\" data-from_type=\"program\" data-to_id=\"60063\" data-to_type=\"course\" data-show_title=\"1\" data-to_legacy_id=\"117545\" data-to_url=\"/api/aucegypt/catalog/32/course/60063/\"> ACCT 2002  -  Managerial Accounting (3 cr.)</a>  with a minimum grade of B<br />\r\n<a href=\"#\" class=\"permalink\" data-permalink_id=\"59302\" data-legacy_id=\"183\" data-signature=\"0a02594c9253764fd45f71fb875626fa\" data-display_type=\"tooltip\" data-link_text=\" %title%\" data-anchor_text=\"\" data-from_id=\"4870\" data-from_type=\"program\" data-to_id=\"61223\" data-to_type=\"course\" data-show_title=\"1\" data-to_legacy_id=\"118014\" data-to_url=\"/api/aucegypt/catalog/32/course/61223/\"> ECON 2011  -  Introduction to Microeconomics (3 cr.)</a> or <a href=\"#\" class=\"permalink\" data-permalink_id=\"59303\" data-legacy_id=\"182\" data-signature=\"41e4909d8cc61326d65f8c32d9120d11\" data-display_type=\"tooltip\" data-link_text=\" %title%\" data-anchor_text=\"\" data-from_id=\"4870\" data-from_type=\"program\" data-to_id=\"61222\" data-to_type=\"course\" data-show_title=\"1\" data-to_legacy_id=\"118013\" data-to_url=\"/api/aucegypt/catalog/32/course/61222/\"> ECON 2021  -  Introduction to Macroeconomics (3 cr.)</a><br />\r\n<a href=\"#\" class=\"permalink\" data-permalink_id=\"59299\" data-legacy_id=\"1024\" data-signature=\"b1897aca46a73a2a6c8e7ea020d3b028\" data-display_type=\"tooltip\" data-link_text=\" %title%\" data-anchor_text=\"\" data-from_id=\"4870\" data-from_type=\"program\" data-to_id=\"62656\" data-to_type=\"course\" data-show_title=\"1\" data-to_legacy_id=\"119113\" data-to_url=\"/api/aucegypt/catalog/32/course/62656/\"> MACT 2222  -  Statistics for Business (3 cr.)</a> <br />\r\n<br />\r\n2. Calculation of the Major Weighted Grade Point Average</p>\r\n\r\n<p style=\"text-align:justify\">The major weighted Grade Point Average = Overall GPA at time of declaration x 60% + (Average GPA in <a href=\"#\" class=\"permalink\" data-permalink_id=\"59301\" data-legacy_id=\"20\" data-signature=\"e497e925f6cdc494d74282a3690d1f3d\" data-display_type=\"tooltip\" data-link_text=\"%prefix% %code%\" data-anchor_text=\"\" data-from_id=\"4870\" data-from_type=\"program\" data-to_id=\"59963\" data-to_type=\"course\" data-show_title=\"1\" data-to_legacy_id=\"117544\" data-to_url=\"/api/aucegypt/catalog/32/course/59963/\">ACCT 2001</a> and <a href=\"#\" class=\"permalink\" data-permalink_id=\"59297\" data-legacy_id=\"24\" data-signature=\"567ffa3a2768cd4a08269e2241f65fff\" data-display_type=\"tooltip\" data-link_text=\"%prefix% %code%\" data-anchor_text=\"\" data-from_id=\"4870\" data-from_type=\"program\" data-to_id=\"60063\" data-to_type=\"course\" data-show_title=\"1\" data-to_legacy_id=\"117545\" data-to_url=\"/api/aucegypt/catalog/32/course/60063/\">ACCT 2002</a>) x 40%.<br />\r\n<br />\r\n3. The minimum major Weighted Grade Point Average</p>\r\n\r\n<p style=\"text-align:justify\">Admission to the Accounting major is competitive. Eligible students will be ranked and selected based on their major weighted grade point average. Additional combination of discipline relevant factors and evidence of interest in the field of Accounting through personal statements and/or interviews will be used to determine acceptance into the major.</p>\r\n\r\n<p style=\"text-align:justify\">Students must complete a minimum of 127 credit hours for the Bachelor of Accounting degree.</p>\r\n\r\n<p style=\"text-align:justify\">Students who seek the Bachelor of Accounting degree are not permitted to minor in Business Administration.</p>\r\n",
+ "parents": [
+  {
+   "id": 1377,
+   "legacy-id": 2078,
+   "catalog-id": 32,
+   "name": "Youssef Nabih Department of Accounting",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "hierarchy_type": "Department",
+   "url": "/api/aucegypt/catalog/32/hierarchy/1377/"
+  }
+ ],
+ "locations": [],
+ "cores": [
+  {
+   "id": 21393,
+   "catalog-id": 32,
+   "legacy-id": 35535,
+   "created": "2026-06-07 14:59:19",
+   "modified": "2026-08-31 21:29:56",
+   "name": "Core Curriculum (37 credits)",
+   "code": "",
+   "description": "<p>The remaining 3 credit hours required to satisfy the Core are fulfilled by completing the course <a href=\"#\" class=\"permalink\" data-permalink_id=\"63497\" data-legacy_id=\"717\" data-signature=\"8edcc3f2a1bf98d62d3e6c95d146ba0b\" data-display_type=\"tooltip\" data-link_text=\"%title%\" data-anchor_text=\"\" data-from_id=\"21393\" data-from_type=\"core\" data-to_id=\"60072\" data-to_type=\"course\" data-show_title=\"1\" data-to_legacy_id=\"117554\" data-to_url=\"/api/aucegypt/catalog/32/course/60072/\">ACCT 4005  -  Contemporary Issues in Financial Reporting (3 cr.)</a>.</p>\n",
+   "shared": false,
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "courses": [],
+   "adhocs": [],
+   "sort_order": 310,
+   "children": []
+  },
+  {
+   "id": 21394,
+   "catalog-id": 32,
+   "legacy-id": 35536,
+   "created": "2026-06-07 14:59:19",
+   "modified": "2026-06-07 14:59:19",
+   "name": "Collateral Requirements (12 credits)",
+   "code": "",
+   "description": "<p>All students seeking a Bachelor of Accounting degree are required to complete the following collateral requirements (12 credits):</p>\n",
+   "shared": false,
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "courses": [],
+   "adhocs": [],
+   "sort_order": 525,
+   "children": []
+  },
+  {
+   "id": 21395,
+   "catalog-id": 32,
+   "legacy-id": 35537,
+   "created": "2026-06-07 14:59:19",
+   "modified": "2026-06-07 14:59:19",
+   "name": "Management Requirements (9 credits)",
+   "code": "",
+   "description": "",
+   "shared": false,
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "courses": [],
+   "adhocs": [],
+   "sort_order": 666,
+   "children": []
+  },
+  {
+   "id": 21950,
+   "catalog-id": 32,
+   "legacy-id": 36106,
+   "created": "2026-06-07 14:59:19",
+   "modified": "2026-06-07 14:59:19",
+   "name": "Marketing Requirements (3 cr.)",
+   "code": "",
+   "description": "",
+   "shared": false,
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "courses": [],
+   "adhocs": [],
+   "sort_order": 743,
+   "children": []
+  },
+  {
+   "id": 21396,
+   "catalog-id": 32,
+   "legacy-id": 35538,
+   "created": "2026-06-07 14:59:19",
+   "modified": "2026-06-07 14:59:19",
+   "name": "Finance Requirements (12 credits)",
+   "code": "",
+   "description": "",
+   "shared": false,
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "courses": [],
+   "adhocs": [],
+   "sort_order": 778,
+   "children": []
+  },
+  {
+   "id": 21397,
+   "catalog-id": 32,
+   "legacy-id": 35539,
+   "created": "2026-06-07 14:59:19",
+   "modified": "2026-06-07 14:59:19",
+   "name": "Management of Information Systems Requirements (3 credits)",
+   "code": "",
+   "description": "",
+   "shared": false,
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "courses": [],
+   "adhocs": [],
+   "sort_order": 799,
+   "children": []
+  },
+  {
+   "id": 21398,
+   "catalog-id": 32,
+   "legacy-id": 35540,
+   "created": "2026-06-07 14:59:19",
+   "modified": "2026-06-07 14:59:19",
+   "name": "Accounting Requirements (42 credits)",
+   "code": "",
+   "description": "",
+   "shared": false,
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "courses": [],
+   "adhocs": [],
+   "sort_order": 816,
+   "children": []
+  },
+  {
+   "id": 21399,
+   "catalog-id": 32,
+   "legacy-id": 35541,
+   "created": "2026-06-07 14:59:19",
+   "modified": "2026-08-31 21:29:56",
+   "name": "Electives (9 credits)",
+   "code": "",
+   "description": "<p style=\"text-align:justify;\"><strong>CO-OP (3 cr.)</strong></p>\n\n<p style=\"text-align:justify;\">Students majoring in Accounting (B.A.C.) who meet other relevant criteria are eligible to apply for the optional  <a href=\"#\" class=\"permalink\" data-permalink_id=\"63499\" data-legacy_id=\"1743\" data-signature=\"691a28b0d06974f93d8e19190224a4cf\" data-display_type=\"tooltip\" data-link_text=\" %title%\" data-anchor_text=\"\" data-from_id=\"21399\" data-from_type=\"core\" data-to_id=\"63175\" data-to_type=\"course\" data-show_title=\"1\" data-to_legacy_id=\"119667\" data-to_url=\"/api/aucegypt/catalog/32/course/63175/\"> BUSC 4000  -  Experiential Learning : CO-OP (3 cr.)</a> that counts towards their general electives. Selection is highly competitive, subject to limited capacity, and based on criteria set by the School of Business. Students enrolled in  <a href=\"#\" class=\"permalink\" data-permalink_id=\"63498\" data-legacy_id=\"1743\" data-signature=\"d788d37f3e0636cb9bc6856541d5c00c\" data-display_type=\"tooltip\" data-link_text=\" %prefix% %code%\" data-anchor_text=\"\" data-from_id=\"21399\" data-from_type=\"core\" data-to_id=\"63175\" data-to_type=\"course\" data-show_title=\"1\" data-to_legacy_id=\"119667\" data-to_url=\"/api/aucegypt/catalog/32/course/63175/\"> BUSC 4000</a> are only permitted to concurrently enroll in the seminar course <a href=\"#\" class=\"permalink\" data-permalink_id=\"63500\" data-legacy_id=\"1870\" data-signature=\"ab0296e3441243bca3f1b8c0cb04858d\" data-display_type=\"tooltip\" data-link_text=\" %title%\" data-anchor_text=\"\" data-from_id=\"21399\" data-from_type=\"core\" data-to_id=\"63316\" data-to_type=\"course\" data-show_title=\"1\" data-to_legacy_id=\"119810\" data-to_url=\"/api/aucegypt/catalog/32/course/63316/\"> BUSC 4001  -  Business 360 (3 cr.)</a> that counts towards their electives. Enrollment in this extra course is optional and subject to the approval of the CO-OP faculty mentor.</p>\n",
+   "shared": false,
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "courses": [],
+   "adhocs": [],
+   "sort_order": 828,
+   "children": []
+  }
+ ]
+}

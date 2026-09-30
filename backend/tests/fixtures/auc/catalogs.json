@@ -1,0 +1,19 @@
+{
+ "count": 2,
+ "catalog-list": [
+  {
+   "id": 32,
+   "legacy-id": 45,
+   "name": "2026-2027 Academic Catalog",
+   "published": true,
+   "archived": false
+  },
+  {
+   "id": 19,
+   "legacy-id": 44,
+   "name": "2025-2026 Academic Catalog",
+   "published": true,
+   "archived": true
+  }
+ ]
+}

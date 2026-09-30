@@ -1,0 +1,265 @@
+{
+ "id": 4899,
+ "legacy-id": 8352,
+ "catalog-id": 32,
+ "created": "2026-06-07 14:59:19",
+ "modified": "2026-08-31 21:29:06",
+ "name": "Computer Engineering with specializations in Embedded Systems, Artificial Intelligence and Cybersecurity (B.S)",
+ "code": "",
+ "status": {
+  "catalog-id": 32,
+  "active": true,
+  "searchable": true,
+  "visible": true
+ },
+ "program_types": [
+  {
+   "id": 3222,
+   "legacy-id": 271,
+   "catalog-id": 32,
+   "created": "2026-06-07 10:59:16",
+   "modified": "2026-06-07 10:59:16",
+   "name": "Major",
+   "description": "",
+   "category": "program",
+   "display": false,
+   "order": 3,
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   }
+  }
+ ],
+ "degree_types": [
+  {
+   "id": 3229,
+   "legacy-id": 976,
+   "catalog-id": 32,
+   "created": "2026-06-07 10:59:16",
+   "modified": "2026-06-07 10:59:16",
+   "name": "Bachelor of Science",
+   "description": "",
+   "category": "degree",
+   "display": false,
+   "order": 9,
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   }
+  }
+ ],
+ "description": "<h3>Bachelor of Science in Computer Engineering with optional specializations in Embedded Systems, Artificial Intelligence and Cybersecurity</h3>\r\n\r\n<p style=\"text-align:justify\">Computer engineering is defined as the discipline that embodies the science and technology of design, construction, implementation, and maintenance of software and hardware components of modern computing systems and computer-controlled equipment. It is solidly grounded in the theories and principles of computing, mathematics, science, and engineering and it applies these theories and principles to solve technical problems through the design of computing hardware, software, networks, and processes. Computer engineers are involved in the design of computer-based systems which includes (in addition to systems for portable, desktop and client/server environments and communications devices) distributed computing environments and embedded systems just to name a few. The convergence of several established technologies (such as television, telecommunications and networking infrastructures) resulted in the creation of massive challenges and opportunities for computer engineers.</p>\r\n\r\n<p style=\"text-align:justify\">The undergraduate program in computer engineering is to produce graduates with a broad perspective in both software and hardware topics relevant to computer systems engineering. It provides the foundation and areas of specialization necessary to analyze, design and evaluate systems software, middleware and software/hardware architectures and interfaces. The specific objectives of the program are to: educate students with breadth of knowledge in computer engineering that would allow them to contribute to computing projects individually or as members of multidisciplinary teams with emphasis on the creative applications of scientific knowledge in the analysis, design, and implementation of economical computer software and hardware systems; introduce students to a broad spectrum of computer engineering topics, with concentration in one or more computing areas of their choice; prepare students to cope with, and improve on, the ever-evolving discipline of computer engineering and state-of-the-art technologies in the industry of software and hardware systems. This is achieved through enabling students to integrate various analysis and design methodologies, models, techniques, and tools to develop software/hardware systems and their interfaces at the edge of technology; train students to communicate effectively, think critically, and recognize and consider the impact of computing solutions in a global and societal context with ability to understand and be sensitive to other cultures; motivate students to engage in life-long learning, develop their ability to pursue graduate studies in computer science, computer engineering, or other related areas, and develop students who are creative, possess qualities of leadership, and committed to professional and ethical conduct.</p>\r\n\r\n<p style=\"text-align:justify\">The Computer Engineering (B.S.) program is accredited by the Engineering Accreditation Commission of <a href=\"https://www.abet.org/\">ABET</a>, under the commission's General Criteria and the Program Criteria for the Electrical, Computer, Communications, Telecommunication(s) and Similarly Named Engineering Programs.</p>\r\n\r\n<p style=\"text-align:justify\">The Computer Engineering (B.S.) program has an equivalence from the Supreme Council of Universities in Egypt.</p>\r\n\r\n<p style=\"text-align:justify\"><strong>Program Objectives</strong></p>\r\n\r\n<p style=\"text-align:justify\">The computer engineering program at AUC graduates a computer engineer who, within few years of graduation, fulfills societal needs, with consideration to ethical and environmental issues, in one or more of the following roles:</p>\r\n\r\n<ol start=\"1\">\r\n\t<li style=\"text-align:justify\">A professional team member in a multidisciplinary environment, local or global.</li>\r\n\t<li style=\"text-align:justify\">A distinguished member of computer engineering field through promotion, or professional development.</li>\r\n\t<li style=\"text-align:justify\">A successful member of an advanced academic or research organization.</li>\r\n\t<li style=\"text-align:justify\">A successful entrepreneur.</li>\r\n</ol>\r\n\r\n<p style=\"text-align:justify\"><strong>Program Learning Outcomes</strong></p>\r\n\r\n<p style=\"text-align:justify\">The program enables students to achieve the following outcomes, by the time of graduation:</p>\r\n\r\n<ol start=\"1\">\r\n\t<li style=\"text-align:justify\">An ability to identify, formulate, and solve complex engineering problems by applying principles of engineering, science, and mathematics</li>\r\n\t<li style=\"text-align:justify\">An ability to apply engineering design to produce solutions that meet specified needs with consideration of public health, safety, and welfare, as well as global, cultural, social, environmental, and economic factors</li>\r\n\t<li style=\"text-align:justify\">An ability to communicate effectively with a range of audiences</li>\r\n\t<li style=\"text-align:justify\">An ability to recognize ethical and professional responsibilities in engineering situations and make informed judgments, which must consider the impact of engineering solutions in global, economic, environmental, and societal contexts</li>\r\n\t<li style=\"text-align:justify\">An ability to function effectively on a team whose members together provide leadership, create a collaborative and inclusive environment, establish goals, plan tasks, and meet objectives</li>\r\n\t<li style=\"text-align:justify\">An ability to develop and conduct appropriate experimentation, analyze and interpret data, and use engineering judgment to draw conclusions</li>\r\n\t<li style=\"text-align:justify\">An ability to acquire and apply new knowledge as needed, using appropriate learning strategies.</li>\r\n</ol>\r\n\r\n<p><strong>Declaration of the Computer Engineering Major</strong></p>\r\n\r\n<p style=\"text-align:justify\">Students accepted at AUC may either get admitted into their preferred major at the time of admission to the university (declare their major at the gate) or get admitted to the university as undeclared. Students who get admitted into a major will still have the opportunity to change their major later. Students must declare a major before completing 60 credit hours (before achieving a junior standing). Please check the eligibility criteria for declaring the Computer Engineering major below.</p>\r\n\r\n<p style=\"margin-left:40px\"><strong>Eligibility Criteria for Computer Engineering Major Declaration at the Gate</strong></p>\r\n\r\n<p style=\"margin-left:40px; text-align:justify\">The eligibility criteria for students who wish to apply to declare their major from the gate, with the declaration effective in the fall 2027 semester or the spring 2028 semester, can be accessed through the link below. Admission to the major is based on the program's student capacity.</p>\r\n\r\n<p style=\"margin-left:40px\">To view the eligibility criteria, <a href=\"#\" class=\"permalink\" data-permalink_id=\"59355\" data-legacy_id=\"1912\" data-signature=\"622624296bd9866ec4e2ac5cce3b2fe1\" data-display_type=\"same\" data-link_text=\"Click Here\" data-anchor_text=\"\" data-from_id=\"4899\" data-from_type=\"program\" data-to_id=\"1331\" data-to_type=\"content\" data-show_title=\"1\" data-to_legacy_id=\"2391\" data-to_url=\"/api/aucegypt/catalog/32/page/1331/\">Click Here</a>. </p>\r\n\r\n<p style=\"margin-left:40px\"><strong>Eligibility Criteria for Computer Engineering Major Declaration from Within</strong></p>\r\n\r\n<p style=\"margin-left:40px; text-align:justify\">The eligibility criteria for undeclared students (or students switching majors) who wish to apply to declare their major, with the declaration effective in the fall 2027 semester or the spring 2028 semester, can be accessed through the link below. Admission to the major is based on the program's student capacity.</p>\r\n\r\n<p style=\"margin-left:40px\">To view the eligibility criteria, <a href=\"#\" class=\"permalink\" data-permalink_id=\"59356\" data-legacy_id=\"1913\" data-signature=\"85c820cdaaaaab2ad3676d422f2654e3\" data-display_type=\"same\" data-link_text=\"Click Here.\" data-anchor_text=\"\" data-from_id=\"4899\" data-from_type=\"program\" data-to_id=\"1343\" data-to_type=\"content\" data-show_title=\"1\" data-to_legacy_id=\"2403\" data-to_url=\"/api/aucegypt/catalog/32/page/1343/\">Click Here.</a> </p>\r\n\r\n<p style=\"text-align:justify\">A total of 146 credits is required for the Bachelor of Science degree in Computer Engineering.</p>\r\n",
+ "parents": [
+  {
+   "id": 1400,
+   "legacy-id": 2101,
+   "catalog-id": 32,
+   "name": "Department of Computer Science and Engineering",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "hierarchy_type": "Department",
+   "url": "/api/aucegypt/catalog/32/hierarchy/1400/"
+  }
+ ],
+ "locations": [],
+ "cores": [
+  {
+   "id": 21480,
+   "catalog-id": 32,
+   "legacy-id": 35623,
+   "created": "2026-06-07 14:59:19",
+   "modified": "2026-08-31 21:29:58",
+   "name": "Core Curriculum Requirements (33 credits)",
+   "code": "",
+   "description": "<p style=\"text-align:justify;\">The remaining 7 credit hours required to satisfy the core are fulfilled by the concentration Science/lab (4 crs) and the capstone projects <a href=\"#\" class=\"permalink\" data-permalink_id=\"63535\" data-legacy_id=\"179\" data-signature=\"49d832be079b3d4ebfa736f246b3a248\" data-display_type=\"tooltip\" data-link_text=\"%prefix% %code%\" data-anchor_text=\"\" data-from_id=\"21480\" data-from_type=\"core\" data-to_id=\"61165\" data-to_type=\"course\" data-show_title=\"1\" data-to_legacy_id=\"117956\" data-to_url=\"/api/aucegypt/catalog/32/course/61165/\">CSCE 4980</a>, <a href=\"#\" class=\"permalink\" data-permalink_id=\"63536\" data-legacy_id=\"727\" data-signature=\"981c4be9dbdeafcbaed3823e0af6e7a2\" data-display_type=\"tooltip\" data-link_text=\"%prefix% %code%\" data-anchor_text=\"\" data-from_id=\"21480\" data-from_type=\"core\" data-to_id=\"61166\" data-to_type=\"course\" data-show_title=\"1\" data-to_legacy_id=\"117957\" data-to_url=\"/api/aucegypt/catalog/32/course/61166/\">CSCE 4981</a> (3 crs).</p>\n",
+   "shared": false,
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "courses": [],
+   "adhocs": [],
+   "sort_order": 1,
+   "children": []
+  },
+  {
+   "id": 21481,
+   "catalog-id": 32,
+   "legacy-id": 35624,
+   "created": "2026-06-07 14:59:19",
+   "modified": "2026-06-07 14:59:19",
+   "name": "Engineering Core Requirements (40 credits)",
+   "code": "",
+   "description": "",
+   "shared": false,
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "courses": [],
+   "adhocs": [],
+   "sort_order": 2,
+   "children": []
+  },
+  {
+   "id": 21482,
+   "catalog-id": 32,
+   "legacy-id": 35625,
+   "created": "2026-06-07 14:59:19",
+   "modified": "2026-08-18 12:00:48",
+   "name": "Concentration Requirements (61 credits)",
+   "code": "",
+   "description": "",
+   "shared": false,
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "courses": [],
+   "adhocs": [],
+   "sort_order": 3,
+   "children": []
+  },
+  {
+   "id": 21483,
+   "catalog-id": 32,
+   "legacy-id": 35626,
+   "created": "2026-06-07 14:59:19",
+   "modified": "2026-07-27 09:11:51",
+   "name": "Concentration Electives (12 credits)",
+   "code": "",
+   "description": "<p style=\"text-align:justify;\">A minimum of Twelve credit hours must be taken from the Computer Engineering elective courses to be chosen in consultation with the student's advisor (no more than 3 credits can be chosen among the MACT courses) and to satisfy the following:</p>\n",
+   "shared": false,
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "courses": [],
+   "adhocs": [],
+   "sort_order": 4,
+   "children": [
+    {
+     "id": 22099,
+     "catalog-id": 32,
+     "legacy-id": 36258,
+     "created": "2026-06-07 14:59:19",
+     "modified": "2026-08-03 10:30:15",
+     "name": "(1) For the Bachelor of Science in Computer Engineering",
+     "code": "",
+     "description": "<p>Twelve credit hours must be taken from the Computer Engineering elective courses.</p>\n",
+     "shared": false,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     },
+     "courses": [],
+     "adhocs": [],
+     "sort_order": 1,
+     "children": []
+    },
+    {
+     "id": 22100,
+     "catalog-id": 32,
+     "legacy-id": 36259,
+     "created": "2026-06-07 14:59:19",
+     "modified": "2026-08-03 10:30:15",
+     "name": "(2) For the Bachelor of Science in Computer Engineering with specialization in Embedded Systems",
+     "code": "",
+     "description": "<p style=\"text-align:justify;\">Nine credit hours from group A. The remaining three credit hours must be satisfied by other Computer Engineering elective courses.</p>\n",
+     "shared": false,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     },
+     "courses": [],
+     "adhocs": [],
+     "sort_order": 2,
+     "children": []
+    },
+    {
+     "id": 22101,
+     "catalog-id": 32,
+     "legacy-id": 36260,
+     "created": "2026-06-07 14:59:19",
+     "modified": "2026-08-03 10:30:15",
+     "name": "(3) For the Bachelor of Science in Computer Engineering with specialization in Artificial Intelligence",
+     "code": "",
+     "description": "<p style=\"text-align:justify;\">Three to six credit hours from group B and six to nine credit hours from group C, ensuring a combined minimum of 12 credit hours from these two groups.</p>\n",
+     "shared": false,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     },
+     "courses": [],
+     "adhocs": [],
+     "sort_order": 3,
+     "children": []
+    },
+    {
+     "id": 22120,
+     "catalog-id": 32,
+     "legacy-id": 36279,
+     "created": "2026-06-07 14:59:19",
+     "modified": "2026-08-03 10:30:15",
+     "name": "(4) For the Bachelor of Science in Computer Engineering with specialization in Cybersecurity",
+     "code": "",
+     "description": "<p style=\"text-align:justify;\">Six credit hours from group D and six credit hours from group E.</p>\n",
+     "shared": false,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     },
+     "courses": [],
+     "adhocs": [],
+     "sort_order": 4,
+     "children": []
+    }
+   ]
+  },
+  {
+   "id": 22102,
+   "catalog-id": 32,
+   "legacy-id": 36261,
+   "created": "2026-06-07 14:59:19",
+   "modified": "2026-07-27 09:16:59",
+   "name": "Computer Engineering Elective Courses",
+   "code": "",
+   "description": "",
+   "shared": false,
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "courses": [],
+   "adhocs": [],
+   "sort_order": 5,
+   "children": []
+  }
+ ]
+}

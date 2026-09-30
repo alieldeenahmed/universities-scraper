@@ -1,0 +1,621 @@
+{
+ "count": 11,
+ "program-list": [
+  {
+   "id": 4870,
+   "legacy-id": 8323,
+   "catalog-id": 32,
+   "created": "2026-06-07 14:59:19",
+   "modified": "2026-08-31 21:29:06",
+   "name": "Accounting (B.A.C.)",
+   "code": "UGBAC",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "program_types": [
+    {
+     "id": 3222,
+     "legacy-id": 271,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Major",
+     "description": "",
+     "category": "program",
+     "display": false,
+     "order": 3,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "degree_types": [
+    {
+     "id": 3226,
+     "legacy-id": 973,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Bachelor of Accounting",
+     "description": "",
+     "category": "degree",
+     "display": false,
+     "order": 1,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/program/4870/"
+  },
+  {
+   "id": 4871,
+   "legacy-id": 8324,
+   "catalog-id": 32,
+   "created": "2026-06-07 14:59:19",
+   "modified": "2026-08-31 21:29:06",
+   "name": "Accounting Minor",
+   "code": "",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "program_types": [
+    {
+     "id": 3223,
+     "legacy-id": 272,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Minor",
+     "description": "",
+     "category": "program",
+     "display": false,
+     "order": 4,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "degree_types": [
+    {
+     "id": 3230,
+     "legacy-id": 977,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Minors",
+     "description": "",
+     "category": "degree",
+     "display": true,
+     "order": 10,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/program/4871/"
+  },
+  {
+   "id": 4872,
+   "legacy-id": 8325,
+   "catalog-id": 32,
+   "created": "2026-06-07 14:59:19",
+   "modified": "2026-08-31 21:29:06",
+   "name": "Actuarial Science (B.S.)",
+   "code": "",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "program_types": [
+    {
+     "id": 3222,
+     "legacy-id": 271,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Major",
+     "description": "",
+     "category": "program",
+     "display": false,
+     "order": 3,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "degree_types": [
+    {
+     "id": 3229,
+     "legacy-id": 976,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Bachelor of Science",
+     "description": "",
+     "category": "degree",
+     "display": false,
+     "order": 9,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/program/4872/"
+  },
+  {
+   "id": 4880,
+   "legacy-id": 8333,
+   "catalog-id": 32,
+   "created": "2026-06-07 14:59:19",
+   "modified": "2026-06-07 14:59:19",
+   "name": "Arabic Studies (B.A.)",
+   "code": "BA",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "program_types": [
+    {
+     "id": 3222,
+     "legacy-id": 271,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Major",
+     "description": "",
+     "category": "program",
+     "display": false,
+     "order": 3,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "degree_types": [
+    {
+     "id": 3227,
+     "legacy-id": 974,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Bachelor of Arts",
+     "description": "",
+     "category": "degree",
+     "display": false,
+     "order": 3,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/program/4880/"
+  },
+  {
+   "id": 4899,
+   "legacy-id": 8352,
+   "catalog-id": 32,
+   "created": "2026-06-07 14:59:19",
+   "modified": "2026-08-31 21:29:06",
+   "name": "Computer Engineering with specializations in Embedded Systems, Artificial Intelligence and Cybersecurity (B.S)",
+   "code": "",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "program_types": [
+    {
+     "id": 3222,
+     "legacy-id": 271,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Major",
+     "description": "",
+     "category": "program",
+     "display": false,
+     "order": 3,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "degree_types": [
+    {
+     "id": 3229,
+     "legacy-id": 976,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Bachelor of Science",
+     "description": "",
+     "category": "degree",
+     "display": false,
+     "order": 9,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/program/4899/"
+  },
+  {
+   "id": 4902,
+   "legacy-id": 8355,
+   "catalog-id": 32,
+   "created": "2026-06-07 14:59:19",
+   "modified": "2026-08-18 10:46:31",
+   "name": "Computer Science (M.Sc.)",
+   "code": "",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "program_types": [
+    {
+     "id": 3221,
+     "legacy-id": 270,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Graduate",
+     "description": "",
+     "category": "program",
+     "display": false,
+     "order": 2,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "degree_types": [
+    {
+     "id": 3237,
+     "legacy-id": 984,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Master of Science",
+     "description": "",
+     "category": "degree",
+     "display": false,
+     "order": 24,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/program/4902/"
+  },
+  {
+   "id": 4903,
+   "legacy-id": 8356,
+   "catalog-id": 32,
+   "created": "2026-06-07 14:59:19",
+   "modified": "2026-06-07 14:59:19",
+   "name": "Computer Science Minor",
+   "code": "",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "program_types": [
+    {
+     "id": 3223,
+     "legacy-id": 272,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Minor",
+     "description": "",
+     "category": "program",
+     "display": false,
+     "order": 4,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "degree_types": [
+    {
+     "id": 3230,
+     "legacy-id": 977,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Minors",
+     "description": "",
+     "category": "degree",
+     "display": true,
+     "order": 10,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/program/4903/"
+  },
+  {
+   "id": 4900,
+   "legacy-id": 8353,
+   "catalog-id": 32,
+   "created": "2026-06-07 14:59:19",
+   "modified": "2026-08-31 21:29:06",
+   "name": "Computer Science with specializations in Embedded Systems, Artificial Intelligence and Cybersecurity (B.S.)",
+   "code": "",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "program_types": [
+    {
+     "id": 3222,
+     "legacy-id": 271,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Major",
+     "description": "",
+     "category": "program",
+     "display": false,
+     "order": 3,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "degree_types": [
+    {
+     "id": 3229,
+     "legacy-id": 976,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Bachelor of Science",
+     "description": "",
+     "category": "degree",
+     "display": false,
+     "order": 9,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/program/4900/"
+  },
+  {
+   "id": 5033,
+   "legacy-id": 8487,
+   "catalog-id": 32,
+   "created": "2026-06-07 14:59:19",
+   "modified": "2026-08-31 21:29:08",
+   "name": "Data Science (B.Sc.)",
+   "code": "",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "program_types": [
+    {
+     "id": 3222,
+     "legacy-id": 271,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Major",
+     "description": "",
+     "category": "program",
+     "display": false,
+     "order": 3,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "degree_types": [
+    {
+     "id": 3229,
+     "legacy-id": 976,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Bachelor of Science",
+     "description": "",
+     "category": "degree",
+     "display": false,
+     "order": 9,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/program/5033/"
+  },
+  {
+   "id": 4911,
+   "legacy-id": 8364,
+   "catalog-id": 32,
+   "created": "2026-06-07 14:59:19",
+   "modified": "2026-08-31 21:29:06",
+   "name": "Economics (B.A.)",
+   "code": "",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "program_types": [
+    {
+     "id": 3222,
+     "legacy-id": 271,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Major",
+     "description": "",
+     "category": "program",
+     "display": false,
+     "order": 3,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "degree_types": [
+    {
+     "id": 3227,
+     "legacy-id": 974,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Bachelor of Arts",
+     "description": "",
+     "category": "degree",
+     "display": false,
+     "order": 3,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/program/4911/"
+  },
+  {
+   "id": 5008,
+   "legacy-id": 8462,
+   "catalog-id": 32,
+   "created": "2026-06-07 14:59:19",
+   "modified": "2026-08-31 21:29:08",
+   "name": "Film (B.A.)",
+   "code": "",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "program_types": [
+    {
+     "id": 3222,
+     "legacy-id": 271,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Major",
+     "description": "",
+     "category": "program",
+     "display": false,
+     "order": 3,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "degree_types": [
+    {
+     "id": 3227,
+     "legacy-id": 974,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Bachelor of Arts",
+     "description": "",
+     "category": "degree",
+     "display": false,
+     "order": 3,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/program/5008/"
+  }
+ ]
+}

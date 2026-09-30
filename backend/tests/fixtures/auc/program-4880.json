@@ -1,0 +1,160 @@
+{
+ "id": 4880,
+ "legacy-id": 8333,
+ "catalog-id": 32,
+ "created": "2026-06-07 14:59:19",
+ "modified": "2026-06-07 14:59:19",
+ "name": "Arabic Studies (B.A.)",
+ "code": "BA",
+ "status": {
+  "catalog-id": 32,
+  "active": true,
+  "searchable": true,
+  "visible": true
+ },
+ "program_types": [
+  {
+   "id": 3222,
+   "legacy-id": 271,
+   "catalog-id": 32,
+   "created": "2026-06-07 10:59:16",
+   "modified": "2026-06-07 10:59:16",
+   "name": "Major",
+   "description": "",
+   "category": "program",
+   "display": false,
+   "order": 3,
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   }
+  }
+ ],
+ "degree_types": [
+  {
+   "id": 3227,
+   "legacy-id": 974,
+   "catalog-id": 32,
+   "created": "2026-06-07 10:59:16",
+   "modified": "2026-06-07 10:59:16",
+   "name": "Bachelor of Arts",
+   "description": "",
+   "category": "degree",
+   "display": false,
+   "order": 3,
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   }
+  }
+ ],
+ "description": "<h3 style=\"text-align: justify;\">Bachelor of Arts</h3>\r\n\r\n<p style=\"text-align:justify\">Our students specialize in the history and culture of the Middle East. Upon graduation, they will be ready to succeed in careers that require cultural competence, communication skills, project management, and critical thinking.</p>\r\n\r\n<p style=\"text-align:justify\">To declare a major in Arabic Studies, a student must have earned a grade of B or higher in one ARIC course.</p>\r\n\r\n<p style=\"text-align:justify\">A total of 120 credits is required for a bachelor's degree in Arabic Studies.</p>\r\n\r\n<p style=\"text-align:justify\"><strong>Language Component</strong></p>\r\n\r\n<p style=\"text-align:justify\">Students are encouraged to take up to 18 elective credits of Arabic language courses. Students who have passed the Thanawiya ʿAmma Arabic exam are well prepared to succeed in our program.</p>\r\n",
+ "parents": [
+  {
+   "id": 1381,
+   "legacy-id": 2082,
+   "catalog-id": 32,
+   "name": "The Sheikh Hassan Abbas Sharbatly Department of Arab and Islamic Civilizations",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": false,
+    "visible": true
+   },
+   "hierarchy_type": "Department",
+   "url": "/api/aucegypt/catalog/32/hierarchy/1381/"
+  }
+ ],
+ "locations": [],
+ "cores": [
+  {
+   "id": 21420,
+   "catalog-id": 32,
+   "legacy-id": 35562,
+   "created": "2026-06-07 14:59:19",
+   "modified": "2026-06-07 14:59:19",
+   "name": "Core Curriculum (40 credits)",
+   "code": "",
+   "description": "",
+   "shared": false,
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "courses": [],
+   "adhocs": [],
+   "sort_order": 1,
+   "children": []
+  },
+  {
+   "id": 21421,
+   "catalog-id": 32,
+   "legacy-id": 35563,
+   "created": "2026-06-07 14:59:19",
+   "modified": "2026-06-07 14:59:19",
+   "name": "Concentration Requirements (36 credits)",
+   "code": "",
+   "description": "<p>Students will complete four foundation courses:</p>\n",
+   "shared": false,
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "courses": [],
+   "adhocs": [],
+   "sort_order": 2,
+   "children": [
+    {
+     "id": 21422,
+     "catalog-id": 32,
+     "legacy-id": 35564,
+     "created": "2026-06-07 14:59:19",
+     "modified": "2026-06-07 14:59:19",
+     "name": "Additional Requirements",
+     "code": "",
+     "description": "<p>In addition, students will also complete 24 credits of ARIC courses, at least 15 of which should be taken above the 2000-level.</p>\n",
+     "shared": false,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     },
+     "courses": [],
+     "adhocs": [],
+     "sort_order": 1,
+     "children": []
+    }
+   ]
+  },
+  {
+   "id": 22097,
+   "catalog-id": 32,
+   "legacy-id": 36256,
+   "created": "2026-06-07 14:59:19",
+   "modified": "2026-06-07 14:59:19",
+   "name": "Electives",
+   "code": "",
+   "description": "<p>44 credits, to be selected in consultation with the major advisor.</p>\n",
+   "shared": false,
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "courses": [],
+   "adhocs": [],
+   "sort_order": 3,
+   "children": []
+  }
+ ]
+}

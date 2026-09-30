@@ -1,0 +1,308 @@
+{
+ "id": 4900,
+ "legacy-id": 8353,
+ "catalog-id": 32,
+ "created": "2026-06-07 14:59:19",
+ "modified": "2026-08-31 21:29:06",
+ "name": "Computer Science with specializations in Embedded Systems, Artificial Intelligence and Cybersecurity (B.S.)",
+ "code": "",
+ "status": {
+  "catalog-id": 32,
+  "active": true,
+  "searchable": true,
+  "visible": true
+ },
+ "program_types": [
+  {
+   "id": 3222,
+   "legacy-id": 271,
+   "catalog-id": 32,
+   "created": "2026-06-07 10:59:16",
+   "modified": "2026-06-07 10:59:16",
+   "name": "Major",
+   "description": "",
+   "category": "program",
+   "display": false,
+   "order": 3,
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   }
+  }
+ ],
+ "degree_types": [
+  {
+   "id": 3229,
+   "legacy-id": 976,
+   "catalog-id": 32,
+   "created": "2026-06-07 10:59:16",
+   "modified": "2026-06-07 10:59:16",
+   "name": "Bachelor of Science",
+   "description": "",
+   "category": "degree",
+   "display": false,
+   "order": 9,
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   }
+  }
+ ],
+ "description": "<h3>Bachelor of Science in Computer Science with optional specializations in Embedded Systems, Artificial Intelligence and Cybersecurity</h3>\r\n\r\n<p style=\"text-align:justify\">The Computer Science (B.S.) program is accredited by the Computing Accreditation Commission of <a href=\"https://www.abet.org/\">ABET</a>, under the commission's General Criteria and the Program Criteria for the Computer Science and Similarly Named Computing Programs.</p>\r\n\r\n<p style=\"text-align:justify\">The Computer Science (B.S.) program has an equivalence from the Supreme Council of Universities in Egypt.</p>\r\n\r\n<p style=\"text-align:justify\"><strong>Program Objectives</strong></p>\r\n\r\n<p style=\"text-align:justify\">The computer science program at AUC graduates a computer scientist who, within a few years of graduation, fulfills societal needs, with consideration to ethical and environmental issues, in one or more of the following roles:</p>\r\n\r\n<ol start=\"1\">\r\n\t<li style=\"text-align:justify\">A professional team member in a multidisciplinary environment, local or global.</li>\r\n\t<li style=\"text-align:justify\">A distinguished member of computing field through promotion, or professional development.</li>\r\n\t<li style=\"text-align:justify\">A successful member of an advanced academic or research organization.</li>\r\n\t<li style=\"text-align:justify\">A successful entrepreneur.</li>\r\n</ol>\r\n\r\n<p style=\"text-align:justify\"><strong>Program Learning Outcomes</strong></p>\r\n\r\n<p style=\"text-align:justify\">The program enables students to achieve the following outcomes, by the time of graduation:</p>\r\n\r\n<ol start=\"1\">\r\n\t<li style=\"text-align:justify\">Analyze a complex computing problem and to apply principles of computing and other relevant disciplines to identify solutions.</li>\r\n\t<li style=\"text-align:justify\">Design, implement, and evaluate a computing-based solution to meet a given set of computing requirements in the context of the program's discipline.</li>\r\n\t<li style=\"text-align:justify\">Communicate effectively in a variety of professional contexts.</li>\r\n\t<li style=\"text-align:justify\">Recognize professional responsibilities and make informed judgments in computing practice based on legal and ethical principles.</li>\r\n\t<li style=\"text-align:justify\">Function effectively as a member or leader of a team engaged in activities appropriate to the program's discipline.</li>\r\n\t<li style=\"text-align:justify\">Apply computer science theory and software development fundamentals to produce computing-based solutions.</li>\r\n</ol>\r\n\r\n<p style=\"text-align:justify\">The course of study offers a broad-based intellectual engagement with computing both in theory and practice as well as logic and capabilities. The theoretical ground, abstraction, design as well as the professional practice levels (technical competence, team work, problem solving and communication skills), social and ethical contexts of the discipline of computing are well integrated into the curriculum that the department offers.</p>\r\n\r\n<p style=\"text-align:justify\">The study program is designed to prepare students for a wide variety of careers. The most profound positions that our graduates are well prepared to occupy (or have already been engaged in) may be classified into the following professional disciplines: Software Engineering, Systems Design and Programming, Applications design and programming and Information-Systems design and analysis. The program also prepares students for further studies and research in the computing field.</p>\r\n\r\n<p style=\"text-align:justify\"><strong>Declaration of the Computer Science Major</strong></p>\r\n\r\n<p style=\"text-align:justify\">Students accepted at AUC may either get admitted into their preferred major at the time of admission to the university (declare their major at the gate) or get admitted to the university as undeclared. Students who get admitted into a major will still have the opportunity to change their major later. Students must declare a major before completing 60 credit hours (before achieving a junior standing). Please check the eligibility criteria for declaring the Computer Science major below.</p>\r\n\r\n<p style=\"margin-left:40px; text-align:justify\"><strong>Eligibility Criteria for Computer Science Major Declaration at the Gate</strong></p>\r\n\r\n<p style=\"margin-left:40px; text-align:justify\">The eligibility criteria for students who wish to apply to declare their major from the gate, with the declaration effective in the fall 2027 semester or the spring 2028 semester, can be accessed through the link below. Admission to the major is based on the program's student capacity.</p>\r\n\r\n<p style=\"margin-left:40px; text-align:justify\">To view the eligibility criteria, <a href=\"#\" class=\"permalink\" data-permalink_id=\"59357\" data-legacy_id=\"1914\" data-signature=\"14f355b685c82e190ba5f1b31172bab6\" data-display_type=\"same\" data-link_text=\"Click Here.\" data-anchor_text=\"\" data-from_id=\"4900\" data-from_type=\"program\" data-to_id=\"1332\" data-to_type=\"content\" data-show_title=\"1\" data-to_legacy_id=\"2392\" data-to_url=\"/api/aucegypt/catalog/32/page/1332/\">Click Here.</a> </p>\r\n\r\n<p style=\"margin-left:40px; text-align:justify\"><strong>Eligibility Criteria for Computer Science Major Declaration from Within</strong></p>\r\n\r\n<p style=\"margin-left:40px; text-align:justify\">The eligibility criteria for undeclared students (or students switching majors) who wish to apply to declare their major, with the declaration effective in the fall 2027 semester or the spring 2028 semester, can be accessed through the link below. Admission to the major is based on the program's student capacity.</p>\r\n\r\n<p style=\"margin-left:40px; text-align:justify\">To view the eligibility criteria, <a href=\"#\" class=\"permalink\" data-permalink_id=\"59358\" data-legacy_id=\"1915\" data-signature=\"057b08677a044c77f3acc753bea5ad96\" data-display_type=\"same\" data-link_text=\"Click Here.\" data-anchor_text=\"\" data-from_id=\"4900\" data-from_type=\"program\" data-to_id=\"1344\" data-to_type=\"content\" data-show_title=\"1\" data-to_legacy_id=\"2404\" data-to_url=\"/api/aucegypt/catalog/32/page/1344/\">Click Here.</a> </p>\r\n\r\n<p>A total of 130 credits is required for a Bachelor's degree in Computer Science.</p>\r\n",
+ "parents": [
+  {
+   "id": 1400,
+   "legacy-id": 2101,
+   "catalog-id": 32,
+   "name": "Department of Computer Science and Engineering",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "hierarchy_type": "Department",
+   "url": "/api/aucegypt/catalog/32/hierarchy/1400/"
+  }
+ ],
+ "locations": [],
+ "cores": [
+  {
+   "id": 21484,
+   "catalog-id": 32,
+   "legacy-id": 35627,
+   "created": "2026-06-07 14:59:19",
+   "modified": "2026-08-31 21:29:58",
+   "name": "Core Curriculum (33 credits)",
+   "code": "",
+   "description": "<p style=\"text-align:justify;\">The remaining 7 credit hours required to satisfy the core are fulfilled by the concentration Science/lab (4 cr.) and the capstone projects <a href=\"#\" class=\"permalink\" data-permalink_id=\"63537\" data-legacy_id=\"179\" data-signature=\"49d832be079b3d4ebfa736f246b3a248\" data-display_type=\"tooltip\" data-link_text=\"%prefix% %code%\" data-anchor_text=\"\" data-from_id=\"21484\" data-from_type=\"core\" data-to_id=\"61165\" data-to_type=\"course\" data-show_title=\"1\" data-to_legacy_id=\"117956\" data-to_url=\"/api/aucegypt/catalog/32/course/61165/\">CSCE 4980</a>, <a href=\"#\" class=\"permalink\" data-permalink_id=\"63538\" data-legacy_id=\"727\" data-signature=\"981c4be9dbdeafcbaed3823e0af6e7a2\" data-display_type=\"tooltip\" data-link_text=\"%prefix% %code%\" data-anchor_text=\"\" data-from_id=\"21484\" data-from_type=\"core\" data-to_id=\"61166\" data-to_type=\"course\" data-show_title=\"1\" data-to_legacy_id=\"117957\" data-to_url=\"/api/aucegypt/catalog/32/course/61166/\">CSCE 4981</a> (3 cr.).</p>\n",
+   "shared": false,
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "courses": [],
+   "adhocs": [],
+   "sort_order": 291,
+   "children": []
+  },
+  {
+   "id": 21485,
+   "catalog-id": 32,
+   "legacy-id": 35628,
+   "created": "2026-06-07 14:59:19",
+   "modified": "2026-08-18 10:43:39",
+   "name": "Computer Science Requirements (65 credits)",
+   "code": "",
+   "description": "",
+   "shared": false,
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "courses": [],
+   "adhocs": [],
+   "sort_order": 510,
+   "children": [
+    {
+     "id": 21486,
+     "catalog-id": 32,
+     "legacy-id": 35629,
+     "created": "2026-06-07 14:59:19",
+     "modified": "2026-08-18 10:43:39",
+     "name": "a) Concentration Requirements (47 credits)",
+     "code": "",
+     "description": "",
+     "shared": false,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     },
+     "courses": [],
+     "adhocs": [],
+     "sort_order": 1,
+     "children": []
+    },
+    {
+     "id": 22103,
+     "catalog-id": 32,
+     "legacy-id": 36262,
+     "created": "2026-06-07 14:59:19",
+     "modified": "2026-08-03 10:33:18",
+     "name": "b) Computer Science electives (18 credits)",
+     "code": "",
+     "description": "<p style=\"text-align:justify;\">A minimum of Eighteen credit hours must be taken from the Computer Science elective courses in consultation with the student's advisor (no more than 6 credits can be chosen among the MACT courses) and to satisfy the following:</p>\n",
+     "shared": false,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     },
+     "courses": [],
+     "adhocs": [],
+     "sort_order": 2,
+     "children": [
+      {
+       "id": 22104,
+       "catalog-id": 32,
+       "legacy-id": 36263,
+       "created": "2026-06-07 14:59:19",
+       "modified": "2026-08-03 10:33:15",
+       "name": "(1) For the Bachelor of Science in Computer Science ",
+       "code": "",
+       "description": "<p>Eighteen credit hours must be taken from the Computer Science elective courses.</p>\n",
+       "shared": false,
+       "status": {
+        "catalog-id": 32,
+        "active": true,
+        "searchable": true,
+        "visible": true
+       },
+       "courses": [],
+       "adhocs": [],
+       "sort_order": 1,
+       "children": []
+      },
+      {
+       "id": 22105,
+       "catalog-id": 32,
+       "legacy-id": 36264,
+       "created": "2026-06-07 14:59:19",
+       "modified": "2026-08-03 10:33:15",
+       "name": "(2) For the Bachelor of Science in Computer Science with specialization in Embedded Systems",
+       "code": "",
+       "description": "<p>All of group A and nine credit hours from group B. The remaining credit hours must be satisfied by other Computer Science elective courses.</p>\n",
+       "shared": false,
+       "status": {
+        "catalog-id": 32,
+        "active": true,
+        "searchable": true,
+        "visible": true
+       },
+       "courses": [],
+       "adhocs": [],
+       "sort_order": 2,
+       "children": []
+      },
+      {
+       "id": 22106,
+       "catalog-id": 32,
+       "legacy-id": 36265,
+       "created": "2026-06-07 14:59:19",
+       "modified": "2026-08-03 10:33:15",
+       "name": "(3) For the Bachelor of Science in Computer Science with specialization in Artificial Intelligence",
+       "code": "",
+       "description": "<p style=\"text-align:justify;\">Three to six credit hours from group C and six to nine credit hours from group D, ensuring a combined minimum of 12 credit hours from these two groups. Any remaining credit hours must be satisfied by Computer Science elective courses.</p>\n",
+       "shared": false,
+       "status": {
+        "catalog-id": 32,
+        "active": true,
+        "searchable": true,
+        "visible": true
+       },
+       "courses": [],
+       "adhocs": [],
+       "sort_order": 3,
+       "children": []
+      },
+      {
+       "id": 22121,
+       "catalog-id": 32,
+       "legacy-id": 36280,
+       "created": "2026-06-07 14:59:19",
+       "modified": "2026-08-03 10:33:18",
+       "name": "(4) For the Bachelor of Science in Computer Science with specialization in Cybersecurity",
+       "code": "",
+       "description": "<p style=\"text-align:justify;\">Six credit hours from group E and a minimum of six credit hours from group F. The remaining credit hours must be satisfied by other Computer Science elective courses.</p>\n",
+       "shared": false,
+       "status": {
+        "catalog-id": 32,
+        "active": true,
+        "searchable": true,
+        "visible": true
+       },
+       "courses": [],
+       "adhocs": [],
+       "sort_order": 4,
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": 21487,
+   "catalog-id": 32,
+   "legacy-id": 35630,
+   "created": "2026-06-07 14:59:19",
+   "modified": "2026-07-27 10:45:15",
+   "name": "Computer Science Elective Courses",
+   "code": "",
+   "description": "",
+   "shared": false,
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "courses": [],
+   "adhocs": [],
+   "sort_order": 832,
+   "children": []
+  },
+  {
+   "id": 21488,
+   "catalog-id": 32,
+   "legacy-id": 35631,
+   "created": "2026-06-07 14:59:19",
+   "modified": "2026-06-07 14:59:19",
+   "name": "Collateral Requirements (26 credits)",
+   "code": "",
+   "description": "",
+   "shared": false,
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "courses": [],
+   "adhocs": [],
+   "sort_order": 835,
+   "children": []
+  },
+  {
+   "id": 21489,
+   "catalog-id": 32,
+   "legacy-id": 35632,
+   "created": "2026-06-07 14:59:19",
+   "modified": "2026-06-07 14:59:19",
+   "name": "General Electives (6 credits)",
+   "code": "",
+   "description": "",
+   "shared": false,
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "courses": [],
+   "adhocs": [],
+   "sort_order": 837,
+   "children": []
+  }
+ ]
+}

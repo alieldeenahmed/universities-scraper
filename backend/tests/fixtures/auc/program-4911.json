@@ -1,0 +1,222 @@
+{
+ "id": 4911,
+ "legacy-id": 8364,
+ "catalog-id": 32,
+ "created": "2026-06-07 14:59:19",
+ "modified": "2026-08-31 21:29:06",
+ "name": "Economics (B.A.)",
+ "code": "",
+ "status": {
+  "catalog-id": 32,
+  "active": true,
+  "searchable": true,
+  "visible": true
+ },
+ "program_types": [
+  {
+   "id": 3222,
+   "legacy-id": 271,
+   "catalog-id": 32,
+   "created": "2026-06-07 10:59:16",
+   "modified": "2026-06-07 10:59:16",
+   "name": "Major",
+   "description": "",
+   "category": "program",
+   "display": false,
+   "order": 3,
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   }
+  }
+ ],
+ "degree_types": [
+  {
+   "id": 3227,
+   "legacy-id": 974,
+   "catalog-id": 32,
+   "created": "2026-06-07 10:59:16",
+   "modified": "2026-06-07 10:59:16",
+   "name": "Bachelor of Arts",
+   "description": "",
+   "category": "degree",
+   "display": false,
+   "order": 3,
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   }
+  }
+ ],
+ "description": "<h3 style=\"text-align:justify\">Bachelor of Arts</h3>\r\n\r\n<p style=\"text-align:justify\">The curriculum for the B.A. degree in Economics is designed to prepare students to be i) economists with a deep knowledge of a wide range of economics subjects equipped with the required analytical tools to apply this knowledge or ii) experts in the field of economic development and policy making or iii) economists with a strong foundation in quantitative and financial economics. For the first group, the curriculum offers a wide range of courses pertaining to the different aspects of the economy in theory and practice. For the second group, the curriculum offers courses that specifically address the challenges of economic development and policy making. For the third group, the program offers rigorous and advanced courses in econometric theory and application and in financial economics.</p>\r\n\r\n<h4 style=\"text-align:justify\">Program Declaration Policy</h4>\r\n\r\n<p>Students now have two pathways to declare a major in Economics :</p>\r\n\r\n<p><strong>Option 1: Declaration Upon Admission (At the Gate)</strong></p>\r\n\r\n<p>Qualified students, who have fulfilled AUC admission requirements may apply to declare their major at the time of admission. Selection is competitive, and will be decided after evaluating:</p>\r\n\r\n<ul>\r\n\t<li>High school grades</li>\r\n\t<li>Aptitude Test score (ASSESS or ITB Business)</li>\r\n\t<li>Interview</li>\r\n</ul>\r\n\r\n<p><strong>Option 2: Declaration After Enrollment</strong></p>\r\n\r\n<p>Students who do not declare upon admission may follow the standard declaration process after entering AUC. According to this process, eligible students must:</p>\r\n\r\n<ul>\r\n\t<li style=\"text-align:justify\">Complete a minimum of 27 credit hours including <a href=\"#\" class=\"permalink\" data-permalink_id=\"59361\" data-legacy_id=\"183\" data-signature=\"972919e68027b57dd4be7f37e0c026e9\" data-display_type=\"tooltip\" data-link_text=\"%prefix% %code%\" data-anchor_text=\"\" data-from_id=\"4911\" data-from_type=\"program\" data-to_id=\"61223\" data-to_type=\"course\" data-show_title=\"1\" data-to_legacy_id=\"118014\" data-to_url=\"/api/aucegypt/catalog/32/course/61223/\">ECON 2011</a>, <a href=\"#\" class=\"permalink\" data-permalink_id=\"59363\" data-legacy_id=\"182\" data-signature=\"67be0ccb74f5d1515419d16d69125c03\" data-display_type=\"tooltip\" data-link_text=\"%prefix% %code%\" data-anchor_text=\"\" data-from_id=\"4911\" data-from_type=\"program\" data-to_id=\"61222\" data-to_type=\"course\" data-show_title=\"1\" data-to_legacy_id=\"118013\" data-to_url=\"/api/aucegypt/catalog/32/course/61222/\">ECON 2021</a> and <a href=\"#\" class=\"permalink\" data-permalink_id=\"59362\" data-legacy_id=\"184\" data-signature=\"b71682169f263d9e88ec740e1ce9f93f\" data-display_type=\"tooltip\" data-link_text=\"%prefix% %code%\" data-anchor_text=\"\" data-from_id=\"4911\" data-from_type=\"program\" data-to_id=\"61224\" data-to_type=\"course\" data-show_title=\"1\" data-to_legacy_id=\"118015\" data-to_url=\"/api/aucegypt/catalog/32/course/61224/\">ECON 2061</a>.</li>\r\n\t<li style=\"text-align:justify\">Earn an average grade of B or higher in <a href=\"#\" class=\"permalink\" data-permalink_id=\"59361\" data-legacy_id=\"183\" data-signature=\"972919e68027b57dd4be7f37e0c026e9\" data-display_type=\"tooltip\" data-link_text=\"%prefix% %code%\" data-anchor_text=\"\" data-from_id=\"4911\" data-from_type=\"program\" data-to_id=\"61223\" data-to_type=\"course\" data-show_title=\"1\" data-to_legacy_id=\"118014\" data-to_url=\"/api/aucegypt/catalog/32/course/61223/\">ECON 2011</a> and <a href=\"#\" class=\"permalink\" data-permalink_id=\"59363\" data-legacy_id=\"182\" data-signature=\"67be0ccb74f5d1515419d16d69125c03\" data-display_type=\"tooltip\" data-link_text=\"%prefix% %code%\" data-anchor_text=\"\" data-from_id=\"4911\" data-from_type=\"program\" data-to_id=\"61222\" data-to_type=\"course\" data-show_title=\"1\" data-to_legacy_id=\"118013\" data-to_url=\"/api/aucegypt/catalog/32/course/61222/\">ECON 2021</a> with a minimum grade of B minus in each course.</li>\r\n\t<li style=\"text-align:justify\">Earn a minimum grade of B in <a href=\"#\" class=\"permalink\" data-permalink_id=\"59362\" data-legacy_id=\"184\" data-signature=\"b71682169f263d9e88ec740e1ce9f93f\" data-display_type=\"tooltip\" data-link_text=\"%prefix% %code%\" data-anchor_text=\"\" data-from_id=\"4911\" data-from_type=\"program\" data-to_id=\"61224\" data-to_type=\"course\" data-show_title=\"1\" data-to_legacy_id=\"118015\" data-to_url=\"/api/aucegypt/catalog/32/course/61224/\">ECON 2061</a> (Equivalently, earn a minimum grade of B <a href=\"#\" class=\"permalink\" data-permalink_id=\"59364\" data-legacy_id=\"287\" data-signature=\"b68160f1e01e691f5173e8ef1796003d\" data-display_type=\"tooltip\" data-link_text=\"%prefix% %code%\" data-anchor_text=\"\" data-from_id=\"4911\" data-from_type=\"program\" data-to_id=\"61853\" data-to_type=\"course\" data-show_title=\"1\" data-to_legacy_id=\"118304\" data-to_url=\"/api/aucegypt/catalog/32/course/61853/\">MACT 1121</a>).</li>\r\n</ul>\r\n\r\n<p style=\"text-align:justify\">* In the case of a second attempt of courses required for major declaration, the higher of the two grades earned will be considered. The grade of a third or more attempts will not be considered for the purpose of declaring a major in Economics.<br />\r\n<br />\r\n<strong>The score for declaration will be calculated as follows:</strong></p>\r\n\r\n<p style=\"text-align:justify\">(Economics GPA*50%) + (Overall GPA*50%)</p>\r\n\r\n<p style=\"text-align:justify\">Economics GPA is the GPA of all economics courses completed prior to applying for declaration (except ECON 1099).</p>\r\n\r\n<p style=\"text-align:justify\">Additional combination of discipline relevant factors and evidence of interest in the field of Economics through personal statements and/or interviews will be used to determine acceptance into the major.</p>\r\n\r\n<p style=\"text-align:justify\">Selection to declare a major in Economics is competitive and will be based on availability of space.</p>\r\n\r\n<p style=\"text-align:justify\"><strong>Degree Requirements</strong><br />\r\n<br />\r\nStudents must complete a minimum of 120 credit hours for the Bachelor of Arts in Economics degree in the following areas:</p>\r\n\r\n<p style=\"text-align:justify\">I. Core Curriculum (37 credits)</p>\r\n\r\n<p style=\"text-align:justify\">II. Collateral Requirements (9 credits)</p>\r\n\r\n<p style=\"text-align:justify\">III. Economics Core Requirements (40 credits)</p>\r\n\r\n<p style=\"text-align:justify\">IV. Requirements for General Economics Degree (15 or 16 credits)</p>\r\n\r\n<p style=\"text-align:justify\">V. Requirements for 'Economic Development and Policy Analysis' Concentration (15 or 16 credits)</p>\r\n\r\n<p style=\"text-align:justify\">VI. Requirements for 'Quantitative and Financial Economics' Concentration (16 credits)</p>\r\n\r\n<p style=\"text-align:justify\">VII. General Electives (18 or 19 credits)</p>\r\n",
+ "parents": [
+  {
+   "id": 1378,
+   "legacy-id": 2079,
+   "catalog-id": 32,
+   "name": "Mohamed Shafik Gabr Department of Economics",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "hierarchy_type": "Department",
+   "url": "/api/aucegypt/catalog/32/hierarchy/1378/"
+  }
+ ],
+ "locations": [],
+ "cores": [
+  {
+   "id": 21525,
+   "catalog-id": 32,
+   "legacy-id": 35668,
+   "created": "2026-06-07 14:59:19",
+   "modified": "2026-08-31 21:29:58",
+   "name": "I. Core Curriculum (37 credits)",
+   "code": "",
+   "description": "<p>The remaining 3 credit hours required to satisfy the Core are fulfilled by completing the course <a href=\"#\" class=\"permalink\" data-permalink_id=\"63549\" data-legacy_id=\"733\" data-signature=\"038e9e50f31fd5c5bd437aa785f6df18\" data-display_type=\"tooltip\" data-link_text=\" %title%\" data-anchor_text=\"\" data-from_id=\"21525\" data-from_type=\"core\" data-to_id=\"61230\" data-to_type=\"course\" data-show_title=\"1\" data-to_legacy_id=\"118021\" data-to_url=\"/api/aucegypt/catalog/32/course/61230/\"> ECON 3071  -  Labor Economics (3 cr.)</a> </p>\n",
+   "shared": false,
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "courses": [],
+   "adhocs": [],
+   "sort_order": 176,
+   "children": []
+  },
+  {
+   "id": 21527,
+   "catalog-id": 32,
+   "legacy-id": 35670,
+   "created": "2026-06-07 14:59:19",
+   "modified": "2026-06-07 14:59:19",
+   "name": "II. Collateral Requirements (9 credits)",
+   "code": "",
+   "description": "",
+   "shared": false,
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "courses": [],
+   "adhocs": [],
+   "sort_order": 415,
+   "children": []
+  },
+  {
+   "id": 21526,
+   "catalog-id": 32,
+   "legacy-id": 35669,
+   "created": "2026-06-07 14:59:19",
+   "modified": "2026-06-07 14:59:19",
+   "name": "III. Economics Core Requirements (40 credits)",
+   "code": "",
+   "description": "",
+   "shared": false,
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "courses": [],
+   "adhocs": [],
+   "sort_order": 585,
+   "children": []
+  },
+  {
+   "id": 21966,
+   "catalog-id": 32,
+   "legacy-id": 36122,
+   "created": "2026-06-07 14:59:19",
+   "modified": "2026-06-07 14:59:19",
+   "name": "IV. Requirements for General Economics Degree (15 or 16 credits)",
+   "code": "",
+   "description": "<p>Students should choose five out of the following courses (a maximum of two finance courses is allowed):</p>\n",
+   "shared": false,
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "courses": [],
+   "adhocs": [],
+   "sort_order": 687,
+   "children": []
+  },
+  {
+   "id": 21967,
+   "catalog-id": 32,
+   "legacy-id": 36123,
+   "created": "2026-06-07 14:59:19",
+   "modified": "2026-08-31 21:30:04",
+   "name": "V.\tRequirements for 'Economic Development and Policy Analysis' Concentration (15 or 16 credits) ",
+   "code": "",
+   "description": "<p>Students should complete the following three courses:</p>\n\n<ul>\n\t<li><a href=\"#\" class=\"permalink\" data-permalink_id=\"63825\" data-legacy_id=\"1367\" data-signature=\"760925715e6f1f240afa0d5dbdb03a13\" data-display_type=\"tooltip\" data-link_text=\" %title%\" data-anchor_text=\"\" data-from_id=\"21967\" data-from_type=\"core\" data-to_id=\"61231\" data-to_type=\"course\" data-show_title=\"1\" data-to_legacy_id=\"118022\" data-to_url=\"/api/aucegypt/catalog/32/course/61231/\"> ECON 4014  -  Public Economics and Policy Analysis (3 cr.)</a> </li>\n\t<li><a href=\"#\" class=\"permalink\" data-permalink_id=\"63814\" data-legacy_id=\"735\" data-signature=\"dc98c67309203f480a58c97e3d72bebc\" data-display_type=\"tooltip\" data-link_text=\" %title%\" data-anchor_text=\"\" data-from_id=\"21967\" data-from_type=\"core\" data-to_id=\"61241\" data-to_type=\"course\" data-show_title=\"1\" data-to_legacy_id=\"118032\" data-to_url=\"/api/aucegypt/catalog/32/course/61241/\"> ECON 4051  -  Seminar on Economic Development and Policy in the Middle East (3 cr.)</a></li>\n\t<li><a href=\"#\" class=\"permalink\" data-permalink_id=\"63824\" data-legacy_id=\"1477\" data-signature=\"a3c651a30bfd6e6540d03e551198f0aa\" data-display_type=\"tooltip\" data-link_text=\" %title%\" data-anchor_text=\"\" data-from_id=\"21967\" data-from_type=\"core\" data-to_id=\"61240\" data-to_type=\"course\" data-show_title=\"1\" data-to_legacy_id=\"118031\" data-to_url=\"/api/aucegypt/catalog/32/course/61240/\"> ECON 4094  -  Economics of Egypt (3 cr.)</a> </li>\n</ul>\n\n<p>and choose two out of the following courses:</p>\n\n<ul>\n\t<li><a href=\"#\" class=\"permalink\" data-permalink_id=\"63821\" data-legacy_id=\"1474\" data-signature=\"b4e93ba8922f96174a1676bd57a3e2dc\" data-display_type=\"tooltip\" data-link_text=\" %title%\" data-anchor_text=\"\" data-from_id=\"21967\" data-from_type=\"core\" data-to_id=\"62926\" data-to_type=\"course\" data-show_title=\"1\" data-to_legacy_id=\"119410\" data-to_url=\"/api/aucegypt/catalog/32/course/62926/\"> ECON 3054  -  Environmental and Natural Resource Economics (3 cr.)</a> </li>\n\t<li><a href=\"#\" class=\"permalink\" data-permalink_id=\"63823\" data-legacy_id=\"1475\" data-signature=\"0f487b64c8ae791ed34fc71f8d53e948\" data-display_type=\"tooltip\" data-link_text=\" %title%\" data-anchor_text=\"\" data-from_id=\"21967\" data-from_type=\"core\" data-to_id=\"61235\" data-to_type=\"course\" data-show_title=\"1\" data-to_legacy_id=\"118026\" data-to_url=\"/api/aucegypt/catalog/32/course/61235/\"> ECON 3055  -  The Digital Economy: Artificial Intelligence, the Future of Work and Development (3 cr.)</a> </li>\n\t<li><a href=\"#\" class=\"permalink\" data-permalink_id=\"63818\" data-legacy_id=\"1820\" data-signature=\"ba16e7a09f3015a174280de5143aba3b\" data-display_type=\"tooltip\" data-link_text=\" %title%\" data-anchor_text=\"\" data-from_id=\"21967\" data-from_type=\"core\" data-to_id=\"63241\" data-to_type=\"course\" data-show_title=\"1\" data-to_legacy_id=\"119733\" data-to_url=\"/api/aucegypt/catalog/32/course/63241/\"> ECON 3099  -  Special Topics in Economics (3 cr.)</a> </li>\n\t<li><a href=\"#\" class=\"permalink\" data-permalink_id=\"63816\" data-legacy_id=\"1368\" data-signature=\"9a0f3f672f8e2ce6f4ea740d3d1f93b4\" data-display_type=\"tooltip\" data-link_text=\" %title%\" data-anchor_text=\"\" data-from_id=\"21967\" data-from_type=\"core\" data-to_id=\"61239\" data-to_type=\"course\" data-show_title=\"1\" data-to_legacy_id=\"118030\" data-to_url=\"/api/aucegypt/catalog/32/course/61239/\"> ECON 4012  -  Feasibility Study (3 cr.)</a> </li>\n\t<li><a href=\"#\" class=\"permalink\" data-permalink_id=\"63826\" data-legacy_id=\"1412\" data-signature=\"180b8eb86c28e9995f9350f68a522394\" data-display_type=\"tooltip\" data-link_text=\" %title%\" data-anchor_text=\"\" data-from_id=\"21967\" data-from_type=\"core\" data-to_id=\"62927\" data-to_type=\"course\" data-show_title=\"1\" data-to_legacy_id=\"119411\" data-to_url=\"/api/aucegypt/catalog/32/course/62927/\"> ECON 4013  -  Behavioral Economics (3 cr.)</a> </li>\n\t<li><a href=\"#\" class=\"permalink\" data-permalink_id=\"63812\" data-legacy_id=\"1476\" data-signature=\"1105bfcf5fd328a9e6455f098eb4781c\" data-display_type=\"tooltip\" data-link_text=\" %title%\" data-anchor_text=\"\" data-from_id=\"21967\" data-from_type=\"core\" data-to_id=\"62967\" data-to_type=\"course\" data-show_title=\"1\" data-to_legacy_id=\"119451\" data-to_url=\"/api/aucegypt/catalog/32/course/62967/\"> ECON 4015  -  Applied Econometrics (3 cr.)</a> </li>\n\t<li><a href=\"#\" class=\"permalink\" data-permalink_id=\"63815\" data-legacy_id=\"1738\" data-signature=\"f616347adedcc40cb065686da7adaf75\" data-display_type=\"tooltip\" data-link_text=\"%title%\" data-anchor_text=\"\" data-from_id=\"21967\" data-from_type=\"core\" data-to_id=\"63174\" data-to_type=\"course\" data-show_title=\"1\" data-to_legacy_id=\"119666\" data-to_url=\"/api/aucegypt/catalog/32/course/63174/\">ECON 4050  -  CopyrightX: The Economics of Copyright and Creativity (3 cr.)</a></li>\n\t<li><a href=\"#\" class=\"permalink\" data-permalink_id=\"63819\" data-legacy_id=\"190\" data-signature=\"17fcb19a2a72d12a3ecf9dbcc9a25b66\" data-display_type=\"tooltip\" data-link_text=\" %title%\" data-anchor_text=\"\" data-from_id=\"21967\" data-from_type=\"core\" data-to_id=\"61245\" data-to_type=\"course\" data-show_title=\"1\" data-to_legacy_id=\"118036\" data-to_url=\"/api/aucegypt/catalog/32/course/61245/\"> ECON 4061  -  Mathematical Economics (3 cr.)</a> </li>\n\t<li><a href=\"#\" class=\"permalink\" data-permalink_id=\"63813\" data-legacy_id=\"195\" data-signature=\"e64129ed389bc85abca650bc6226b9b0\" data-display_type=\"tooltip\" data-link_text=\" %title%\" data-anchor_text=\"\" data-from_id=\"21967\" data-from_type=\"core\" data-to_id=\"61242\" data-to_type=\"course\" data-show_title=\"1\" data-to_legacy_id=\"118033\" data-to_url=\"/api/aucegypt/catalog/32/course/61242/\"> ECON 4081  -  Econometrics (3 cr.)</a> and <a href=\"#\" class=\"permalink\" data-permalink_id=\"63811\" data-legacy_id=\"1370\" data-signature=\"e082f70ebdbdbfb39736bfbb41ccde27\" data-display_type=\"tooltip\" data-link_text=\" %title%\" data-anchor_text=\"\" data-from_id=\"21967\" data-from_type=\"core\" data-to_id=\"61243\" data-to_type=\"course\" data-show_title=\"1\" data-to_legacy_id=\"118034\" data-to_url=\"/api/aucegypt/catalog/32/course/61243/\"> ECON 4082  -  Practicum (1 cr.)</a> </li>\n\t<li><a href=\"#\" class=\"permalink\" data-permalink_id=\"63817\" data-legacy_id=\"734\" data-signature=\"88831089abe3c1c3ebdb172464b6dd09\" data-display_type=\"tooltip\" data-link_text=\" %title%\" data-anchor_text=\"\" data-from_id=\"21967\" data-from_type=\"core\" data-to_id=\"61238\" data-to_type=\"course\" data-show_title=\"1\" data-to_legacy_id=\"118029\" data-to_url=\"/api/aucegypt/catalog/32/course/61238/\"> ECON 4099  -  Seminar: Selected Topics in Economics (3 cr.)</a> </li>\n\t<li><a href=\"#\" class=\"permalink\" data-permalink_id=\"63822\" data-legacy_id=\"1479\" data-signature=\"b861a8d0443b99022c09e51b99527d9f\" data-display_type=\"tooltip\" data-link_text=\" %title%\" data-anchor_text=\"\" data-from_id=\"21967\" data-from_type=\"core\" data-to_id=\"61249\" data-to_type=\"course\" data-show_title=\"1\" data-to_legacy_id=\"118040\" data-to_url=\"/api/aucegypt/catalog/32/course/61249/\"> ECON 5254  -  Economic Growth & Development (3 cr.)</a> or <a href=\"#\" class=\"permalink\" data-permalink_id=\"63820\" data-legacy_id=\"1741\" data-signature=\"403a1621ade7d60301044906716534fa\" data-display_type=\"tooltip\" data-link_text=\"%title%\" data-anchor_text=\"\" data-from_id=\"21967\" data-from_type=\"core\" data-to_id=\"62504\" data-to_type=\"course\" data-show_title=\"1\" data-to_legacy_id=\"118961\" data-to_url=\"/api/aucegypt/catalog/32/course/62504/\">PPAD 5211  -  Qualitative Analysis for Policy and Administration (3 cr.)</a> </li>\n</ul>\n",
+   "shared": false,
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "courses": [],
+   "adhocs": [],
+   "sort_order": 753,
+   "children": []
+  },
+  {
+   "id": 21968,
+   "catalog-id": 32,
+   "legacy-id": 36124,
+   "created": "2026-06-07 14:59:19",
+   "modified": "2026-06-07 14:59:19",
+   "name": "VI. Requirements for 'Quantitative and Financial Economics' Concentration (16 credits)",
+   "code": "",
+   "description": "",
+   "shared": false,
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "courses": [],
+   "adhocs": [],
+   "sort_order": 783,
+   "children": []
+  },
+  {
+   "id": 21969,
+   "catalog-id": 32,
+   "legacy-id": 36125,
+   "created": "2026-06-07 14:59:19",
+   "modified": "2026-08-31 21:30:04",
+   "name": "VII. General Electives (18 to 19 credits)",
+   "code": "",
+   "description": "<p style=\"text-align:justify;\">Students majoring in Economics who get accepted into the Combined BA and MA in Economics degree may take up to three graduate economics courses that would count towards both the BA and MA degrees.</p>\n\n<p><strong>CO-OP (3 cr.)</strong></p>\n\n<p style=\"text-align:justify;\">Students majoring in Economics (B.A) who meet other relevant criteria are eligible to apply for the optional  <a href=\"#\" class=\"permalink\" data-permalink_id=\"63828\" data-legacy_id=\"1743\" data-signature=\"691a28b0d06974f93d8e19190224a4cf\" data-display_type=\"tooltip\" data-link_text=\" %title%\" data-anchor_text=\"\" data-from_id=\"21969\" data-from_type=\"core\" data-to_id=\"63175\" data-to_type=\"course\" data-show_title=\"1\" data-to_legacy_id=\"119667\" data-to_url=\"/api/aucegypt/catalog/32/course/63175/\"> BUSC 4000  -  Experiential Learning : CO-OP (3 cr.)</a> that counts towards their general electives. Selection is highly competitive, subject to limited capacity, and based on criteria set by the School of Business. Students enrolled in  <a href=\"#\" class=\"permalink\" data-permalink_id=\"63827\" data-legacy_id=\"1743\" data-signature=\"d788d37f3e0636cb9bc6856541d5c00c\" data-display_type=\"tooltip\" data-link_text=\" %prefix% %code%\" data-anchor_text=\"\" data-from_id=\"21969\" data-from_type=\"core\" data-to_id=\"63175\" data-to_type=\"course\" data-show_title=\"1\" data-to_legacy_id=\"119667\" data-to_url=\"/api/aucegypt/catalog/32/course/63175/\"> BUSC 4000</a> are only permitted to concurrently enroll in the seminar course <a href=\"#\" class=\"permalink\" data-permalink_id=\"63829\" data-legacy_id=\"1870\" data-signature=\"ab0296e3441243bca3f1b8c0cb04858d\" data-display_type=\"tooltip\" data-link_text=\" %title%\" data-anchor_text=\"\" data-from_id=\"21969\" data-from_type=\"core\" data-to_id=\"63316\" data-to_type=\"course\" data-show_title=\"1\" data-to_legacy_id=\"119810\" data-to_url=\"/api/aucegypt/catalog/32/course/63316/\"> BUSC 4001  -  Business 360 (3 cr.)</a> that counts towards their electives. Enrollment in this extra course is optional and subject to the approval of the CO-OP faculty mentor.</p>\n",
+   "shared": false,
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "courses": [],
+   "adhocs": [],
+   "sort_order": 801,
+   "children": []
+  }
+ ]
+}

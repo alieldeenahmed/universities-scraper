@@ -1,0 +1,159 @@
+{
+ "id": 5033,
+ "legacy-id": 8487,
+ "catalog-id": 32,
+ "created": "2026-06-07 14:59:19",
+ "modified": "2026-08-31 21:29:08",
+ "name": "Data Science (B.Sc.)",
+ "code": "",
+ "status": {
+  "catalog-id": 32,
+  "active": true,
+  "searchable": true,
+  "visible": true
+ },
+ "program_types": [
+  {
+   "id": 3222,
+   "legacy-id": 271,
+   "catalog-id": 32,
+   "created": "2026-06-07 10:59:16",
+   "modified": "2026-06-07 10:59:16",
+   "name": "Major",
+   "description": "",
+   "category": "program",
+   "display": false,
+   "order": 3,
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   }
+  }
+ ],
+ "degree_types": [
+  {
+   "id": 3229,
+   "legacy-id": 976,
+   "catalog-id": 32,
+   "created": "2026-06-07 10:59:16",
+   "modified": "2026-06-07 10:59:16",
+   "name": "Bachelor of Science",
+   "description": "",
+   "category": "degree",
+   "display": false,
+   "order": 9,
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   }
+  }
+ ],
+ "description": "<p style=\"text-align:justify\">The advances in communication and information technologies have given rise to the availability of huge datasets (Big Data). The datasets contain a wealth of knowledge. Data Science is the study of the generalizable extraction of knowledge from data. Being a data scientist requires an integrated skill set spanning mathematics, statistics, machine learning, databases, and programming languages as well as a good understanding of real-world problem formulation and effective solutions.<br />\r\n<br />\r\nData Science is a new interdisciplinary/multidisciplinary field. It is experiencing very rapid growth due to the availability of huge and complex real-world data. The demand for data science education has been increasing at very large rates. Accordingly, we need to move away from the traditional way of teaching statistics to meet the needs of the modern world for data scientists who can use modern analytic techniques and tools for analyzing data, especially big data.<br />\r\n<br />\r\nData scientists need to be able to deal with the problems associated with the current and future types and amounts of data and to solve the kind of problems associated with them. Data scientists need to know how to use modern computer languages and/or packages such as R and Python.<br />\r\n<br />\r\nThe Data Science Program introduces students to this rapidly growing field and equip them with its basic principles and tools with the main objective of solving real-world problems. Students will learn concepts, techniques and tools they need to deal with various facets of data science practice, including data collection and integration, data editing, exploratory data analysis, predictive modeling, descriptive modeling, data product creation, evaluation, and effective communication. Working with data requires the mastery of a variety of skills and concepts, including many traditionally associated with the fields of probability, statistics, mathematics, and computational science.<br />\r\n<br />\r\nThe Data Science Program prepares students for positions within Egypt, where the demand for Data Scientists (for example, in banks, other financial institutions, and communication companies) greatly exceeds their supply. Also, there is a wide variety of jobs in Egypt, in multi-national companies, and international institutions abroad, where training in Data Science (mathematics, probability, statistics, computing science) is essential.</p>\r\n\r\n<p><strong>Declaration of the Data Science Major</strong></p>\r\n\r\n<p style=\"text-align:justify\">Students accepted at AUC may either get admitted into their preferred major at the time of admission to the university (declare their major at the gate) or get admitted to the university as undeclared. Students who get admitted into a major will still have the opportunity to change their major later. Students must declare a major before completing 60 credit hours (before achieving a junior standing). Please check the eligibility criteria for declaring the Data Science major below.</p>\r\n\r\n<p style=\"margin-left:40px\"><strong>Eligibility Criteria for Data Science Major Declaration at the Gate</strong></p>\r\n\r\n<p style=\"margin-left:40px; text-align:justify\">The eligibility criteria for students who wish to apply to declare their major from the gate, with the declaration effective in the fall 2027 semester or the spring 2028 semester, can be accessed through the link below. Admission to the major is based on the program's student capacity.</p>\r\n\r\n<p style=\"margin-left:40px\">To view the eligibility criteria, <a href=\"#\" class=\"permalink\" data-permalink_id=\"59779\" data-legacy_id=\"1922\" data-signature=\"bcce2fd13295e05e152f6627b384f2c1\" data-display_type=\"same\" data-link_text=\"Click Here.\" data-anchor_text=\"\" data-from_id=\"5033\" data-from_type=\"program\" data-to_id=\"1336\" data-to_type=\"content\" data-show_title=\"1\" data-to_legacy_id=\"2396\" data-to_url=\"/api/aucegypt/catalog/32/page/1336/\">Click Here.</a> </p>\r\n\r\n<p style=\"margin-left:40px\"><strong>Eligibility Criteria for Data Science Major Declaration from Within</strong></p>\r\n\r\n<p style=\"margin-left:40px; text-align:justify\">The eligibility criteria for undeclared students (or students switching majors) who wish to apply to declare their major, with the declaration effective in the fall 2027 semester or the spring 2028 semester, can be accessed through the link below. Admission to the major is based on the program's student capacity.</p>\r\n\r\n<p style=\"margin-left:40px\">To view the eligibility criteria, <a href=\"#\" class=\"permalink\" data-permalink_id=\"59777\" data-legacy_id=\"1923\" data-signature=\"f5880f5d1e9f590805d235a703ae3121\" data-display_type=\"same\" data-link_text=\"Click Here.\" data-anchor_text=\"\" data-from_id=\"5033\" data-from_type=\"program\" data-to_id=\"1348\" data-to_type=\"content\" data-show_title=\"1\" data-to_legacy_id=\"2408\" data-to_url=\"/api/aucegypt/catalog/32/page/1348/\">Click Here.</a> </p>\r\n\r\n<p style=\"text-align:justify\"><br />\r\nA total of 135 credits is required for the bachelor's degree in Data Science. Students may be exempted from the <a href=\"#\" class=\"permalink\" data-permalink_id=\"59778\" data-legacy_id=\"287\" data-signature=\"60ebd092b3966db28bbd43cbb62d64fe\" data-display_type=\"tooltip\" data-link_text=\" %title%\" data-anchor_text=\"\" data-from_id=\"5033\" data-from_type=\"program\" data-to_id=\"61853\" data-to_type=\"course\" data-show_title=\"1\" data-to_legacy_id=\"118304\" data-to_url=\"/api/aucegypt/catalog/32/course/61853/\"> MACT 1121  -  Calculus I (3 cr.)</a> requirement based on high school certificate and score in mathematics or by passing a placement examination.</p>\r\n",
+ "parents": [
+  {
+   "id": 1404,
+   "legacy-id": 2105,
+   "catalog-id": 32,
+   "name": "Department of Mathematics and Actuarial Science",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "hierarchy_type": "Department",
+   "url": "/api/aucegypt/catalog/32/hierarchy/1404/"
+  }
+ ],
+ "locations": [],
+ "cores": [
+  {
+   "id": 21985,
+   "catalog-id": 32,
+   "legacy-id": 36143,
+   "created": "2026-06-07 14:59:19",
+   "modified": "2026-08-31 21:30:07",
+   "name": "Core Curriculum Requirements (34 credits)",
+   "code": "",
+   "description": "<p style=\"text-align:justify;\">The remaining 6 credit hours required to satisfy the core are fulfilled by the concentration Science (3 crs) and the <a href=\"#\" class=\"permalink\" data-permalink_id=\"63843\" data-legacy_id=\"1656\" data-signature=\"41f97c72ef53720092d75df5a1a3d6e3\" data-display_type=\"tooltip\" data-link_text=\" %title%\" data-anchor_text=\"\" data-from_id=\"21985\" data-from_type=\"core\" data-to_id=\"63130\" data-to_type=\"course\" data-show_title=\"1\" data-to_legacy_id=\"119622\" data-to_url=\"/api/aucegypt/catalog/32/course/63130/\"> DSCI 4416  -  Capstone l (Data Science Senior Project l) (1 cr.)</a> and <a href=\"#\" class=\"permalink\" data-permalink_id=\"63842\" data-legacy_id=\"1657\" data-signature=\"097657afd5ba996f1335795a42a46c8c\" data-display_type=\"tooltip\" data-link_text=\" %title%\" data-anchor_text=\"\" data-from_id=\"21985\" data-from_type=\"core\" data-to_id=\"63131\" data-to_type=\"course\" data-show_title=\"1\" data-to_legacy_id=\"119623\" data-to_url=\"/api/aucegypt/catalog/32/course/63131/\"> DSCI 4417  -  Capstone II (Data Science Project II) (2 cr.)</a>. Data Science students must take 1 credit hour of Natural Science lab.<br>\n </p>\n",
+   "shared": false,
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "courses": [],
+   "adhocs": [],
+   "sort_order": 195,
+   "children": []
+  },
+  {
+   "id": 21986,
+   "catalog-id": 32,
+   "legacy-id": 36144,
+   "created": "2026-06-07 14:59:19",
+   "modified": "2026-07-28 07:10:58",
+   "name": "Concentration Requirements (28 credits)",
+   "code": "",
+   "description": "",
+   "shared": false,
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "courses": [],
+   "adhocs": [],
+   "sort_order": 429,
+   "children": []
+  },
+  {
+   "id": 21987,
+   "catalog-id": 32,
+   "legacy-id": 36145,
+   "created": "2026-06-07 14:59:19",
+   "modified": "2026-07-28 07:14:11",
+   "name": "Collateral Requirements (52 credits)",
+   "code": "",
+   "description": "",
+   "shared": false,
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "courses": [],
+   "adhocs": [],
+   "sort_order": 597,
+   "children": []
+  },
+  {
+   "id": 21988,
+   "catalog-id": 32,
+   "legacy-id": 36146,
+   "created": "2026-06-07 14:59:19",
+   "modified": "2026-07-28 07:21:00",
+   "name": "Data Science Electives (21 credits)",
+   "code": "",
+   "description": "",
+   "shared": false,
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "courses": [],
+   "adhocs": [],
+   "sort_order": 695,
+   "children": []
+  }
+ ]
+}

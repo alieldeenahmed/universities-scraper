@@ -1,0 +1,2017 @@
+{
+ "id": 1378,
+ "legacy-id": 2079,
+ "catalog-id": 32,
+ "name": "Mohamed Shafik Gabr Department of Economics",
+ "status": {
+  "catalog-id": 32,
+  "active": true,
+  "searchable": true,
+  "visible": true
+ },
+ "hierarchy_type": "Department",
+ "parents": [
+  {
+   "id": 1376,
+   "legacy-id": 2077,
+   "catalog-id": 32,
+   "name": "Onsi Sawiris School of Business",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "hierarchy_type": "School",
+   "url": "/api/aucegypt/catalog/32/hierarchy/1376/"
+  }
+ ],
+ "courses": [
+  {
+   "id": 61221,
+   "legacy-id": 118012,
+   "catalog-id": 32,
+   "title": "ECON 1099  -  Selected Topics for Core Curriculum (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3284,
+     "legacy-id": 4024,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Economics",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 33,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/61221/"
+  },
+  {
+   "id": 61222,
+   "legacy-id": 118013,
+   "catalog-id": 32,
+   "title": "ECON 2021  -  Introduction to Macroeconomics (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3284,
+     "legacy-id": 4024,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Economics",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 33,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/61222/"
+  },
+  {
+   "id": 61223,
+   "legacy-id": 118014,
+   "catalog-id": 32,
+   "title": "ECON 2011  -  Introduction to Microeconomics (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3284,
+     "legacy-id": 4024,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Economics",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 33,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/61223/"
+  },
+  {
+   "id": 61224,
+   "legacy-id": 118015,
+   "catalog-id": 32,
+   "title": "ECON 2061  -  Mathematics for Economists I (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3284,
+     "legacy-id": 4024,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Economics",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 33,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/61224/"
+  },
+  {
+   "id": 61225,
+   "legacy-id": 118016,
+   "catalog-id": 32,
+   "title": "ECON 2081  -  Statistics for Economists (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3284,
+     "legacy-id": 4024,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Economics",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 33,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/61225/"
+  },
+  {
+   "id": 61226,
+   "legacy-id": 118017,
+   "catalog-id": 32,
+   "title": "ECON 2051  -  Economic History of the Modern Middle East (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3284,
+     "legacy-id": 4024,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Economics",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 33,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/61226/"
+  },
+  {
+   "id": 61227,
+   "legacy-id": 118018,
+   "catalog-id": 32,
+   "title": "ECON 3021  -  Intermediate Macroeconomic Theory (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3284,
+     "legacy-id": 4024,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Economics",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 33,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/61227/"
+  },
+  {
+   "id": 61228,
+   "legacy-id": 118019,
+   "catalog-id": 32,
+   "title": "ECON 3011  -  Intermediate Microeconomic Theory (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3284,
+     "legacy-id": 4024,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Economics",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 33,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/61228/"
+  },
+  {
+   "id": 61229,
+   "legacy-id": 118020,
+   "catalog-id": 32,
+   "title": "ECON 3041  -  Monetary Economics (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3284,
+     "legacy-id": 4024,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Economics",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 33,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/61229/"
+  },
+  {
+   "id": 61230,
+   "legacy-id": 118021,
+   "catalog-id": 32,
+   "title": "ECON 3071  -  Labor Economics (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3284,
+     "legacy-id": 4024,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Economics",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 33,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/61230/"
+  },
+  {
+   "id": 61231,
+   "legacy-id": 118022,
+   "catalog-id": 32,
+   "title": "ECON 4014  -  Public Economics and Policy Analysis (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3284,
+     "legacy-id": 4024,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Economics",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 33,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/61231/"
+  },
+  {
+   "id": 61232,
+   "legacy-id": 118023,
+   "catalog-id": 32,
+   "title": "ECON 3053  -  Economic Development (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3284,
+     "legacy-id": 4024,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Economics",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 33,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/61232/"
+  },
+  {
+   "id": 61233,
+   "legacy-id": 118024,
+   "catalog-id": 32,
+   "title": "ECON 3061  -  Mathematics for Economists II (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3284,
+     "legacy-id": 4024,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Economics",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 33,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/61233/"
+  },
+  {
+   "id": 61234,
+   "legacy-id": 118025,
+   "catalog-id": 32,
+   "title": "ECON 3081  -  Introduction to Econometrics (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3284,
+     "legacy-id": 4024,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Economics",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 33,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/61234/"
+  },
+  {
+   "id": 61235,
+   "legacy-id": 118026,
+   "catalog-id": 32,
+   "title": "ECON 3055  -  The Digital Economy: Artificial Intelligence, the Future of Work and Development (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3284,
+     "legacy-id": 4024,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Economics",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 33,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/61235/"
+  },
+  {
+   "id": 61236,
+   "legacy-id": 118027,
+   "catalog-id": 32,
+   "title": "ECON 4031  -  International Trade (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3284,
+     "legacy-id": 4024,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Economics",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 33,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/61236/"
+  },
+  {
+   "id": 61237,
+   "legacy-id": 118028,
+   "catalog-id": 32,
+   "title": "ECON 4091  -  History of Economic Thought (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3284,
+     "legacy-id": 4024,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Economics",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 33,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/61237/"
+  },
+  {
+   "id": 61238,
+   "legacy-id": 118029,
+   "catalog-id": 32,
+   "title": "ECON 4099  -  Seminar: Selected Topics in Economics (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3284,
+     "legacy-id": 4024,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Economics",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 33,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/61238/"
+  },
+  {
+   "id": 61239,
+   "legacy-id": 118030,
+   "catalog-id": 32,
+   "title": "ECON 4012  -  Feasibility Study (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3284,
+     "legacy-id": 4024,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Economics",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 33,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/61239/"
+  },
+  {
+   "id": 61240,
+   "legacy-id": 118031,
+   "catalog-id": 32,
+   "title": "ECON 4094  -  Economics of Egypt (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3284,
+     "legacy-id": 4024,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Economics",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 33,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/61240/"
+  },
+  {
+   "id": 61241,
+   "legacy-id": 118032,
+   "catalog-id": 32,
+   "title": "ECON 4051  -  Seminar on Economic Development and Policy in the Middle East (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3284,
+     "legacy-id": 4024,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Economics",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 33,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/61241/"
+  },
+  {
+   "id": 61242,
+   "legacy-id": 118033,
+   "catalog-id": 32,
+   "title": "ECON 4081  -  Econometrics (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3284,
+     "legacy-id": 4024,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Economics",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 33,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/61242/"
+  },
+  {
+   "id": 61243,
+   "legacy-id": 118034,
+   "catalog-id": 32,
+   "title": "ECON 4082  -  Practicum (1 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3284,
+     "legacy-id": 4024,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Economics",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 33,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/61243/"
+  },
+  {
+   "id": 61244,
+   "legacy-id": 118035,
+   "catalog-id": 32,
+   "title": "ECON 4000  -  Independent Study (1-3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3284,
+     "legacy-id": 4024,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Economics",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 33,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/61244/"
+  },
+  {
+   "id": 61245,
+   "legacy-id": 118036,
+   "catalog-id": 32,
+   "title": "ECON 4061  -  Mathematical Economics (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3284,
+     "legacy-id": 4024,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Economics",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 33,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/61245/"
+  },
+  {
+   "id": 61246,
+   "legacy-id": 118037,
+   "catalog-id": 32,
+   "title": "ECON 5251  -  The Economic Setting for Development II (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3284,
+     "legacy-id": 4024,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Economics",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 33,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/61246/"
+  },
+  {
+   "id": 61247,
+   "legacy-id": 118038,
+   "catalog-id": 32,
+   "title": "ECON 5221  -  Advanced Macroeconomic Theory (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3284,
+     "legacy-id": 4024,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Economics",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 33,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/61247/"
+  },
+  {
+   "id": 61248,
+   "legacy-id": 118039,
+   "catalog-id": 32,
+   "title": "ECON 5211  -  Advanced Microeconomic Theory (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3284,
+     "legacy-id": 4024,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Economics",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 33,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/61248/"
+  },
+  {
+   "id": 61249,
+   "legacy-id": 118040,
+   "catalog-id": 32,
+   "title": "ECON 5254  -  Economic Growth & Development (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3284,
+     "legacy-id": 4024,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Economics",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 33,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/61249/"
+  },
+  {
+   "id": 61250,
+   "legacy-id": 118041,
+   "catalog-id": 32,
+   "title": "ECON 5241  -  Financial Economics (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3284,
+     "legacy-id": 4024,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Economics",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 33,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/61250/"
+  },
+  {
+   "id": 61251,
+   "legacy-id": 118042,
+   "catalog-id": 32,
+   "title": "ECON 5231  -  Advanced International Trade (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3284,
+     "legacy-id": 4024,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Economics",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 33,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/61251/"
+  },
+  {
+   "id": 61252,
+   "legacy-id": 118043,
+   "catalog-id": 32,
+   "title": "ECON 5299  -  Advanced Topics in Economics (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3284,
+     "legacy-id": 4024,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Economics",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 33,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/61252/"
+  },
+  {
+   "id": 61253,
+   "legacy-id": 118044,
+   "catalog-id": 32,
+   "title": "ECON 5271  -  Advanced Labor Economics (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3284,
+     "legacy-id": 4024,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Economics",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 33,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/61253/"
+  },
+  {
+   "id": 61254,
+   "legacy-id": 118045,
+   "catalog-id": 32,
+   "title": "ECON 5291  -  An Advanced History of Economic Thought (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3284,
+     "legacy-id": 4024,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Economics",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 33,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/61254/"
+  },
+  {
+   "id": 61255,
+   "legacy-id": 118046,
+   "catalog-id": 32,
+   "title": "ECON 5252  -  Economic Development in Middle East Countries (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3284,
+     "legacy-id": 4024,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Economics",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 33,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/61255/"
+  },
+  {
+   "id": 61256,
+   "legacy-id": 118047,
+   "catalog-id": 32,
+   "title": "ECON 5257  -  Economic Strategies for Sustainable Development (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3284,
+     "legacy-id": 4024,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Economics",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 33,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/61256/"
+  },
+  {
+   "id": 61257,
+   "legacy-id": 118048,
+   "catalog-id": 32,
+   "title": "ECON 5256  -  Ethical Issues in Development (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3284,
+     "legacy-id": 4024,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Economics",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 33,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/61257/"
+  },
+  {
+   "id": 61258,
+   "legacy-id": 118049,
+   "catalog-id": 32,
+   "title": "ECON 5261  -  Mathematical Economics (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3284,
+     "legacy-id": 4024,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Economics",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 33,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/61258/"
+  },
+  {
+   "id": 61259,
+   "legacy-id": 118050,
+   "catalog-id": 32,
+   "title": "ECON 5233  -  International Finance (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3284,
+     "legacy-id": 4024,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Economics",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 33,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/61259/"
+  },
+  {
+   "id": 61260,
+   "legacy-id": 118051,
+   "catalog-id": 32,
+   "title": "ECON 5281  -  Time Series Econometrics (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3284,
+     "legacy-id": 4024,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Economics",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 33,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/61260/"
+  },
+  {
+   "id": 61261,
+   "legacy-id": 118052,
+   "catalog-id": 32,
+   "title": "ECON 5213  -  Project Evaluation (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3284,
+     "legacy-id": 4024,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Economics",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 33,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/61261/"
+  },
+  {
+   "id": 61363,
+   "legacy-id": 118053,
+   "catalog-id": 32,
+   "title": "ECON 5215  -  Competitive Strategy and Game Theory (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3284,
+     "legacy-id": 4024,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Economics",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 33,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/61363/"
+  },
+  {
+   "id": 61463,
+   "legacy-id": 118054,
+   "catalog-id": 32,
+   "title": "ECON 5200  -  Independent Study (1-3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3284,
+     "legacy-id": 4024,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Economics",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 33,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/61463/"
+  },
+  {
+   "id": 61464,
+   "legacy-id": 118055,
+   "catalog-id": 32,
+   "title": "ECON 5201  -  Research Workshop (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3284,
+     "legacy-id": 4024,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Economics",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 33,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/61464/"
+  },
+  {
+   "id": 61465,
+   "legacy-id": 118056,
+   "catalog-id": 32,
+   "title": "ECON 5259  -  Research Practicum (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3284,
+     "legacy-id": 4024,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Economics",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 33,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/61465/"
+  },
+  {
+   "id": 61466,
+   "legacy-id": 118057,
+   "catalog-id": 32,
+   "title": "ECON 5202  -  Research Guidance and Thesis (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3284,
+     "legacy-id": 4024,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Economics",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 33,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/61466/"
+  },
+  {
+   "id": 62638,
+   "legacy-id": 119095,
+   "catalog-id": 32,
+   "title": "ECON 5217  -  Health Economics in Developing Countries (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3284,
+     "legacy-id": 4024,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Economics",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 33,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62638/"
+  },
+  {
+   "id": 62639,
+   "legacy-id": 119096,
+   "catalog-id": 32,
+   "title": "ECON 5219  -  Health Care Financing (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3284,
+     "legacy-id": 4024,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Economics",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 33,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62639/"
+  },
+  {
+   "id": 62799,
+   "legacy-id": 119275,
+   "catalog-id": 32,
+   "title": "ECON 4041  -  Financial Economics (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3284,
+     "legacy-id": 4024,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Economics",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 33,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62799/"
+  },
+  {
+   "id": 62800,
+   "legacy-id": 119276,
+   "catalog-id": 32,
+   "title": "ECON 5282  -  Empirical Methods in Development Economics (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3284,
+     "legacy-id": 4024,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Economics",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 33,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62800/"
+  },
+  {
+   "id": 62801,
+   "legacy-id": 119277,
+   "catalog-id": 32,
+   "title": "ECON 5242  -  Financial Econometrics (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3284,
+     "legacy-id": 4024,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Economics",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 33,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62801/"
+  },
+  {
+   "id": 62926,
+   "legacy-id": 119410,
+   "catalog-id": 32,
+   "title": "ECON 3054  -  Environmental and Natural Resource Economics (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3284,
+     "legacy-id": 4024,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Economics",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 33,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62926/"
+  },
+  {
+   "id": 62927,
+   "legacy-id": 119411,
+   "catalog-id": 32,
+   "title": "ECON 4013  -  Behavioral Economics (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3284,
+     "legacy-id": 4024,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Economics",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 33,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62927/"
+  },
+  {
+   "id": 62966,
+   "legacy-id": 119450,
+   "catalog-id": 32,
+   "title": "ECON 4002  -  Senior Thesis (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3284,
+     "legacy-id": 4024,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Economics",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 33,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62966/"
+  },
+  {
+   "id": 62967,
+   "legacy-id": 119451,
+   "catalog-id": 32,
+   "title": "ECON 4015  -  Applied Econometrics (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3284,
+     "legacy-id": 4024,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Economics",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 33,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62967/"
+  },
+  {
+   "id": 63174,
+   "legacy-id": 119666,
+   "catalog-id": 32,
+   "title": "ECON 4050  -  CopyrightX: The Economics of Copyright and Creativity (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3284,
+     "legacy-id": 4024,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Economics",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 33,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/63174/"
+  },
+  {
+   "id": 63241,
+   "legacy-id": 119733,
+   "catalog-id": 32,
+   "title": "ECON 3099  -  Special Topics in Economics (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3284,
+     "legacy-id": 4024,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Economics",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 33,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/63241/"
+  },
+  {
+   "id": 63242,
+   "legacy-id": 119734,
+   "catalog-id": 32,
+   "title": "ECON 5250  -  Economic Setting for Development I (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3284,
+     "legacy-id": 4024,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Economics",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 33,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/63242/"
+  },
+  {
+   "id": 63243,
+   "legacy-id": 119735,
+   "catalog-id": 32,
+   "title": "ECON 5255  -  Advanced Environmental and Natural Resource Economics (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3284,
+     "legacy-id": 4024,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Economics",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 33,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/63243/"
+  },
+  {
+   "id": 63352,
+   "legacy-id": 119847,
+   "catalog-id": 32,
+   "title": "ECON 3082  -  Practicum (1 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3284,
+     "legacy-id": 4024,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Economics",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 33,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/63352/"
+  }
+ ],
+ "description": "<p>Professors: A. El-Shennawy, S.Ille, N. Rizk, M. Said</p>\r\n\r\n<p>Associate Professors: S. Atallah (Associate Dean of Graduate Studies and Research, School of Business), M. Al-Ississ, M. Ayad, M. Bouaddi, M. El-Komi, H. El-Ramly, A. Kamaly</p>\r\n\r\n<p>Assistant Professors: D. Abdel Fattah (Chair), Y. Eissa, N. Omar, I. Tharwat</p>\r\n\r\n<p style=\"text-align:justify\">A society's scarce resources are allocated among various production activities and among various consumers. An economy is made up of business producing goods and services for sale, individuals working, receiving income, and spending that income on the goods and services, and government taxing businesses and individuals and providing services not available from the private sector. The methods in which this complex system is organized and coordinated through a series of interrelated markets is the subject of economics. The basic training in these methods is provided in concentration requirements covering economic theory, statistics, econometrics, finance, development, trade, and economic history.</p>\r\n\r\n<p style=\"text-align:justify\">The Mohamed Shafik Gabr Department of Economics offers three graduate programs in economics: an established master's program and two new programs: an M.A. Economics in International Development and a Graduate Economics Diploma in International Development. Together, these three programs cater to evolving job market needs and keep up with recent developments in the field.</p>\r\n",
+ "options": "{\"searchable\":1}",
+ "college-types": [],
+ "department-types": [],
+ "created": "2026-06-07 10:59:16",
+ "modified": "2026-08-18 06:36:15"
+}

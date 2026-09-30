@@ -1,0 +1,5581 @@
+{
+ "id": 1384,
+ "legacy-id": 2085,
+ "catalog-id": 32,
+ "name": "Department of the Arts",
+ "status": {
+  "catalog-id": 32,
+  "active": true,
+  "searchable": true,
+  "visible": true
+ },
+ "hierarchy_type": "Department",
+ "parents": [
+  {
+   "id": 1380,
+   "legacy-id": 2081,
+   "catalog-id": 32,
+   "name": "School of Humanities and Social Sciences",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "hierarchy_type": "School",
+   "url": "/api/aucegypt/catalog/32/hierarchy/1380/"
+  }
+ ],
+ "courses": [
+  {
+   "id": 60668,
+   "legacy-id": 117758,
+   "catalog-id": 32,
+   "title": "ARTV 1099  -  Selected Topics for Core Curriculum (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3275,
+     "legacy-id": 4015,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Visual Arts",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 92,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/60668/"
+  },
+  {
+   "id": 60669,
+   "legacy-id": 117759,
+   "catalog-id": 32,
+   "title": "ARTV 2200  -  Art Foundations (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3275,
+     "legacy-id": 4015,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Visual Arts",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 92,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/60669/"
+  },
+  {
+   "id": 60670,
+   "legacy-id": 117760,
+   "catalog-id": 32,
+   "title": "ARTV 2201  -  Introduction to Drawing (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3275,
+     "legacy-id": 4015,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Visual Arts",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 92,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/60670/"
+  },
+  {
+   "id": 60671,
+   "legacy-id": 117761,
+   "catalog-id": 32,
+   "title": "ARTV 2202  -  Introduction to Painting (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3275,
+     "legacy-id": 4015,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Visual Arts",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 92,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/60671/"
+  },
+  {
+   "id": 60672,
+   "legacy-id": 117762,
+   "catalog-id": 32,
+   "title": "ARTV 2203  -  Introduction to Sculpture (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3275,
+     "legacy-id": 4015,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Visual Arts",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 92,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/60672/"
+  },
+  {
+   "id": 60673,
+   "legacy-id": 117763,
+   "catalog-id": 32,
+   "title": "ARTV 2230  -  Introduction to Photography and Media Arts (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3275,
+     "legacy-id": 4015,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Visual Arts",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 92,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/60673/"
+  },
+  {
+   "id": 60674,
+   "legacy-id": 117764,
+   "catalog-id": 32,
+   "title": "DSGN 3213  -  Interactive Design (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3329,
+     "legacy-id": 4069,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Graphic Design",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 49,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/60674/"
+  },
+  {
+   "id": 60675,
+   "legacy-id": 117765,
+   "catalog-id": 32,
+   "title": "ARTV 3115  -  Art Theory (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3275,
+     "legacy-id": 4015,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Visual Arts",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 92,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/60675/"
+  },
+  {
+   "id": 60676,
+   "legacy-id": 117766,
+   "catalog-id": 32,
+   "title": "ARTV 3270  -  Selected Topics in Art (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3275,
+     "legacy-id": 4015,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Visual Arts",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 92,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/60676/"
+  },
+  {
+   "id": 60677,
+   "legacy-id": 117767,
+   "catalog-id": 32,
+   "title": "ARTV 4302  -  Independent Study (1-3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3275,
+     "legacy-id": 4015,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Visual Arts",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 92,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/60677/"
+  },
+  {
+   "id": 60678,
+   "legacy-id": 117768,
+   "catalog-id": 32,
+   "title": "ARTV 4269  -  Senior Project (A) (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3275,
+     "legacy-id": 4015,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Visual Arts",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 92,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/60678/"
+  },
+  {
+   "id": 60679,
+   "legacy-id": 117769,
+   "catalog-id": 32,
+   "title": "ARTV 4270  -  Senior Project (B) (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3275,
+     "legacy-id": 4015,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Visual Arts",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 92,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/60679/"
+  },
+  {
+   "id": 61554,
+   "legacy-id": 118145,
+   "catalog-id": 32,
+   "title": "FILM 1099  -  Selected Topics for Core Curriculum (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3291,
+     "legacy-id": 4031,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Film",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 44,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/61554/"
+  },
+  {
+   "id": 61555,
+   "legacy-id": 118146,
+   "catalog-id": 32,
+   "title": "FILM 2120  -  Introduction to Film Art (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3291,
+     "legacy-id": 4031,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Film",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 44,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/61555/"
+  },
+  {
+   "id": 61556,
+   "legacy-id": 118147,
+   "catalog-id": 32,
+   "title": "FILM 2099  -  Selected Topics for Core Curriculum (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3291,
+     "legacy-id": 4031,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Film",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 44,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/61556/"
+  },
+  {
+   "id": 61557,
+   "legacy-id": 118148,
+   "catalog-id": 32,
+   "title": "FILM 3110  -  World Cinema (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3291,
+     "legacy-id": 4031,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Film",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 44,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/61557/"
+  },
+  {
+   "id": 61558,
+   "legacy-id": 118149,
+   "catalog-id": 32,
+   "title": "FILM 3120  -  Cinema in Egypt and the Arab World (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3291,
+     "legacy-id": 4031,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Film",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 44,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/61558/"
+  },
+  {
+   "id": 61559,
+   "legacy-id": 118150,
+   "catalog-id": 32,
+   "title": "FILM 3130  -  Film Theory I (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3291,
+     "legacy-id": 4031,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Film",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 44,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/61559/"
+  },
+  {
+   "id": 61560,
+   "legacy-id": 118152,
+   "catalog-id": 32,
+   "title": "FILM 3160  -  The Filmmaker (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3291,
+     "legacy-id": 4031,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Film",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 44,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/61560/"
+  },
+  {
+   "id": 61561,
+   "legacy-id": 118153,
+   "catalog-id": 32,
+   "title": "FILM 3070  -  Selected Topics in Film (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3291,
+     "legacy-id": 4031,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Film",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 44,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/61561/"
+  },
+  {
+   "id": 61661,
+   "legacy-id": 118154,
+   "catalog-id": 32,
+   "title": "FILM 4402  -  Independent Study (1-3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3291,
+     "legacy-id": 4031,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Film",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 44,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/61661/"
+  },
+  {
+   "id": 61663,
+   "legacy-id": 118155,
+   "catalog-id": 32,
+   "title": "FILM 4250  -  Senior Film Project I (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3291,
+     "legacy-id": 4031,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Film",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 44,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/61663/"
+  },
+  {
+   "id": 61664,
+   "legacy-id": 118156,
+   "catalog-id": 32,
+   "title": "FILM 5170  -  Advanced Seminar in Film Studies and Research (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3291,
+     "legacy-id": 4031,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Film",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 44,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/61664/"
+  },
+  {
+   "id": 62033,
+   "legacy-id": 118486,
+   "catalog-id": 32,
+   "title": "MUSC 1805  -  How to Read Music (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3308,
+     "legacy-id": 4048,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Music",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 66,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62033/"
+  },
+  {
+   "id": 62034,
+   "legacy-id": 118487,
+   "catalog-id": 32,
+   "title": "MUSC 1099  -  Selected Topics for Core Curriculum (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3308,
+     "legacy-id": 4048,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Music",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 66,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62034/"
+  },
+  {
+   "id": 62035,
+   "legacy-id": 118488,
+   "catalog-id": 32,
+   "title": "MUSC 2200  -  Introduction to Music (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3308,
+     "legacy-id": 4048,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Music",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 66,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62035/"
+  },
+  {
+   "id": 62036,
+   "legacy-id": 118489,
+   "catalog-id": 32,
+   "title": "MUSC 2000  -  World Music (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3308,
+     "legacy-id": 4048,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Music",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 66,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62036/"
+  },
+  {
+   "id": 62037,
+   "legacy-id": 118490,
+   "catalog-id": 32,
+   "title": "MUSC 2400  -  Western Music Theory I (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3308,
+     "legacy-id": 4048,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Music",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 66,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62037/"
+  },
+  {
+   "id": 62038,
+   "legacy-id": 118491,
+   "catalog-id": 32,
+   "title": "MUSC 1011  -  Vocal Methods (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3308,
+     "legacy-id": 4048,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Music",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 66,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62038/"
+  },
+  {
+   "id": 62039,
+   "legacy-id": 118492,
+   "catalog-id": 32,
+   "title": "MUSC 2010  -  The Songs of the Americas (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3308,
+     "legacy-id": 4048,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Music",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 66,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62039/"
+  },
+  {
+   "id": 62040,
+   "legacy-id": 118493,
+   "catalog-id": 32,
+   "title": "MUSC 2620  -  Arab Music Ensemble (1 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3308,
+     "legacy-id": 4048,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Music",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 66,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62040/"
+  },
+  {
+   "id": 62041,
+   "legacy-id": 118494,
+   "catalog-id": 32,
+   "title": "MUSC 2650  -  Rehearsal/Performance Practicum (1 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3308,
+     "legacy-id": 4048,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Music",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 66,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62041/"
+  },
+  {
+   "id": 62042,
+   "legacy-id": 118495,
+   "catalog-id": 32,
+   "title": "MUSC 2660  -  Chamber Singers (1 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3308,
+     "legacy-id": 4048,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Music",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 66,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62042/"
+  },
+  {
+   "id": 62043,
+   "legacy-id": 118496,
+   "catalog-id": 32,
+   "title": "MUSC 1800  -  Individual Lessons in Voice or an Instrument (1 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3308,
+     "legacy-id": 4048,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Music",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 66,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62043/"
+  },
+  {
+   "id": 62044,
+   "legacy-id": 118497,
+   "catalog-id": 32,
+   "title": "MUSC 2099  -  Selected Topics for Core Curriculum (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3308,
+     "legacy-id": 4048,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Music",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 66,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62044/"
+  },
+  {
+   "id": 62045,
+   "legacy-id": 118498,
+   "catalog-id": 32,
+   "title": "MUSC 2300  -  Introduction to Music Technology (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3308,
+     "legacy-id": 4048,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Music",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 66,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62045/"
+  },
+  {
+   "id": 62046,
+   "legacy-id": 118499,
+   "catalog-id": 32,
+   "title": "MUSC 2301  -  Music Production Using Digital Audio Workstations I (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3308,
+     "legacy-id": 4048,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Music",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 66,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62046/"
+  },
+  {
+   "id": 62047,
+   "legacy-id": 118500,
+   "catalog-id": 32,
+   "title": "MUSC 3400  -  Western Music Theory II (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3308,
+     "legacy-id": 4048,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Music",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 66,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62047/"
+  },
+  {
+   "id": 62048,
+   "legacy-id": 118501,
+   "catalog-id": 32,
+   "title": "MUSC 3250  -  Music in the Arab Tradition (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3308,
+     "legacy-id": 4048,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Music",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 66,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62048/"
+  },
+  {
+   "id": 62049,
+   "legacy-id": 118502,
+   "catalog-id": 32,
+   "title": "MUSC 3200  -  Music in the Western Tradition: Ancient to Classical (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3308,
+     "legacy-id": 4048,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Music",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 66,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62049/"
+  },
+  {
+   "id": 62050,
+   "legacy-id": 118503,
+   "catalog-id": 32,
+   "title": "MUSC 3099  -  Selected Topics in Music (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3308,
+     "legacy-id": 4048,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Music",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 66,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62050/"
+  },
+  {
+   "id": 62051,
+   "legacy-id": 118504,
+   "catalog-id": 32,
+   "title": "MUSC 3900  -  Independent Study (1-3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3308,
+     "legacy-id": 4048,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Music",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 66,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62051/"
+  },
+  {
+   "id": 62052,
+   "legacy-id": 118505,
+   "catalog-id": 32,
+   "title": "MUSC 4900  -  Advanced Seminar (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3308,
+     "legacy-id": 4048,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Music",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 66,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62052/"
+  },
+  {
+   "id": 62367,
+   "legacy-id": 118824,
+   "catalog-id": 32,
+   "title": "THTR 1200  -  Acting for Non-Majors (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3323,
+     "legacy-id": 4063,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Theatre",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 89,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62367/"
+  },
+  {
+   "id": 62368,
+   "legacy-id": 118825,
+   "catalog-id": 32,
+   "title": "THTR 1101  -  The World of the Theatre (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3323,
+     "legacy-id": 4063,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Theatre",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 89,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62368/"
+  },
+  {
+   "id": 62369,
+   "legacy-id": 118826,
+   "catalog-id": 32,
+   "title": "THTR 1099  -  Selected Topics for Core Curriculum (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3323,
+     "legacy-id": 4063,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Theatre",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 89,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62369/"
+  },
+  {
+   "id": 62370,
+   "legacy-id": 118827,
+   "catalog-id": 32,
+   "title": "THTR 1201  -  Theatre in the Making (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3323,
+     "legacy-id": 4063,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Theatre",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 89,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62370/"
+  },
+  {
+   "id": 62371,
+   "legacy-id": 118828,
+   "catalog-id": 32,
+   "title": "THTR 2401  -  Introduction to Technical Theatre (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3323,
+     "legacy-id": 4063,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Theatre",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 89,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62371/"
+  },
+  {
+   "id": 62372,
+   "legacy-id": 118829,
+   "catalog-id": 32,
+   "title": "THTR 2201  -  Acting I (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3323,
+     "legacy-id": 4063,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Theatre",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 89,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62372/"
+  },
+  {
+   "id": 62373,
+   "legacy-id": 118830,
+   "catalog-id": 32,
+   "title": "THTR 2211  -  Acting in Arabic I (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3323,
+     "legacy-id": 4063,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Theatre",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 89,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62373/"
+  },
+  {
+   "id": 62374,
+   "legacy-id": 118831,
+   "catalog-id": 32,
+   "title": "THTR 3201  -  Acting II (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3323,
+     "legacy-id": 4063,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Theatre",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 89,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62374/"
+  },
+  {
+   "id": 62375,
+   "legacy-id": 118832,
+   "catalog-id": 32,
+   "title": "THTR 2601  -  Production Practicum (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3323,
+     "legacy-id": 4063,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Theatre",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 89,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62375/"
+  },
+  {
+   "id": 62376,
+   "legacy-id": 118833,
+   "catalog-id": 32,
+   "title": "THTR 2099  -  Selected Topics for Core Curriculum (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3323,
+     "legacy-id": 4063,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Theatre",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 89,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62376/"
+  },
+  {
+   "id": 62377,
+   "legacy-id": 118834,
+   "catalog-id": 32,
+   "title": "THTR 3401  -  Design for the Theatre (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3323,
+     "legacy-id": 4063,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Theatre",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 89,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62377/"
+  },
+  {
+   "id": 62378,
+   "legacy-id": 118835,
+   "catalog-id": 32,
+   "title": "THTR 3205  -  Acting Styles (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3323,
+     "legacy-id": 4063,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Theatre",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 89,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62378/"
+  },
+  {
+   "id": 62379,
+   "legacy-id": 118836,
+   "catalog-id": 32,
+   "title": "THTR 3211  -  Acting in Arabic II (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3323,
+     "legacy-id": 4063,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Theatre",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 89,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62379/"
+  },
+  {
+   "id": 62380,
+   "legacy-id": 118837,
+   "catalog-id": 32,
+   "title": "THTR 3203  -  Special Topics in Acting (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3323,
+     "legacy-id": 4063,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Theatre",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 89,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62380/"
+  },
+  {
+   "id": 62381,
+   "legacy-id": 118838,
+   "catalog-id": 32,
+   "title": "THTR 3301  -  Directing I (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3323,
+     "legacy-id": 4063,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Theatre",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 89,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62381/"
+  },
+  {
+   "id": 62382,
+   "legacy-id": 118839,
+   "catalog-id": 32,
+   "title": "THTR 3601  -  Advanced Theatre Practicum (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3323,
+     "legacy-id": 4063,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Theatre",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 89,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62382/"
+  },
+  {
+   "id": 62383,
+   "legacy-id": 118840,
+   "catalog-id": 32,
+   "title": "THTR 3603  -  Advanced Production and Design Practicum (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3323,
+     "legacy-id": 4063,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Theatre",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 89,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62383/"
+  },
+  {
+   "id": 62384,
+   "legacy-id": 118841,
+   "catalog-id": 32,
+   "title": "THTR 3501  -  Scriptwriting (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3323,
+     "legacy-id": 4063,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Theatre",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 89,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62384/"
+  },
+  {
+   "id": 62385,
+   "legacy-id": 118842,
+   "catalog-id": 32,
+   "title": "THTR 3099  -  Selected Topics in Theatre (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3323,
+     "legacy-id": 4063,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Theatre",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 89,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62385/"
+  },
+  {
+   "id": 62386,
+   "legacy-id": 118843,
+   "catalog-id": 32,
+   "title": "THTR 4000  -  Independent Study (1-3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3323,
+     "legacy-id": 4063,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Theatre",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 89,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62386/"
+  },
+  {
+   "id": 62387,
+   "legacy-id": 118844,
+   "catalog-id": 32,
+   "title": "THTR 4301  -  Directing II (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3323,
+     "legacy-id": 4063,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Theatre",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 89,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62387/"
+  },
+  {
+   "id": 62388,
+   "legacy-id": 118845,
+   "catalog-id": 32,
+   "title": "THTR 4103  -  Dramatic Theory and Criticism (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3323,
+     "legacy-id": 4063,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Theatre",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 89,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62388/"
+  },
+  {
+   "id": 62389,
+   "legacy-id": 118846,
+   "catalog-id": 32,
+   "title": "THTR 4701  -  Senior Seminar (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3323,
+     "legacy-id": 4063,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Theatre",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 89,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62389/"
+  },
+  {
+   "id": 62485,
+   "legacy-id": 118942,
+   "catalog-id": 32,
+   "title": "THTR 2603  -  Rehearsal and Performance Practicum (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3323,
+     "legacy-id": 4063,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Theatre",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 89,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62485/"
+  },
+  {
+   "id": 62486,
+   "legacy-id": 118943,
+   "catalog-id": 32,
+   "title": "THTR 4703  -  Senior Thesis (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3323,
+     "legacy-id": 4063,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Theatre",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 89,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62486/"
+  },
+  {
+   "id": 62487,
+   "legacy-id": 118944,
+   "catalog-id": 32,
+   "title": "MUSC 3302  -  Digital Audio / MIDI Lab (1 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3308,
+     "legacy-id": 4048,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Music",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 66,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62487/"
+  },
+  {
+   "id": 62488,
+   "legacy-id": 118945,
+   "catalog-id": 32,
+   "title": "MUSC 2401  -  Sight-Singing and Aural Skills I (1 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3308,
+     "legacy-id": 4048,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Music",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 66,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62488/"
+  },
+  {
+   "id": 62489,
+   "legacy-id": 118946,
+   "catalog-id": 32,
+   "title": "MUSC 2450  -  Arab Music Theory I (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3308,
+     "legacy-id": 4048,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Music",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 66,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62489/"
+  },
+  {
+   "id": 62490,
+   "legacy-id": 118947,
+   "catalog-id": 32,
+   "title": "MUSC 2451  -  Maqam I (Arab Music Sight-Singing and Aural Skills) (1 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3308,
+     "legacy-id": 4048,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Music",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 66,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62490/"
+  },
+  {
+   "id": 62491,
+   "legacy-id": 118948,
+   "catalog-id": 32,
+   "title": "MUSC 2630  -  Guitar Ensemble (1 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3308,
+     "legacy-id": 4048,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Music",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 66,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62491/"
+  },
+  {
+   "id": 62492,
+   "legacy-id": 118949,
+   "catalog-id": 32,
+   "title": "MUSC 2670  -  Cairo Choral Society (1 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3308,
+     "legacy-id": 4048,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Music",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 66,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62492/"
+  },
+  {
+   "id": 62493,
+   "legacy-id": 118950,
+   "catalog-id": 32,
+   "title": "MUSC 2850  -  Individual Instruction for Piano Proficiency I (1 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3308,
+     "legacy-id": 4048,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Music",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 66,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62493/"
+  },
+  {
+   "id": 62494,
+   "legacy-id": 118951,
+   "catalog-id": 32,
+   "title": "MUSC 2303  -  Microphone Techniques (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3308,
+     "legacy-id": 4048,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Music",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 66,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62494/"
+  },
+  {
+   "id": 62495,
+   "legacy-id": 118952,
+   "catalog-id": 32,
+   "title": "MUSC 3304  -  Music Production for Visual Media (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3308,
+     "legacy-id": 4048,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Music",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 66,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62495/"
+  },
+  {
+   "id": 62496,
+   "legacy-id": 118953,
+   "catalog-id": 32,
+   "title": "MUSC 3305  -  History of Electronic Music (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3308,
+     "legacy-id": 4048,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Music",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 66,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62496/"
+  },
+  {
+   "id": 62497,
+   "legacy-id": 118954,
+   "catalog-id": 32,
+   "title": "MUSC 3306  -  Sound for Picture Production (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3308,
+     "legacy-id": 4048,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Music",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 66,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62497/"
+  },
+  {
+   "id": 62498,
+   "legacy-id": 118955,
+   "catalog-id": 32,
+   "title": "MUSC 4308  -  Music Production Using Digital Audio Workstations II (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3308,
+     "legacy-id": 4048,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Music",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 66,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62498/"
+  },
+  {
+   "id": 62499,
+   "legacy-id": 118956,
+   "catalog-id": 32,
+   "title": "MUSC 4309  -  Digital Mixing Techniques (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3308,
+     "legacy-id": 4048,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Music",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 66,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62499/"
+  },
+  {
+   "id": 62500,
+   "legacy-id": 118957,
+   "catalog-id": 32,
+   "title": "MUSC 3401  -  Sight-Singing and Aural Skills II (1 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3308,
+     "legacy-id": 4048,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Music",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 66,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62500/"
+  },
+  {
+   "id": 62501,
+   "legacy-id": 118958,
+   "catalog-id": 32,
+   "title": "MUSC 3150  -  Western and Arab Musical Instruments (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3308,
+     "legacy-id": 4048,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Music",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 66,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62501/"
+  },
+  {
+   "id": 62502,
+   "legacy-id": 118959,
+   "catalog-id": 32,
+   "title": "MUSC 3450  -  Arab Music Theory II (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3308,
+     "legacy-id": 4048,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Music",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 66,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62502/"
+  },
+  {
+   "id": 62610,
+   "legacy-id": 119067,
+   "catalog-id": 32,
+   "title": "MUSC 4980  -  Capstone Final Recital (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3308,
+     "legacy-id": 4048,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Music",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 66,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62610/"
+  },
+  {
+   "id": 62611,
+   "legacy-id": 119068,
+   "catalog-id": 32,
+   "title": "MUSC 4400  -  Western Music Theory III (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3308,
+     "legacy-id": 4048,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Music",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 66,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62611/"
+  },
+  {
+   "id": 62612,
+   "legacy-id": 119069,
+   "catalog-id": 32,
+   "title": "MUSC 3520  -  Music Pedagogy (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3308,
+     "legacy-id": 4048,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Music",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 66,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62612/"
+  },
+  {
+   "id": 62613,
+   "legacy-id": 119070,
+   "catalog-id": 32,
+   "title": "MUSC 3110  -  Diction for Singers in the Western Tradition (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3308,
+     "legacy-id": 4048,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Music",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 66,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62613/"
+  },
+  {
+   "id": 62614,
+   "legacy-id": 119071,
+   "catalog-id": 32,
+   "title": "MUSC 2640  -  Chamber Music Ensemble (1 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3308,
+     "legacy-id": 4048,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Music",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 66,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62614/"
+  },
+  {
+   "id": 62615,
+   "legacy-id": 119072,
+   "catalog-id": 32,
+   "title": "MUSC 3451  -  Maqam II (Arab Music Sight-Singing and Aural Skills) (1 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3308,
+     "legacy-id": 4048,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Music",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 66,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62615/"
+  },
+  {
+   "id": 62616,
+   "legacy-id": 119073,
+   "catalog-id": 32,
+   "title": "MUSC 4401  -  Sight-Singing and Aural Skills III (1 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3308,
+     "legacy-id": 4048,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Music",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 66,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62616/"
+  },
+  {
+   "id": 62681,
+   "legacy-id": 119141,
+   "catalog-id": 32,
+   "title": "DSGN 2200  -  Design Foundations (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3329,
+     "legacy-id": 4069,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Graphic Design",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 49,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62681/"
+  },
+  {
+   "id": 62682,
+   "legacy-id": 119142,
+   "catalog-id": 32,
+   "title": "DSGN 2201  -  Design Principles & Practices (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3329,
+     "legacy-id": 4069,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Graphic Design",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 49,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62682/"
+  },
+  {
+   "id": 62683,
+   "legacy-id": 119143,
+   "catalog-id": 32,
+   "title": "DSGN 3202  -  Logo and Visual Identity Design (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3329,
+     "legacy-id": 4069,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Graphic Design",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 49,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62683/"
+  },
+  {
+   "id": 62684,
+   "legacy-id": 119144,
+   "catalog-id": 32,
+   "title": "DSGN 2210  -  Typography I (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3329,
+     "legacy-id": 4069,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Graphic Design",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 49,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62684/"
+  },
+  {
+   "id": 62685,
+   "legacy-id": 119145,
+   "catalog-id": 32,
+   "title": "DSGN 2115  -  History of Graphic Design (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3329,
+     "legacy-id": 4069,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Graphic Design",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 49,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62685/"
+  },
+  {
+   "id": 62686,
+   "legacy-id": 119146,
+   "catalog-id": 32,
+   "title": "DSGN 2113  -  Introduction to Visual Cultures (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3329,
+     "legacy-id": 4069,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Graphic Design",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 49,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62686/"
+  },
+  {
+   "id": 62687,
+   "legacy-id": 119147,
+   "catalog-id": 32,
+   "title": "DSGN 2240  -  Color (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3329,
+     "legacy-id": 4069,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Graphic Design",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 49,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62687/"
+  },
+  {
+   "id": 62688,
+   "legacy-id": 119148,
+   "catalog-id": 32,
+   "title": "DSGN 2245  -  Illustration (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3329,
+     "legacy-id": 4069,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Graphic Design",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 49,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62688/"
+  },
+  {
+   "id": 62689,
+   "legacy-id": 119149,
+   "catalog-id": 32,
+   "title": "DSGN 2250  -  Digital Practices I (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3329,
+     "legacy-id": 4069,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Graphic Design",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 49,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62689/"
+  },
+  {
+   "id": 62690,
+   "legacy-id": 119150,
+   "catalog-id": 32,
+   "title": "DSGN 3203  -  Publication Design (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3329,
+     "legacy-id": 4069,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Graphic Design",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 49,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62690/"
+  },
+  {
+   "id": 62691,
+   "legacy-id": 119151,
+   "catalog-id": 32,
+   "title": "DSGN 3204  -  Packaging Design (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3329,
+     "legacy-id": 4069,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Graphic Design",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 49,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62691/"
+  },
+  {
+   "id": 62692,
+   "legacy-id": 119152,
+   "catalog-id": 32,
+   "title": "DSGN 3205  -  Retail Design (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3329,
+     "legacy-id": 4069,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Graphic Design",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 49,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62692/"
+  },
+  {
+   "id": 62693,
+   "legacy-id": 119153,
+   "catalog-id": 32,
+   "title": "DSGN 5115  -  History of Graphic Design in the Arab world (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3329,
+     "legacy-id": 4069,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Graphic Design",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 49,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62693/"
+  },
+  {
+   "id": 62694,
+   "legacy-id": 119154,
+   "catalog-id": 32,
+   "title": "DSGN 3117  -  History of Advertising in the Arab World (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3329,
+     "legacy-id": 4069,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Graphic Design",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 49,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62694/"
+  },
+  {
+   "id": 62695,
+   "legacy-id": 119155,
+   "catalog-id": 32,
+   "title": "DSGN 3118  -  History of Arabic Calligraphy (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3329,
+     "legacy-id": 4069,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Graphic Design",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 49,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62695/"
+  },
+  {
+   "id": 62696,
+   "legacy-id": 119156,
+   "catalog-id": 32,
+   "title": "DSGN 3220  -  Typography II (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3329,
+     "legacy-id": 4069,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Graphic Design",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 49,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62696/"
+  },
+  {
+   "id": 62697,
+   "legacy-id": 119157,
+   "catalog-id": 32,
+   "title": "DSGN 3230  -  Type Design (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3329,
+     "legacy-id": 4069,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Graphic Design",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 49,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62697/"
+  },
+  {
+   "id": 62698,
+   "legacy-id": 119158,
+   "catalog-id": 32,
+   "title": "DSGN 3235  -  Animation and 3D (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3329,
+     "legacy-id": 4069,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Graphic Design",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 49,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62698/"
+  },
+  {
+   "id": 62699,
+   "legacy-id": 119159,
+   "catalog-id": 32,
+   "title": "DSGN 3250  -  Digital Practices II (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3329,
+     "legacy-id": 4069,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Graphic Design",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 49,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62699/"
+  },
+  {
+   "id": 62700,
+   "legacy-id": 119160,
+   "catalog-id": 32,
+   "title": "DSGN 3260  -  Photography for Designers (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3329,
+     "legacy-id": 4069,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Graphic Design",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 49,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62700/"
+  },
+  {
+   "id": 62701,
+   "legacy-id": 119161,
+   "catalog-id": 32,
+   "title": "DSGN 3265  -  Advertising and Branding (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3329,
+     "legacy-id": 4069,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Graphic Design",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 49,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62701/"
+  },
+  {
+   "id": 62702,
+   "legacy-id": 119162,
+   "catalog-id": 32,
+   "title": "DSGN 4200  -  Design Field Practices (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3329,
+     "legacy-id": 4069,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Graphic Design",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 49,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62702/"
+  },
+  {
+   "id": 62703,
+   "legacy-id": 119163,
+   "catalog-id": 32,
+   "title": "DSGN 4210  -  Portfolio (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3329,
+     "legacy-id": 4069,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Graphic Design",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 49,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62703/"
+  },
+  {
+   "id": 62704,
+   "legacy-id": 119164,
+   "catalog-id": 32,
+   "title": "DSGN 2260  -  Production for Designers (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3329,
+     "legacy-id": 4069,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Graphic Design",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 49,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62704/"
+  },
+  {
+   "id": 62705,
+   "legacy-id": 119165,
+   "catalog-id": 32,
+   "title": "DSGN 4269  -  Senior Project Thesis (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3329,
+     "legacy-id": 4069,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Graphic Design",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 49,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62705/"
+  },
+  {
+   "id": 62706,
+   "legacy-id": 119166,
+   "catalog-id": 32,
+   "title": "DSGN 4270  -  Senior Project Practice (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3329,
+     "legacy-id": 4069,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Graphic Design",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 49,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62706/"
+  },
+  {
+   "id": 62707,
+   "legacy-id": 119167,
+   "catalog-id": 32,
+   "title": "ARTV 2204  -  Introduction to Time-Based Media (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3275,
+     "legacy-id": 4015,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Visual Arts",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 92,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62707/"
+  },
+  {
+   "id": 62708,
+   "legacy-id": 119168,
+   "catalog-id": 32,
+   "title": "ARTV 2113  -  Introduction to Visual Cultures (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3275,
+     "legacy-id": 4015,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Visual Arts",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 92,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62708/"
+  },
+  {
+   "id": 62709,
+   "legacy-id": 119169,
+   "catalog-id": 32,
+   "title": "ARTV 5110  -  Contemporary issues in Arab Art (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3275,
+     "legacy-id": 4015,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Visual Arts",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 92,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62709/"
+  },
+  {
+   "id": 62710,
+   "legacy-id": 119170,
+   "catalog-id": 32,
+   "title": "FILM 3254  -  Film Editing (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3291,
+     "legacy-id": 4031,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Film",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 44,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62710/"
+  },
+  {
+   "id": 62711,
+   "legacy-id": 119171,
+   "catalog-id": 32,
+   "title": "FILM 3253  -  Cinematography (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3291,
+     "legacy-id": 4031,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Film",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 44,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62711/"
+  },
+  {
+   "id": 62712,
+   "legacy-id": 119172,
+   "catalog-id": 32,
+   "title": "FILM 3252  -  Writing for Film (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3291,
+     "legacy-id": 4031,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Film",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 44,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62712/"
+  },
+  {
+   "id": 62713,
+   "legacy-id": 119173,
+   "catalog-id": 32,
+   "title": "FILM 3355  -  Internship in Film Production (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3291,
+     "legacy-id": 4031,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Film",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 44,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62713/"
+  },
+  {
+   "id": 62796,
+   "legacy-id": 119272,
+   "catalog-id": 32,
+   "title": "THTR 4110  -  Theatrical and Dramatic Translation (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3323,
+     "legacy-id": 4063,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Theatre",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 89,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62796/"
+  },
+  {
+   "id": 62857,
+   "legacy-id": 119334,
+   "catalog-id": 32,
+   "title": "MUSC 3308  -  Live Sound Reinforcement (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3308,
+     "legacy-id": 4048,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Music",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 66,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62857/"
+  },
+  {
+   "id": 62858,
+   "legacy-id": 119335,
+   "catalog-id": 32,
+   "title": "THTR 3403  -  Make Up for the Theatre (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3323,
+     "legacy-id": 4063,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Theatre",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 89,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62858/"
+  },
+  {
+   "id": 62859,
+   "legacy-id": 119336,
+   "catalog-id": 32,
+   "title": "THTR 4404  -  Scene Design (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3323,
+     "legacy-id": 4063,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Theatre",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 89,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62859/"
+  },
+  {
+   "id": 62860,
+   "legacy-id": 119337,
+   "catalog-id": 32,
+   "title": "THTR 4405  -  Stage Lighting (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3323,
+     "legacy-id": 4063,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Theatre",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 89,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62860/"
+  },
+  {
+   "id": 62861,
+   "legacy-id": 119338,
+   "catalog-id": 32,
+   "title": "THTR 4406  -  Costume Design for Theatre and Film (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3323,
+     "legacy-id": 4063,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Theatre",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 89,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62861/"
+  },
+  {
+   "id": 62877,
+   "legacy-id": 119356,
+   "catalog-id": 32,
+   "title": "FILM 3115  -  Topics in American Cinema (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3291,
+     "legacy-id": 4031,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Film",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 44,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62877/"
+  },
+  {
+   "id": 62878,
+   "legacy-id": 119357,
+   "catalog-id": 32,
+   "title": "FILM 3125  -  Topics in National Cinemas (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3291,
+     "legacy-id": 4031,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Film",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 44,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62878/"
+  },
+  {
+   "id": 62879,
+   "legacy-id": 119358,
+   "catalog-id": 32,
+   "title": "FILM 3150  -  Topics in Gender and Film (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3291,
+     "legacy-id": 4031,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Film",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 44,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62879/"
+  },
+  {
+   "id": 62880,
+   "legacy-id": 119359,
+   "catalog-id": 32,
+   "title": "THTR 3103  -  Drama in Context I: Ritual to Pre-Modern (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3323,
+     "legacy-id": 4063,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Theatre",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 89,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62880/"
+  },
+  {
+   "id": 62881,
+   "legacy-id": 119360,
+   "catalog-id": 32,
+   "title": "THTR 3104  -  Drama in Context II: Modern to Contemporary (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3323,
+     "legacy-id": 4063,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Theatre",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 89,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62881/"
+  },
+  {
+   "id": 62883,
+   "legacy-id": 119362,
+   "catalog-id": 32,
+   "title": "THTR 3207  -  Movement for the Stage (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3323,
+     "legacy-id": 4063,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Theatre",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 89,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62883/"
+  },
+  {
+   "id": 62949,
+   "legacy-id": 119433,
+   "catalog-id": 32,
+   "title": "ARTV 3314  -  Advanced Studio Arts: Community Engagement (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3275,
+     "legacy-id": 4015,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Visual Arts",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 92,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62949/"
+  },
+  {
+   "id": 62950,
+   "legacy-id": 119434,
+   "catalog-id": 32,
+   "title": "ARTV 3312  -  Advanced Studio Arts: New Media (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3275,
+     "legacy-id": 4015,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Visual Arts",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 92,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62950/"
+  },
+  {
+   "id": 62951,
+   "legacy-id": 119435,
+   "catalog-id": 32,
+   "title": "ARTV 3313  -  Advanced Studio Arts: Archival Practices (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3275,
+     "legacy-id": 4015,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Visual Arts",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 92,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62951/"
+  },
+  {
+   "id": 62953,
+   "legacy-id": 119437,
+   "catalog-id": 32,
+   "title": "ARTV 3311  -  Advanced Painting and Drawing (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3275,
+     "legacy-id": 4015,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Visual Arts",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 92,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62953/"
+  },
+  {
+   "id": 62954,
+   "legacy-id": 119438,
+   "catalog-id": 32,
+   "title": "ARTV 2207  -  Introduction to Ceramics (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3275,
+     "legacy-id": 4015,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Visual Arts",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 92,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62954/"
+  },
+  {
+   "id": 62955,
+   "legacy-id": 119439,
+   "catalog-id": 32,
+   "title": "ARTV 2208  -  Internship Practice (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3275,
+     "legacy-id": 4015,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Visual Arts",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 92,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62955/"
+  },
+  {
+   "id": 62990,
+   "legacy-id": 119474,
+   "catalog-id": 32,
+   "title": "DSGN 3270  -  Selected Topics in Design (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3329,
+     "legacy-id": 4069,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Graphic Design",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 49,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62990/"
+  },
+  {
+   "id": 62991,
+   "legacy-id": 119475,
+   "catalog-id": 32,
+   "title": "FILM 3030  -  Literature and Cinema (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3291,
+     "legacy-id": 4031,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Film",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 44,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62991/"
+  },
+  {
+   "id": 62992,
+   "legacy-id": 119476,
+   "catalog-id": 32,
+   "title": "FILM 2123  -  Introduction to Non-Fiction & Experimental Filmmaking (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3291,
+     "legacy-id": 4031,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Film",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 44,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62992/"
+  },
+  {
+   "id": 62993,
+   "legacy-id": 119477,
+   "catalog-id": 32,
+   "title": "FILM 2121  -  Introduction to Fiction Filmmaking (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3291,
+     "legacy-id": 4031,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Film",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 44,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62993/"
+  },
+  {
+   "id": 62994,
+   "legacy-id": 119478,
+   "catalog-id": 32,
+   "title": "FILM 3201  -  Directing Fiction Films (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3291,
+     "legacy-id": 4031,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Film",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 44,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62994/"
+  },
+  {
+   "id": 62995,
+   "legacy-id": 119479,
+   "catalog-id": 32,
+   "title": "FILM 3402  -  Hybrid Filmmaking (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3291,
+     "legacy-id": 4031,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Film",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 44,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62995/"
+  },
+  {
+   "id": 63003,
+   "legacy-id": 119487,
+   "catalog-id": 32,
+   "title": "FILM 4350  -  Philosophy and Film (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3291,
+     "legacy-id": 4031,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Film",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 44,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/63003/"
+  },
+  {
+   "id": 63006,
+   "legacy-id": 119490,
+   "catalog-id": 32,
+   "title": "ARTV 2214  -  Global Art History: Ancient Power to Early Modernity (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3275,
+     "legacy-id": 4015,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Visual Arts",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 92,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/63006/"
+  },
+  {
+   "id": 63013,
+   "legacy-id": 119497,
+   "catalog-id": 32,
+   "title": "ARTV 3316  -  Global Art History: Modernism to Contemporary Politics (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3275,
+     "legacy-id": 4015,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Visual Arts",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 92,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/63013/"
+  },
+  {
+   "id": 63158,
+   "legacy-id": 119650,
+   "catalog-id": 32,
+   "title": "DSGN 4302  -  Independent Study (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3329,
+     "legacy-id": 4069,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Graphic Design",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 49,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/63158/"
+  },
+  {
+   "id": 63206,
+   "legacy-id": 119698,
+   "catalog-id": 32,
+   "title": "DSGN 3210  -  Information Design (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3329,
+     "legacy-id": 4069,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Graphic Design",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 49,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/63206/"
+  },
+  {
+   "id": 63238,
+   "legacy-id": 119730,
+   "catalog-id": 32,
+   "title": "DSGN 2300  -  Analog Game Design (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3329,
+     "legacy-id": 4069,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Graphic Design",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 49,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/63238/"
+  },
+  {
+   "id": 63239,
+   "legacy-id": 119731,
+   "catalog-id": 32,
+   "title": "DSGN 3300  -  Digital Game Mechanics (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3329,
+     "legacy-id": 4069,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Graphic Design",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 49,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/63239/"
+  },
+  {
+   "id": 63240,
+   "legacy-id": 119732,
+   "catalog-id": 32,
+   "title": "DSGN 3400  -  Digital Game Design (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3329,
+     "legacy-id": 4069,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Graphic Design",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 49,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/63240/"
+  },
+  {
+   "id": 63269,
+   "legacy-id": 119763,
+   "catalog-id": 32,
+   "title": "FILM 3132  -  Film Theory II (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3291,
+     "legacy-id": 4031,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Film",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 44,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/63269/"
+  },
+  {
+   "id": 63270,
+   "legacy-id": 119764,
+   "catalog-id": 32,
+   "title": "FILM 3071  -  Selected Topics in Filmmaking (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3291,
+     "legacy-id": 4031,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Film",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 44,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/63270/"
+  },
+  {
+   "id": 63271,
+   "legacy-id": 119765,
+   "catalog-id": 32,
+   "title": "FILM 4260  -  Senior Film Project II (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3291,
+     "legacy-id": 4031,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Film",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 44,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/63271/"
+  },
+  {
+   "id": 63272,
+   "legacy-id": 119766,
+   "catalog-id": 32,
+   "title": "MUSC 3300  -  Music in the Western Tradition: Romantic to Contemporary (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3308,
+     "legacy-id": 4048,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Music",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 66,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/63272/"
+  },
+  {
+   "id": 63273,
+   "legacy-id": 119767,
+   "catalog-id": 32,
+   "title": "MUSC 2851  -  Individual Instruction for Piano Proficiency II (1 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3308,
+     "legacy-id": 4048,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Music",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 66,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/63273/"
+  },
+  {
+   "id": 63274,
+   "legacy-id": 119768,
+   "catalog-id": 32,
+   "title": "THTR 3202  -  Acting for the Camera (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3323,
+     "legacy-id": 4063,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Theatre",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 89,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/63274/"
+  },
+  {
+   "id": 63343,
+   "legacy-id": 119838,
+   "catalog-id": 32,
+   "title": "THTR 3604  -  Arab Women Playwrights (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3323,
+     "legacy-id": 4063,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Theatre",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 89,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/63343/"
+  },
+  {
+   "id": 63344,
+   "legacy-id": 119839,
+   "catalog-id": 32,
+   "title": "THTR 4444  -  Internship in Drama (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3323,
+     "legacy-id": 4063,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Theatre",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 89,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/63344/"
+  },
+  {
+   "id": 63379,
+   "legacy-id": 119874,
+   "catalog-id": 32,
+   "title": "DSGN 3266  -  Design for Social Change (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3329,
+     "legacy-id": 4069,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Graphic Design",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 49,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/63379/"
+  },
+  {
+   "id": 63380,
+   "legacy-id": 119875,
+   "catalog-id": 32,
+   "title": "FILM 3255  -  Film Producing (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3291,
+     "legacy-id": 4031,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Film",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 44,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/63380/"
+  },
+  {
+   "id": 63382,
+   "legacy-id": 121640,
+   "catalog-id": 32,
+   "title": "DSGN 3500  -  Creative Coding (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3329,
+     "legacy-id": 4069,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Graphic Design",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 49,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/63382/"
+  },
+  {
+   "id": 63383,
+   "legacy-id": 121641,
+   "catalog-id": 32,
+   "title": "MUSC 3500  -  Interactive Sound Design (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3308,
+     "legacy-id": 4048,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Music",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 66,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/63383/"
+  }
+ ],
+ "description": "<h4>Film</h4>\r\n\r\n<p>Professor: M. Khouri</p>\r\n\r\n<p>Assistant professor: T. Maatouk</p>\r\n\r\n<p>Professor of Practice: T. El Said (Director of Film Program)</p>\r\n\r\n<p>Associate Professor of Practice: R. Brum</p>\r\n\r\n<h4>Graphic Design</h4>\r\n\r\n<p>Associate Professor: H. Nawar</p>\r\n\r\n<p>Assistant Professor: B. Segone (Director of Visual Arts Program)</p>\r\n\r\n<p>Professors of Practice: J. Braun, B. Shehab</p>\r\n\r\n<p>Associate Professors of Practice: G. Elsrakbi (Director of Graphic Design), N. Samir, A. Saqfalhait</p>\r\n\r\n<h4>Music</h4>\r\n\r\n<p>Professor: W. El-­Mahallawy (Chair)</p>\r\n\r\n<p>Associate Professor: C. Green (Director of Music Program)</p>\r\n\r\n<p>Associate Professor of Practice: D. Rafferty</p>\r\n\r\n<h4>Theatre</h4>\r\n\r\n<p>Professor: D. Amin (Director of Theatre Program)</p>\r\n\r\n<p>Assistant Professor: B. Popov</p>\r\n\r\n<p>Associate Professors of Practice: J. Hoey, N. Said</p>\r\n\r\n<h4>Visual Art</h4>\r\n\r\n<p>Assistant Professor: E. Rauh, N. Aboulhosn</p>\r\n\r\n<p>Associate Professor of Practice: M.Taghavi</p>\r\n\r\n<p> </p>\r\n",
+ "options": "{\"searchable\":1}",
+ "college-types": [],
+ "department-types": [],
+ "created": "2026-06-07 10:59:16",
+ "modified": "2026-08-16 09:15:28"
+}

@@ -1,0 +1,2050 @@
+{
+ "id": 1404,
+ "legacy-id": 2105,
+ "catalog-id": 32,
+ "name": "Department of Mathematics and Actuarial Science",
+ "status": {
+  "catalog-id": 32,
+  "active": true,
+  "searchable": true,
+  "visible": true
+ },
+ "hierarchy_type": "Department",
+ "parents": [
+  {
+   "id": 1397,
+   "legacy-id": 2098,
+   "catalog-id": 32,
+   "name": "School of Sciences and Engineering",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "hierarchy_type": "School",
+   "url": "/api/aucegypt/catalog/32/hierarchy/1397/"
+  }
+ ],
+ "courses": [
+  {
+   "id": 61851,
+   "legacy-id": 118302,
+   "catalog-id": 32,
+   "title": "MACT 1111  -  Algebra and Trigonometry (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3304,
+     "legacy-id": 4044,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Mathematics and Actuarial Science",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 62,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/61851/"
+  },
+  {
+   "id": 61852,
+   "legacy-id": 118303,
+   "catalog-id": 32,
+   "title": "MACT 1112  -  Basic Mathematics for Social Sciences (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3304,
+     "legacy-id": 4044,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Mathematics and Actuarial Science",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 62,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/61852/"
+  },
+  {
+   "id": 61853,
+   "legacy-id": 118304,
+   "catalog-id": 32,
+   "title": "MACT 1121  -  Calculus I (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3304,
+     "legacy-id": 4044,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Mathematics and Actuarial Science",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 62,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/61853/"
+  },
+  {
+   "id": 61854,
+   "legacy-id": 118305,
+   "catalog-id": 32,
+   "title": "MACT 1122  -  Calculus II (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3304,
+     "legacy-id": 4044,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Mathematics and Actuarial Science",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 62,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/61854/"
+  },
+  {
+   "id": 61855,
+   "legacy-id": 118306,
+   "catalog-id": 32,
+   "title": "MACT 1930  -  Selected Topic for Core Curriculum (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3304,
+     "legacy-id": 4044,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Mathematics and Actuarial Science",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 62,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/61855/"
+  },
+  {
+   "id": 61856,
+   "legacy-id": 118307,
+   "catalog-id": 32,
+   "title": "MACT 2131  -  Discrete Mathematics (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3304,
+     "legacy-id": 4044,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Mathematics and Actuarial Science",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 62,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/61856/"
+  },
+  {
+   "id": 61857,
+   "legacy-id": 118308,
+   "catalog-id": 32,
+   "title": "MACT 2123  -  Calculus III (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3304,
+     "legacy-id": 4044,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Mathematics and Actuarial Science",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 62,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/61857/"
+  },
+  {
+   "id": 61858,
+   "legacy-id": 118309,
+   "catalog-id": 32,
+   "title": "MACT 2141  -  Differential Equations (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3304,
+     "legacy-id": 4044,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Mathematics and Actuarial Science",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 62,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/61858/"
+  },
+  {
+   "id": 61859,
+   "legacy-id": 118310,
+   "catalog-id": 32,
+   "title": "MACT 2132  -  Linear Algebra (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3304,
+     "legacy-id": 4044,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Mathematics and Actuarial Science",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 62,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/61859/"
+  },
+  {
+   "id": 61860,
+   "legacy-id": 118311,
+   "catalog-id": 32,
+   "title": "MACT 3940  -  Seminar in Mathematics (1 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3304,
+     "legacy-id": 4044,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Mathematics and Actuarial Science",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 62,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/61860/"
+  },
+  {
+   "id": 61861,
+   "legacy-id": 118312,
+   "catalog-id": 32,
+   "title": "MACT 3143  -  Numerical Methods (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3304,
+     "legacy-id": 4044,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Mathematics and Actuarial Science",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 62,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/61861/"
+  },
+  {
+   "id": 61862,
+   "legacy-id": 118313,
+   "catalog-id": 32,
+   "title": "MACT 3142  -  Introduction to PDE and Boundary-Value Problems (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3304,
+     "legacy-id": 4044,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Mathematics and Actuarial Science",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 62,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/61862/"
+  },
+  {
+   "id": 61863,
+   "legacy-id": 118314,
+   "catalog-id": 32,
+   "title": "MACT 3211  -  Applied Probability (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3304,
+     "legacy-id": 4044,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Mathematics and Actuarial Science",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 62,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/61863/"
+  },
+  {
+   "id": 61864,
+   "legacy-id": 118315,
+   "catalog-id": 32,
+   "title": "MACT 3223  -  Statistical Inference (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3304,
+     "legacy-id": 4044,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Mathematics and Actuarial Science",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 62,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/61864/"
+  },
+  {
+   "id": 61865,
+   "legacy-id": 118316,
+   "catalog-id": 32,
+   "title": "MACT 3224  -  Probability and Statistics (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3304,
+     "legacy-id": 4044,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Mathematics and Actuarial Science",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 62,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/61865/"
+  },
+  {
+   "id": 61866,
+   "legacy-id": 118317,
+   "catalog-id": 32,
+   "title": "MACT 3311  -  Introduction to Financial Mathematics (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3304,
+     "legacy-id": 4044,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Mathematics and Actuarial Science",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 62,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/61866/"
+  },
+  {
+   "id": 61867,
+   "legacy-id": 118318,
+   "catalog-id": 32,
+   "title": "MACT 4133  -  Formal and Mathematical Logic (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3304,
+     "legacy-id": 4044,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Mathematics and Actuarial Science",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 62,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/61867/"
+  },
+  {
+   "id": 61868,
+   "legacy-id": 118319,
+   "catalog-id": 32,
+   "title": "MACT 4125  -  Complex-Function Theory (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3304,
+     "legacy-id": 4044,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Mathematics and Actuarial Science",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 62,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/61868/"
+  },
+  {
+   "id": 61869,
+   "legacy-id": 118320,
+   "catalog-id": 32,
+   "title": "MACT 4134  -  Modern Algebra (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3304,
+     "legacy-id": 4044,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Mathematics and Actuarial Science",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 62,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/61869/"
+  },
+  {
+   "id": 61870,
+   "legacy-id": 118321,
+   "catalog-id": 32,
+   "title": "MACT 4212  -  Stochastic Processes (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3304,
+     "legacy-id": 4044,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Mathematics and Actuarial Science",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 62,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/61870/"
+  },
+  {
+   "id": 61871,
+   "legacy-id": 118322,
+   "catalog-id": 32,
+   "title": "MACT 4331  -  Short Term Actuarial Mathematics I (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3304,
+     "legacy-id": 4044,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Mathematics and Actuarial Science",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 62,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/61871/"
+  },
+  {
+   "id": 61872,
+   "legacy-id": 118323,
+   "catalog-id": 32,
+   "title": "MACT 4332  -  Short Term Actuarial Mathematics II (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3304,
+     "legacy-id": 4044,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Mathematics and Actuarial Science",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 62,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/61872/"
+  },
+  {
+   "id": 61873,
+   "legacy-id": 118324,
+   "catalog-id": 32,
+   "title": "MACT 4930  -  Selected Topics in Mathematics (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3304,
+     "legacy-id": 4044,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Mathematics and Actuarial Science",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 62,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/61873/"
+  },
+  {
+   "id": 61874,
+   "legacy-id": 118325,
+   "catalog-id": 32,
+   "title": "MACT 4910  -  Guided Studies in Mathematics (1-3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3304,
+     "legacy-id": 4044,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Mathematics and Actuarial Science",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 62,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/61874/"
+  },
+  {
+   "id": 61875,
+   "legacy-id": 118326,
+   "catalog-id": 32,
+   "title": "MACT 4213  -  Mathematical Modeling with Applications (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3304,
+     "legacy-id": 4044,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Mathematics and Actuarial Science",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 62,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/61875/"
+  },
+  {
+   "id": 61876,
+   "legacy-id": 118327,
+   "catalog-id": 32,
+   "title": "MACT 4312  -  Mathematics of Derivatives Pricing I (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3304,
+     "legacy-id": 4044,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Mathematics and Actuarial Science",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 62,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/61876/"
+  },
+  {
+   "id": 61877,
+   "legacy-id": 118328,
+   "catalog-id": 32,
+   "title": "MACT 4313  -  Mathematics of Derivatives Pricing II (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3304,
+     "legacy-id": 4044,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Mathematics and Actuarial Science",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 62,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/61877/"
+  },
+  {
+   "id": 61878,
+   "legacy-id": 118329,
+   "catalog-id": 32,
+   "title": "MACT 4321  -  Long-Term Actuarial Mathematics I (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3304,
+     "legacy-id": 4044,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Mathematics and Actuarial Science",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 62,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/61878/"
+  },
+  {
+   "id": 61879,
+   "legacy-id": 118330,
+   "catalog-id": 32,
+   "title": "MACT 4322  -  Long-Term Actuarial Mathematics II (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3304,
+     "legacy-id": 4044,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Mathematics and Actuarial Science",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 62,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/61879/"
+  },
+  {
+   "id": 61880,
+   "legacy-id": 118331,
+   "catalog-id": 32,
+   "title": "MACT 4231  -  Applied Regression Methods (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3304,
+     "legacy-id": 4044,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Mathematics and Actuarial Science",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 62,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/61880/"
+  },
+  {
+   "id": 61881,
+   "legacy-id": 118332,
+   "catalog-id": 32,
+   "title": "MACT 4232  -  Analysis of Time Series Data (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3304,
+     "legacy-id": 4044,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Mathematics and Actuarial Science",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 62,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/61881/"
+  },
+  {
+   "id": 61882,
+   "legacy-id": 118333,
+   "catalog-id": 32,
+   "title": "MACT 4233  -  Applied Multivariate Analysis (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3304,
+     "legacy-id": 4044,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Mathematics and Actuarial Science",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 62,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/61882/"
+  },
+  {
+   "id": 61883,
+   "legacy-id": 118334,
+   "catalog-id": 32,
+   "title": "MACT 4126  -  Real Analysis I (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3304,
+     "legacy-id": 4044,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Mathematics and Actuarial Science",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 62,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/61883/"
+  },
+  {
+   "id": 61884,
+   "legacy-id": 118335,
+   "catalog-id": 32,
+   "title": "MACT 4127  -  Real Analysis II (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3304,
+     "legacy-id": 4044,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Mathematics and Actuarial Science",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 62,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/61884/"
+  },
+  {
+   "id": 61885,
+   "legacy-id": 118336,
+   "catalog-id": 32,
+   "title": "MACT 4135  -  Graph Theory (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3304,
+     "legacy-id": 4044,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Mathematics and Actuarial Science",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 62,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/61885/"
+  },
+  {
+   "id": 61886,
+   "legacy-id": 118337,
+   "catalog-id": 32,
+   "title": "MACT 4980  -  Senior Thesis (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3304,
+     "legacy-id": 4044,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Mathematics and Actuarial Science",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 62,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/61886/"
+  },
+  {
+   "id": 61887,
+   "legacy-id": 118338,
+   "catalog-id": 32,
+   "title": "MACT 4950  -  Practical Internship (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3304,
+     "legacy-id": 4044,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Mathematics and Actuarial Science",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 62,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/61887/"
+  },
+  {
+   "id": 62421,
+   "legacy-id": 118878,
+   "catalog-id": 32,
+   "title": "MACT 6111  -  Advanced Numerical Methods (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3304,
+     "legacy-id": 4044,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Mathematics and Actuarial Science",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 62,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62421/"
+  },
+  {
+   "id": 62422,
+   "legacy-id": 118879,
+   "catalog-id": 32,
+   "title": "MACT 6121  -  Advanced Probability with Engineering Applications (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3304,
+     "legacy-id": 4044,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Mathematics and Actuarial Science",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 62,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62422/"
+  },
+  {
+   "id": 62475,
+   "legacy-id": 118932,
+   "catalog-id": 32,
+   "title": "MACT 4931  -  Selected Topics in Actuarial Science (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3304,
+     "legacy-id": 4044,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Mathematics and Actuarial Science",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 62,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62475/"
+  },
+  {
+   "id": 62656,
+   "legacy-id": 119113,
+   "catalog-id": 32,
+   "title": "MACT 2222  -  Statistics for Business (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3304,
+     "legacy-id": 4044,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Mathematics and Actuarial Science",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 62,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62656/"
+  },
+  {
+   "id": 62830,
+   "legacy-id": 119306,
+   "catalog-id": 32,
+   "title": "MACT 4990  -  Enterprise Risk Management (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3304,
+     "legacy-id": 4044,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Mathematics and Actuarial Science",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 62,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62830/"
+  },
+  {
+   "id": 63039,
+   "legacy-id": 119523,
+   "catalog-id": 32,
+   "title": "MACT 4314  -  Financial Modeling (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3304,
+     "legacy-id": 4044,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Mathematics and Actuarial Science",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 62,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/63039/"
+  },
+  {
+   "id": 63096,
+   "legacy-id": 119588,
+   "catalog-id": 32,
+   "title": "DSCI 4412  -  Introduction to Big Data Technologies (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3344,
+     "legacy-id": 4084,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Data Science",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 32,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/63096/"
+  },
+  {
+   "id": 63097,
+   "legacy-id": 119589,
+   "catalog-id": 32,
+   "title": "DSCI 4415  -  Advanced Machine Learning (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3344,
+     "legacy-id": 4084,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Data Science",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 32,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/63097/"
+  },
+  {
+   "id": 63098,
+   "legacy-id": 119590,
+   "catalog-id": 32,
+   "title": "DSCI 2411  -  Data Visualization (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3344,
+     "legacy-id": 4084,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Data Science",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 32,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/63098/"
+  },
+  {
+   "id": 63099,
+   "legacy-id": 119591,
+   "catalog-id": 32,
+   "title": "DSCI 4413  -  Analysis of Categorical Data (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3344,
+     "legacy-id": 4084,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Data Science",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 32,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/63099/"
+  },
+  {
+   "id": 63100,
+   "legacy-id": 119592,
+   "catalog-id": 32,
+   "title": "DSCI 4411  -  Fundamentals of Data Mining (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3344,
+     "legacy-id": 4084,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Data Science",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 32,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/63100/"
+  },
+  {
+   "id": 63101,
+   "legacy-id": 119593,
+   "catalog-id": 32,
+   "title": "DSCI 3413  -  Biostatistics (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3344,
+     "legacy-id": 4084,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Data Science",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 32,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/63101/"
+  },
+  {
+   "id": 63102,
+   "legacy-id": 119594,
+   "catalog-id": 32,
+   "title": "DSCI 3415  -  Fundamentals of Machine Learning (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3344,
+     "legacy-id": 4084,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Data Science",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 32,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/63102/"
+  },
+  {
+   "id": 63103,
+   "legacy-id": 119595,
+   "catalog-id": 32,
+   "title": "DSCI 3411  -  Fundamentals of Simulation (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3344,
+     "legacy-id": 4084,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Data Science",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 32,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/63103/"
+  },
+  {
+   "id": 63104,
+   "legacy-id": 119596,
+   "catalog-id": 32,
+   "title": "DSCI 2410  -  Fundamentals of Data Science II (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3344,
+     "legacy-id": 4084,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Data Science",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 32,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/63104/"
+  },
+  {
+   "id": 63105,
+   "legacy-id": 119597,
+   "catalog-id": 32,
+   "title": "DSCI 1411  -  Fundamentals of Data Science I (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3344,
+     "legacy-id": 4084,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Data Science",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 32,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/63105/"
+  },
+  {
+   "id": 63130,
+   "legacy-id": 119622,
+   "catalog-id": 32,
+   "title": "DSCI 4416  -  Capstone l (Data Science Senior Project l) (1 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3344,
+     "legacy-id": 4084,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Data Science",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 32,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/63130/"
+  },
+  {
+   "id": 63131,
+   "legacy-id": 119623,
+   "catalog-id": 32,
+   "title": "DSCI 4417  -  Capstone II (Data Science Project II) (2 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3344,
+     "legacy-id": 4084,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Data Science",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 32,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/63131/"
+  },
+  {
+   "id": 63170,
+   "legacy-id": 119662,
+   "catalog-id": 32,
+   "title": "MACT 3146  -  Optimization II (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3304,
+     "legacy-id": 4044,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Mathematics and Actuarial Science",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 62,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/63170/"
+  },
+  {
+   "id": 63171,
+   "legacy-id": 119663,
+   "catalog-id": 32,
+   "title": "MACT 2146  -  Optimization I (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3304,
+     "legacy-id": 4044,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Mathematics and Actuarial Science",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 62,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/63171/"
+  },
+  {
+   "id": 63176,
+   "legacy-id": 119668,
+   "catalog-id": 32,
+   "title": "DSCI 4950  -  Industrial Training (1 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3344,
+     "legacy-id": 4084,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Data Science",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 32,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/63176/"
+  },
+  {
+   "id": 63301,
+   "legacy-id": 119795,
+   "catalog-id": 32,
+   "title": "DSCI 4980  -  Senior Thesis (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3344,
+     "legacy-id": 4084,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Data Science",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 32,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/63301/"
+  },
+  {
+   "id": 63376,
+   "legacy-id": 119871,
+   "catalog-id": 32,
+   "title": "MACT 4323  -  Advanced Long Term Actuarial Mathematics (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3304,
+     "legacy-id": 4044,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Mathematics and Actuarial Science",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 62,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/63376/"
+  },
+  {
+   "id": 63394,
+   "legacy-id": 121652,
+   "catalog-id": 32,
+   "title": "DSCI 4930  -  Selected Topics in Data Science (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3344,
+     "legacy-id": 4084,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Data Science",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 32,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/63394/"
+  }
+ ],
+ "description": "<div>Acting Chair: A. El-Kadi</div>\r\n\r\n<div> </div>\r\n\r\n<div>Distinguished University Professor: A. Hadi</div>\r\n\r\n<p>Professors: Z. Amin (Associate Provost for Assessment and Accreditation), M. Hebert (Emeritus), W. Lotfallah </p>\r\n\r\n<p>Associate Professor: E. Farag</p>\r\n\r\n<p>Assistant Professors: Y. Attia, R. Bairakdar, I. Müller, D. Siniora, R. Nabil, N. Youssef</p>\r\n\r\n<p style=\"text-align:justify\">Mathematics is the study of relationships among quantities, magnitudes and properties. It uses logical operations to find order within the appearance of chaos and to identify intrinsic relations and patterns among seemingly disparate questions and problems. The techniques of mathematics may be applied to a wide array of problems, such as the design and analysis of experiments, statistics and data analysis, mathematical modeling and operations research. As the \"language\" of science, it constitutes the theoretical background for computer science, engineering, and the natural sciences. The Department of Mathematics and Actuarial Science, recognizing the central position of mathematics in traditional liberal studies, provides a rigorous foundation in pure as well as applied mathematics, equipping students for further study and preparing them to use their mathematical skills in many different employment arenas.<br />\r\n<br />\r\nThe Actuarial Science program is designed to produce graduates who have analytic, statistical, and computational skills, which allow them to solve industrial problems, predict the financial effects of uncertain future events, and carry out decision-making analyses. This program is appropriate for students who have a strong mathematical ability with an interest in applying their mathematical knowledge to insurance, finance, risk management, investment, and other areas of business.<br />\r\n<br />\r\nData science is the science of generalizable knowledge extraction from data for the purpose of informed or evidence-based decision-making. The role of the data scientist is increasingly important because we have more data available than ever before. The Data Science Program is one of the few four-year programs in the world that lead to a Bachelor of Science degree in data science. It is designed to produce graduates who have analytic, statistical, and computational skills, allowing them to solve problems in many fields of applications in business and government. This program is appropriate for students who have a strong mathematical ability.</p>\r\n\r\n<p><strong>The Department of Mathematics and Actuarial Science offers:</strong></p>\r\n\r\n<ol start=\"1\">\r\n\t<li>A Bachelor of Science degree in Actuarial Science  </li>\r\n\t<li>A Bachelor of Science degree in Data Science    </li>\r\n\t<li>A Bachelor of Science degree in Mathematics</li>\r\n\t<li>A Minor in Applied Probability and Statistics</li>\r\n\t<li>A Minor in Financial Mathematics</li>\r\n\t<li>A Minor in Mathematics  </li>\r\n\t<li>A Statistics and Data Analysis Option</li>\r\n</ol>\r\n",
+ "options": "{\"searchable\":1}",
+ "college-types": [],
+ "department-types": [],
+ "created": "2026-06-07 10:59:16",
+ "modified": "2026-08-17 05:22:40"
+}

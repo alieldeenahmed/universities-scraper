@@ -1,0 +1,180 @@
+{
+ "id": 4872,
+ "legacy-id": 8325,
+ "catalog-id": 32,
+ "created": "2026-06-07 14:59:19",
+ "modified": "2026-08-31 21:29:06",
+ "name": "Actuarial Science (B.S.)",
+ "code": "",
+ "status": {
+  "catalog-id": 32,
+  "active": true,
+  "searchable": true,
+  "visible": true
+ },
+ "program_types": [
+  {
+   "id": 3222,
+   "legacy-id": 271,
+   "catalog-id": 32,
+   "created": "2026-06-07 10:59:16",
+   "modified": "2026-06-07 10:59:16",
+   "name": "Major",
+   "description": "",
+   "category": "program",
+   "display": false,
+   "order": 3,
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   }
+  }
+ ],
+ "degree_types": [
+  {
+   "id": 3229,
+   "legacy-id": 976,
+   "catalog-id": 32,
+   "created": "2026-06-07 10:59:16",
+   "modified": "2026-06-07 10:59:16",
+   "name": "Bachelor of Science",
+   "description": "",
+   "category": "degree",
+   "display": false,
+   "order": 9,
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   }
+  }
+ ],
+ "description": "<h3 style=\"text-align:justify\">Bachelor of Science in Actuarial Science</h3>\r\n\r\n<p style=\"text-align:justify\">The life of nearly everyone is impacted by the work of actuarial experts. Actuarial experts apply mathematical models to improve financial decision-making by evaluating the financial implications of uncertain future events. See the <a href=\"https://sse.aucegypt.edu/programs/undergraduate/actuarial-science\">Actuarial Science's website</a>. for a more detailed description of the work of actuarial experts. The number of certified actuarial experts in Egypt is notoriously low, whereas the demand for actuarial experts is very high. One objective of the program leading to the Bachelor of Science degree is to reduce the huge gap between supply and demand for actuarial experts in Egypt.</p>\r\n\r\n<p style=\"text-align:justify\">To be able to solve the problems of evaluating and measuring risk, an actuarial expert has to be trained in the disciplines of mathematics, probability, statistics, economics, finance, data science, and accounting. Consequently, the Actuarial Science Program cuts across the School of Sciences and Engineering and the School of Business.<br />\r\n<br />\r\nWhat a major in Actuarial Science offers:</p>\r\n\r\n<p style=\"text-align:justify\">There are many reasons why a student might choose to pursue the B.Sc. program in Actuarial Science. The program prepares students for:</p>\r\n\r\n<ul>\r\n\t<li style=\"text-align:justify\">Many positions within Egypt, where the demand for actuarial experts in insurance and reinsurance companies, actuarial consulting firms, banks, and other financial institutions, as well as government agencies like the Financial Regulatory Authority (FRA), and the Ministry of Finance greatly exceed their supply.</li>\r\n\t<li style=\"text-align:justify\">A wide variety of jobs in Egypt, in multi-national companies, and international institutions abroad, where training in mathematics, probability, statistics, economics, finance, data science, and accounting, are essential.</li>\r\n\t<li style=\"text-align:justify\">Completing the certification examinations offered by the Society of Actuaries (SOA), an important step toward actuarial certification and toward obtaining the actuarial license from the Financial Regulatory Authority (FRA).</li>\r\n</ul>\r\n\r\n<p style=\"text-align:justify\">The Actuarial Science (B.S.) program is accredited by the Applied and Natural Science Accreditation Commission of <a href=\"https://www.abet.org/\">ABET</a>, under the commission's General Criteria.</p>\r\n\r\n<p style=\"text-align:justify\">The Actuarial Science (B.S.) program has an equivalence from the Supreme Council of Universities in Egypt.</p>\r\n\r\n<p><strong>Declaration of the Actuarial Science Major</strong></p>\r\n\r\n<p style=\"text-align:justify\">Students accepted at AUC may either get admitted into their preferred major at the time of admission to the university (declare their major at the gate) or get admitted to the university as undeclared. Students who get admitted into a major will still have the opportunity to change their major later. Students must declare a major before completing 60 credit hours (before achieving a junior standing). Please check the eligibility criteria for declaring the Actuarial Science major below.</p>\r\n\r\n<p style=\"margin-left:40px\"><strong>Eligibility Criteria for Actuarial Science Major Declaration at the Gate</strong></p>\r\n\r\n<p style=\"margin-left:40px; text-align:justify\">The eligibility criteria for students who wish to apply to declare their major from the gate, with the declaration effective in the fall 2027 semester or the spring 2028 semester, can be accessed through the link below. Admission to the major is based on the program's student capacity.</p>\r\n\r\n<p style=\"margin-left:40px\">To view the eligibility criteria, <a href=\"#\" class=\"permalink\" data-permalink_id=\"59330\" data-legacy_id=\"1920\" data-signature=\"2209a5e76ed3f506c91f29cba6119735\" data-display_type=\"same\" data-link_text=\"Click Here.\" data-anchor_text=\"\" data-from_id=\"4872\" data-from_type=\"program\" data-to_id=\"1335\" data-to_type=\"content\" data-show_title=\"1\" data-to_legacy_id=\"2395\" data-to_url=\"/api/aucegypt/catalog/32/page/1335/\">Click Here.</a> </p>\r\n\r\n<p style=\"margin-left:40px\"><strong>Eligibility Criteria for Actuarial Science Major Declaration from Within</strong></p>\r\n\r\n<p style=\"margin-left:40px; text-align:justify\">The eligibility criteria for undeclared students (or students switching majors) who wish to apply to declare their major, with the declaration effective in the fall 2027 semester or the spring 2028 semester, can be accessed through the link below. Admission to the major is based on the program's student capacity.</p>\r\n\r\n<p style=\"margin-left:40px\">To view the eligibility criteria, <a href=\"#\" class=\"permalink\" data-permalink_id=\"59329\" data-legacy_id=\"1921\" data-signature=\"ea8ffbd2d71e99c30fcdb5446a82e73c\" data-display_type=\"same\" data-link_text=\"Click Here.\" data-anchor_text=\"\" data-from_id=\"4872\" data-from_type=\"program\" data-to_id=\"1347\" data-to_type=\"content\" data-show_title=\"1\" data-to_legacy_id=\"2407\" data-to_url=\"/api/aucegypt/catalog/32/page/1347/\">Click Here.</a> </p>\r\n\r\n<p style=\"text-align:justify\">A total of 130 credits is required for the bachelor's degree in actuarial science.  Students may be exempted from the <a href=\"#\" class=\"permalink\" data-permalink_id=\"59328\" data-legacy_id=\"287\" data-signature=\"60ebd092b3966db28bbd43cbb62d64fe\" data-display_type=\"tooltip\" data-link_text=\" %title%\" data-anchor_text=\"\" data-from_id=\"4872\" data-from_type=\"program\" data-to_id=\"61853\" data-to_type=\"course\" data-show_title=\"1\" data-to_legacy_id=\"118304\" data-to_url=\"/api/aucegypt/catalog/32/course/61853/\"> MACT 1121  -  Calculus I (3 cr.)</a> requirement based on high school certificate and score in mathematics or by passing a placement examination. </p>\r\n",
+ "parents": [
+  {
+   "id": 1404,
+   "legacy-id": 2105,
+   "catalog-id": 32,
+   "name": "Department of Mathematics and Actuarial Science",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "hierarchy_type": "Department",
+   "url": "/api/aucegypt/catalog/32/hierarchy/1404/"
+  }
+ ],
+ "locations": [],
+ "cores": [
+  {
+   "id": 21402,
+   "catalog-id": 32,
+   "legacy-id": 35544,
+   "created": "2026-06-07 14:59:19",
+   "modified": "2026-08-31 21:29:56",
+   "name": "Core Curriculum (34 credits)",
+   "code": "",
+   "description": "<p>The remaining 6 credit hours required to satisfy the core are fulfilled by the concentration Science (3 crs) and the <a href=\"#\" class=\"permalink\" data-permalink_id=\"63501\" data-legacy_id=\"751\" data-signature=\"858236eab7bad0095418a1c0d3646477\" data-display_type=\"tooltip\" data-link_text=\" %title%\" data-anchor_text=\"\" data-from_id=\"21402\" data-from_type=\"core\" data-to_id=\"61886\" data-to_type=\"course\" data-show_title=\"1\" data-to_legacy_id=\"118337\" data-to_url=\"/api/aucegypt/catalog/32/course/61886/\"> MACT 4980  -  Senior Thesis (3 cr.)</a> or <a href=\"#\" class=\"permalink\" data-permalink_id=\"63502\" data-legacy_id=\"752\" data-signature=\"2f8d589be66cd5f2c0f10daccc9dbb5e\" data-display_type=\"tooltip\" data-link_text=\" %title%\" data-anchor_text=\"\" data-from_id=\"21402\" data-from_type=\"core\" data-to_id=\"61887\" data-to_type=\"course\" data-show_title=\"1\" data-to_legacy_id=\"118338\" data-to_url=\"/api/aucegypt/catalog/32/course/61887/\"> MACT 4950  -  Practical Internship (3 cr.)</a> </p>\n\n<p>Actuarial Science students must take 1 credit hour of Natural Science lab.</p>\n",
+   "shared": false,
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "courses": [],
+   "adhocs": [],
+   "sort_order": 194,
+   "children": []
+  },
+  {
+   "id": 21403,
+   "catalog-id": 32,
+   "legacy-id": 35545,
+   "created": "2026-06-07 14:59:19",
+   "modified": "2026-06-07 14:59:19",
+   "name": "Concentration Requirements (51 credits)",
+   "code": "",
+   "description": "",
+   "shared": false,
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "courses": [],
+   "adhocs": [],
+   "sort_order": 428,
+   "children": []
+  },
+  {
+   "id": 21404,
+   "catalog-id": 32,
+   "legacy-id": 35546,
+   "created": "2026-06-07 14:59:19",
+   "modified": "2026-07-28 07:26:41",
+   "name": "Collateral Requirements (33 credits)",
+   "code": "",
+   "description": "",
+   "shared": false,
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "courses": [],
+   "adhocs": [],
+   "sort_order": 596,
+   "children": []
+  },
+  {
+   "id": 21984,
+   "catalog-id": 32,
+   "legacy-id": 36142,
+   "created": "2026-06-07 14:59:19",
+   "modified": "2026-08-31 21:30:07",
+   "name": "Culminating Project/Experience (3 credits)",
+   "code": "",
+   "description": "<p><a href=\"#\" class=\"permalink\" data-permalink_id=\"63841\" data-legacy_id=\"752\" data-signature=\"2f8d589be66cd5f2c0f10daccc9dbb5e\" data-display_type=\"tooltip\" data-link_text=\" %title%\" data-anchor_text=\"\" data-from_id=\"21984\" data-from_type=\"core\" data-to_id=\"61887\" data-to_type=\"course\" data-show_title=\"1\" data-to_legacy_id=\"118338\" data-to_url=\"/api/aucegypt/catalog/32/course/61887/\"> MACT 4950  -  Practical Internship (3 cr.)</a> </p>\n\n<p>or</p>\n\n<p><a href=\"#\" class=\"permalink\" data-permalink_id=\"63840\" data-legacy_id=\"751\" data-signature=\"858236eab7bad0095418a1c0d3646477\" data-display_type=\"tooltip\" data-link_text=\" %title%\" data-anchor_text=\"\" data-from_id=\"21984\" data-from_type=\"core\" data-to_id=\"61886\" data-to_type=\"course\" data-show_title=\"1\" data-to_legacy_id=\"118337\" data-to_url=\"/api/aucegypt/catalog/32/course/61886/\"> MACT 4980  -  Senior Thesis (3 cr.)</a> </p>\n",
+   "shared": false,
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "courses": [],
+   "adhocs": [],
+   "sort_order": 694,
+   "children": []
+  },
+  {
+   "id": 21405,
+   "catalog-id": 32,
+   "legacy-id": 35547,
+   "created": "2026-06-07 14:59:19",
+   "modified": "2026-07-28 07:27:24",
+   "name": "Actuarial Science Electives (9 credits)",
+   "code": "",
+   "description": "<p>Students choose courses from the following list in consultation with their adviser:</p>\n",
+   "shared": false,
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "courses": [],
+   "adhocs": [],
+   "sort_order": 754,
+   "children": []
+  }
+ ]
+}

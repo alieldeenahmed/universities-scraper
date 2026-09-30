@@ -1,0 +1,2776 @@
+{
+ "id": 1400,
+ "legacy-id": 2101,
+ "catalog-id": 32,
+ "name": "Department of Computer Science and Engineering",
+ "status": {
+  "catalog-id": 32,
+  "active": true,
+  "searchable": true,
+  "visible": true
+ },
+ "hierarchy_type": "Department",
+ "parents": [
+  {
+   "id": 1397,
+   "legacy-id": 2098,
+   "catalog-id": 32,
+   "name": "School of Sciences and Engineering",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "hierarchy_type": "School",
+   "url": "/api/aucegypt/catalog/32/hierarchy/1397/"
+  }
+ ],
+ "courses": [
+  {
+   "id": 60934,
+   "legacy-id": 117924,
+   "catalog-id": 32,
+   "title": "CSCE 1000  -  Introduction to Computers and Their Applications (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3282,
+     "legacy-id": 4022,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Computer Science and Engineering",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 29,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/60934/"
+  },
+  {
+   "id": 60935,
+   "legacy-id": 117925,
+   "catalog-id": 32,
+   "title": "CSCE 1001  -  Fundamentals of Computing I (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3282,
+     "legacy-id": 4022,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Computer Science and Engineering",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 29,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/60935/"
+  },
+  {
+   "id": 60936,
+   "legacy-id": 117926,
+   "catalog-id": 32,
+   "title": "CSCE 1101  -  Fundamentals of Computing II (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3282,
+     "legacy-id": 4022,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Computer Science and Engineering",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 29,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/60936/"
+  },
+  {
+   "id": 60937,
+   "legacy-id": 117927,
+   "catalog-id": 32,
+   "title": "CSCE 2301  -  Digital Design I (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3282,
+     "legacy-id": 4022,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Computer Science and Engineering",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 29,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/60937/"
+  },
+  {
+   "id": 60938,
+   "legacy-id": 117928,
+   "catalog-id": 32,
+   "title": "CSCE 2303  -  Computer Organization and Assembly Language Programming (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3282,
+     "legacy-id": 4022,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Computer Science and Engineering",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 29,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/60938/"
+  },
+  {
+   "id": 60939,
+   "legacy-id": 117929,
+   "catalog-id": 32,
+   "title": "CSCE 2302  -  Digital Design I Lab (1 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3282,
+     "legacy-id": 4022,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Computer Science and Engineering",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 29,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/60939/"
+  },
+  {
+   "id": 60940,
+   "legacy-id": 117930,
+   "catalog-id": 32,
+   "title": "CSCE 2501  -  Fundamentals of Database Systems (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3282,
+     "legacy-id": 4022,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Computer Science and Engineering",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 29,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/60940/"
+  },
+  {
+   "id": 60941,
+   "legacy-id": 117931,
+   "catalog-id": 32,
+   "title": "CSCE 3101  -  Programming Language (1-3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3282,
+     "legacy-id": 4022,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Computer Science and Engineering",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 29,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/60941/"
+  },
+  {
+   "id": 60942,
+   "legacy-id": 117932,
+   "catalog-id": 32,
+   "title": "CSCE 3102  -  Programming in Java (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3282,
+     "legacy-id": 4022,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Computer Science and Engineering",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 29,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/60942/"
+  },
+  {
+   "id": 60943,
+   "legacy-id": 117933,
+   "catalog-id": 32,
+   "title": "CSCE 3103  -  Object Oriented Programming (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3282,
+     "legacy-id": 4022,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Computer Science and Engineering",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 29,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/60943/"
+  },
+  {
+   "id": 60944,
+   "legacy-id": 117934,
+   "catalog-id": 32,
+   "title": "CSCE 2202  -  Analysis and Design of Algorithms (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3282,
+     "legacy-id": 4022,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Computer Science and Engineering",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 29,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/60944/"
+  },
+  {
+   "id": 60945,
+   "legacy-id": 117935,
+   "catalog-id": 32,
+   "title": "CSCE 3104  -  Concepts of Programming Languages (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3282,
+     "legacy-id": 4022,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Computer Science and Engineering",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 29,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/60945/"
+  },
+  {
+   "id": 60946,
+   "legacy-id": 117936,
+   "catalog-id": 32,
+   "title": "CSCE 3301  -  Computer Architecture (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3282,
+     "legacy-id": 4022,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Computer Science and Engineering",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 29,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/60946/"
+  },
+  {
+   "id": 60947,
+   "legacy-id": 117937,
+   "catalog-id": 32,
+   "title": "CSCE 3311  -  Data and Computer Communications (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3282,
+     "legacy-id": 4022,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Computer Science and Engineering",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 29,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/60947/"
+  },
+  {
+   "id": 60948,
+   "legacy-id": 117938,
+   "catalog-id": 32,
+   "title": "CSCE 3302  -  Computer Architecture Lab (1 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3282,
+     "legacy-id": 4022,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Computer Science and Engineering",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 29,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/60948/"
+  },
+  {
+   "id": 60949,
+   "legacy-id": 117939,
+   "catalog-id": 32,
+   "title": "CSCE 3701  -  Software Engineering (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3282,
+     "legacy-id": 4022,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Computer Science and Engineering",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 29,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/60949/"
+  },
+  {
+   "id": 60950,
+   "legacy-id": 117940,
+   "catalog-id": 32,
+   "title": "CSCE 3401  -  Operating Systems (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3282,
+     "legacy-id": 4022,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Computer Science and Engineering",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 29,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/60950/"
+  },
+  {
+   "id": 60951,
+   "legacy-id": 117941,
+   "catalog-id": 32,
+   "title": "CSCE 4201  -  Theory of Computing (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3282,
+     "legacy-id": 4022,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Computer Science and Engineering",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 29,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/60951/"
+  },
+  {
+   "id": 60952,
+   "legacy-id": 117942,
+   "catalog-id": 32,
+   "title": "CSCE 4602  -  Introduction to Artificial Neural Networks (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3282,
+     "legacy-id": 4022,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Computer Science and Engineering",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 29,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/60952/"
+  },
+  {
+   "id": 60953,
+   "legacy-id": 117943,
+   "catalog-id": 32,
+   "title": "CSCE 4301  -  Embedded Systems (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3282,
+     "legacy-id": 4022,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Computer Science and Engineering",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 29,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/60953/"
+  },
+  {
+   "id": 60954,
+   "legacy-id": 117944,
+   "catalog-id": 32,
+   "title": "CSCE 3312  -  Computer Networks (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3282,
+     "legacy-id": 4022,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Computer Science and Engineering",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 29,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/60954/"
+  },
+  {
+   "id": 60955,
+   "legacy-id": 117945,
+   "catalog-id": 32,
+   "title": "CSCE 4302  -  Embedded Systems Lab (1 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3282,
+     "legacy-id": 4022,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Computer Science and Engineering",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 29,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/60955/"
+  },
+  {
+   "id": 60956,
+   "legacy-id": 117946,
+   "catalog-id": 32,
+   "title": "CSCE 3313  -  Computer Networks Lab (1 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3282,
+     "legacy-id": 4022,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Computer Science and Engineering",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 29,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/60956/"
+  },
+  {
+   "id": 60957,
+   "legacy-id": 117947,
+   "catalog-id": 32,
+   "title": "CSCE 4411  -  Fundamentals of Distributed Systems (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3282,
+     "legacy-id": 4022,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Computer Science and Engineering",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 29,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/60957/"
+  },
+  {
+   "id": 60958,
+   "legacy-id": 117948,
+   "catalog-id": 32,
+   "title": "CSCE 4421  -  Network Security (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3282,
+     "legacy-id": 4022,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Computer Science and Engineering",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 29,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/60958/"
+  },
+  {
+   "id": 60959,
+   "legacy-id": 117949,
+   "catalog-id": 32,
+   "title": "CSCE 4101  -  Compiler Design (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3282,
+     "legacy-id": 4022,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Computer Science and Engineering",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 29,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/60959/"
+  },
+  {
+   "id": 60960,
+   "legacy-id": 117950,
+   "catalog-id": 32,
+   "title": "CSCE 4702  -  Secure Systems Engineering (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3282,
+     "legacy-id": 4022,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Computer Science and Engineering",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 29,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/60960/"
+  },
+  {
+   "id": 60961,
+   "legacy-id": 117951,
+   "catalog-id": 32,
+   "title": "CSCE 4501  -  Big Data Systems (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3282,
+     "legacy-id": 4022,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Computer Science and Engineering",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 29,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/60961/"
+  },
+  {
+   "id": 60962,
+   "legacy-id": 117952,
+   "catalog-id": 32,
+   "title": "CSCE 4502  -  Design of Web-based Systems (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3282,
+     "legacy-id": 4022,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Computer Science and Engineering",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 29,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/60962/"
+  },
+  {
+   "id": 61162,
+   "legacy-id": 117953,
+   "catalog-id": 32,
+   "title": "CSCE 3601  -  Fundamentals of Artificial Intelligence (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3282,
+     "legacy-id": 4022,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Computer Science and Engineering",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 29,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/61162/"
+  },
+  {
+   "id": 61163,
+   "legacy-id": 117954,
+   "catalog-id": 32,
+   "title": "CSCE 4930  -  Selected Topics in Computer Science and Engineering (1-3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3282,
+     "legacy-id": 4022,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Computer Science and Engineering",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 29,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/61163/"
+  },
+  {
+   "id": 61164,
+   "legacy-id": 117955,
+   "catalog-id": 32,
+   "title": "CSCE 4950  -  Industrial Training (1 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3282,
+     "legacy-id": 4022,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Computer Science and Engineering",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 29,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/61164/"
+  },
+  {
+   "id": 61165,
+   "legacy-id": 117956,
+   "catalog-id": 32,
+   "title": "CSCE 4980  -  Senior Project I (1 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3282,
+     "legacy-id": 4022,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Computer Science and Engineering",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 29,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/61165/"
+  },
+  {
+   "id": 61166,
+   "legacy-id": 117957,
+   "catalog-id": 32,
+   "title": "CSCE 4981  -  Senior Project II (2 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3282,
+     "legacy-id": 4022,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Computer Science and Engineering",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 29,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/61166/"
+  },
+  {
+   "id": 61167,
+   "legacy-id": 117958,
+   "catalog-id": 32,
+   "title": "CSCE 4910  -  Guided Studies in Computer Science and Engineering (1-3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3282,
+     "legacy-id": 4022,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Computer Science and Engineering",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 29,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/61167/"
+  },
+  {
+   "id": 61168,
+   "legacy-id": 117959,
+   "catalog-id": 32,
+   "title": "CSCE 5221  -  Algorithms and Complexity Theory (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3282,
+     "legacy-id": 4022,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Computer Science and Engineering",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 29,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/61168/"
+  },
+  {
+   "id": 61169,
+   "legacy-id": 117960,
+   "catalog-id": 32,
+   "title": "CSCE 5262  -  Computational Machine Learning (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3282,
+     "legacy-id": 4022,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Computer Science and Engineering",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 29,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/61169/"
+  },
+  {
+   "id": 61170,
+   "legacy-id": 117961,
+   "catalog-id": 32,
+   "title": "CSCE 5222  -  Data-Driven Algorithms (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3282,
+     "legacy-id": 4022,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Computer Science and Engineering",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 29,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/61170/"
+  },
+  {
+   "id": 61171,
+   "legacy-id": 117962,
+   "catalog-id": 32,
+   "title": "CSCE 5231  -  Advanced Processor Architecture (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3282,
+     "legacy-id": 4022,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Computer Science and Engineering",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 29,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/61171/"
+  },
+  {
+   "id": 61172,
+   "legacy-id": 117963,
+   "catalog-id": 32,
+   "title": "CSCE 5242  -  Parallel Computer Architecture (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3282,
+     "legacy-id": 4022,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Computer Science and Engineering",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 29,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/61172/"
+  },
+  {
+   "id": 61173,
+   "legacy-id": 117964,
+   "catalog-id": 32,
+   "title": "CSCE 5232  -  Advanced Network Modelling (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3282,
+     "legacy-id": 4022,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Computer Science and Engineering",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 29,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/61173/"
+  },
+  {
+   "id": 61174,
+   "legacy-id": 117965,
+   "catalog-id": 32,
+   "title": "CSCE 5271  -  Advanced Software Engineering (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3282,
+     "legacy-id": 4022,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Computer Science and Engineering",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 29,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/61174/"
+  },
+  {
+   "id": 61175,
+   "legacy-id": 117966,
+   "catalog-id": 32,
+   "title": "CSCE 5241  -  Distributed Systems (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3282,
+     "legacy-id": 4022,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Computer Science and Engineering",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 29,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/61175/"
+  },
+  {
+   "id": 61176,
+   "legacy-id": 117967,
+   "catalog-id": 32,
+   "title": "CSCE 5268  -  Computer Graphics and Animation (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3282,
+     "legacy-id": 4022,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Computer Science and Engineering",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 29,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/61176/"
+  },
+  {
+   "id": 61177,
+   "legacy-id": 117968,
+   "catalog-id": 32,
+   "title": "CSCE 5267  -  Digital Image Processing (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3282,
+     "legacy-id": 4022,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Computer Science and Engineering",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 29,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/61177/"
+  },
+  {
+   "id": 61178,
+   "legacy-id": 117969,
+   "catalog-id": 32,
+   "title": "CSCE 5261  -  Advanced Artificial Intelligence (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3282,
+     "legacy-id": 4022,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Computer Science and Engineering",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 29,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/61178/"
+  },
+  {
+   "id": 61179,
+   "legacy-id": 117970,
+   "catalog-id": 32,
+   "title": "CSCE 5266  -  Computer Vision (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3282,
+     "legacy-id": 4022,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Computer Science and Engineering",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 29,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/61179/"
+  },
+  {
+   "id": 61180,
+   "legacy-id": 117971,
+   "catalog-id": 32,
+   "title": "CSCE 5930  -  Selected Topics in Computer Science and Engineering (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3282,
+     "legacy-id": 4022,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Computer Science and Engineering",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 29,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/61180/"
+  },
+  {
+   "id": 61181,
+   "legacy-id": 117972,
+   "catalog-id": 32,
+   "title": "CSCE 5940  -  Seminar (1 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3282,
+     "legacy-id": 4022,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Computer Science and Engineering",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 29,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/61181/"
+  },
+  {
+   "id": 61182,
+   "legacy-id": 117973,
+   "catalog-id": 32,
+   "title": "CSCE 5980  -  Capstone Project in Computing (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3282,
+     "legacy-id": 4022,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Computer Science and Engineering",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 29,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/61182/"
+  },
+  {
+   "id": 61183,
+   "legacy-id": 117974,
+   "catalog-id": 32,
+   "title": "CSCE 5981  -  Graduate Thesis (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3282,
+     "legacy-id": 4022,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Computer Science and Engineering",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 29,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/61183/"
+  },
+  {
+   "id": 62411,
+   "legacy-id": 118868,
+   "catalog-id": 32,
+   "title": "CSCE 6261  -  Advanced Data Mining (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3282,
+     "legacy-id": 4022,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Computer Science and Engineering",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 29,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62411/"
+  },
+  {
+   "id": 62412,
+   "legacy-id": 118869,
+   "catalog-id": 32,
+   "title": "CSCE 6930  -  Advanced Selected Topics in Computer Science (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3282,
+     "legacy-id": 4022,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Computer Science and Engineering",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 29,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62412/"
+  },
+  {
+   "id": 62413,
+   "legacy-id": 118870,
+   "catalog-id": 32,
+   "title": "CSCE 6980  -  Research Guidance Dissertation (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3282,
+     "legacy-id": 4022,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Computer Science and Engineering",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 29,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62413/"
+  },
+  {
+   "id": 62437,
+   "legacy-id": 118894,
+   "catalog-id": 32,
+   "title": "CSCE 5263  -  Knowledge Engineering (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3282,
+     "legacy-id": 4022,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Computer Science and Engineering",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 29,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62437/"
+  },
+  {
+   "id": 62479,
+   "legacy-id": 118936,
+   "catalog-id": 32,
+   "title": "CSCE 5264  -  Natural Language Processing (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3282,
+     "legacy-id": 4022,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Computer Science and Engineering",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 29,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62479/"
+  },
+  {
+   "id": 62480,
+   "legacy-id": 118937,
+   "catalog-id": 32,
+   "title": "CSCE 5265  -  Social Network Analysis and Mining (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3282,
+     "legacy-id": 4022,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Computer Science and Engineering",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 29,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62480/"
+  },
+  {
+   "id": 62649,
+   "legacy-id": 119106,
+   "catalog-id": 32,
+   "title": "CSCE 5272  -  Advanced Software Quality (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3282,
+     "legacy-id": 4022,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Computer Science and Engineering",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 29,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62649/"
+  },
+  {
+   "id": 62650,
+   "legacy-id": 119107,
+   "catalog-id": 32,
+   "title": "CSCE 6231  -  Mobile and Pervasive Computing (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3282,
+     "legacy-id": 4022,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Computer Science and Engineering",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 29,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62650/"
+  },
+  {
+   "id": 62651,
+   "legacy-id": 119108,
+   "catalog-id": 32,
+   "title": "CSCE 3303  -  Fundamental Microelectronics (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3282,
+     "legacy-id": 4022,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Computer Science and Engineering",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 29,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62651/"
+  },
+  {
+   "id": 62652,
+   "legacy-id": 119109,
+   "catalog-id": 32,
+   "title": "CSCE 3304  -  Digital Design II (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3282,
+     "legacy-id": 4022,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Computer Science and Engineering",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 29,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62652/"
+  },
+  {
+   "id": 62653,
+   "legacy-id": 119110,
+   "catalog-id": 32,
+   "title": "CSCE 3421  -  Fundamentals of Computing and Communication Systems (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3282,
+     "legacy-id": 4022,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Computer Science and Engineering",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 29,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62653/"
+  },
+  {
+   "id": 62654,
+   "legacy-id": 119111,
+   "catalog-id": 32,
+   "title": "CSCE 3422  -  Introduction to Information Security (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3282,
+     "legacy-id": 4022,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Computer Science and Engineering",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 29,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62654/"
+  },
+  {
+   "id": 62655,
+   "legacy-id": 119112,
+   "catalog-id": 32,
+   "title": "CSCE 3611  -  Digital Signal Processing (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3282,
+     "legacy-id": 4022,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Computer Science and Engineering",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 29,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62655/"
+  },
+  {
+   "id": 62934,
+   "legacy-id": 119418,
+   "catalog-id": 32,
+   "title": "CSCE 4603  -  Fundamentals of Computer Vision (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3282,
+     "legacy-id": 4022,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Computer Science and Engineering",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 29,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62934/"
+  },
+  {
+   "id": 62935,
+   "legacy-id": 119419,
+   "catalog-id": 32,
+   "title": "CSCE 5269  -  Pattern Analysis (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3282,
+     "legacy-id": 4022,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Computer Science and Engineering",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 29,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62935/"
+  },
+  {
+   "id": 62936,
+   "legacy-id": 119420,
+   "catalog-id": 32,
+   "title": "CSCE 5245  -  Embedded Real-Time Systems (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3282,
+     "legacy-id": 4022,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Computer Science and Engineering",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 29,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62936/"
+  },
+  {
+   "id": 62937,
+   "legacy-id": 119421,
+   "catalog-id": 32,
+   "title": "CSCE 5910  -  Independent Studies in Computer Science and Engineering (1-3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3282,
+     "legacy-id": 4022,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Computer Science and Engineering",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 29,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/62937/"
+  },
+  {
+   "id": 63035,
+   "legacy-id": 119519,
+   "catalog-id": 32,
+   "title": "CSCE 5243  -  Information and System Security (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3282,
+     "legacy-id": 4022,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Computer Science and Engineering",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 29,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/63035/"
+  },
+  {
+   "id": 63037,
+   "legacy-id": 119521,
+   "catalog-id": 32,
+   "title": "CSCE 2203  -  Analysis and Design of Algorithms Lab (1 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3282,
+     "legacy-id": 4022,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Computer Science and Engineering",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 29,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/63037/"
+  },
+  {
+   "id": 63038,
+   "legacy-id": 119522,
+   "catalog-id": 32,
+   "title": "CSCE 1102  -  Fundamentals of Computing II Lab (1 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3282,
+     "legacy-id": 4022,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Computer Science and Engineering",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 29,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/63038/"
+  },
+  {
+   "id": 63119,
+   "legacy-id": 119611,
+   "catalog-id": 32,
+   "title": "CSCE 4604  -  Advanced Machine Learning (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3282,
+     "legacy-id": 4022,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Computer Science and Engineering",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 29,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/63119/"
+  },
+  {
+   "id": 63223,
+   "legacy-id": 119715,
+   "catalog-id": 32,
+   "title": "CSCE 4303  -  Embedded Systems on Chip Design (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3282,
+     "legacy-id": 4022,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Computer Science and Engineering",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 29,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/63223/"
+  },
+  {
+   "id": 63224,
+   "legacy-id": 119716,
+   "catalog-id": 32,
+   "title": "CSCE 4315  -  Internet of Things Networking Protocols (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3282,
+     "legacy-id": 4022,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Computer Science and Engineering",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 29,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/63224/"
+  },
+  {
+   "id": 63237,
+   "legacy-id": 119729,
+   "catalog-id": 32,
+   "title": "CSCE 2200  -  Applied Data Structures (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3282,
+     "legacy-id": 4022,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Computer Science and Engineering",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 29,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/63237/"
+  },
+  {
+   "id": 63289,
+   "legacy-id": 119783,
+   "catalog-id": 32,
+   "title": "CSCE 3602  -  Fundamentals of Machine Learning (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3282,
+     "legacy-id": 4022,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Computer Science and Engineering",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 29,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/63289/"
+  },
+  {
+   "id": 63290,
+   "legacy-id": 119784,
+   "catalog-id": 32,
+   "title": "CSCE 4605  -  Fundamentals of Data Mining (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3282,
+     "legacy-id": 4022,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Computer Science and Engineering",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 29,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/63290/"
+  },
+  {
+   "id": 63320,
+   "legacy-id": 119814,
+   "catalog-id": 32,
+   "title": "CSCE 3423  -  Introduction to Cybersecurity (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3282,
+     "legacy-id": 4022,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Computer Science and Engineering",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 29,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/63320/"
+  },
+  {
+   "id": 63321,
+   "legacy-id": 119815,
+   "catalog-id": 32,
+   "title": "CSCE 4423  -  Digital Forensics (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3282,
+     "legacy-id": 4022,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Computer Science and Engineering",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 29,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/63321/"
+  },
+  {
+   "id": 63322,
+   "legacy-id": 119816,
+   "catalog-id": 32,
+   "title": "CSCE 4424  -  Web Security (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3282,
+     "legacy-id": 4022,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Computer Science and Engineering",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 29,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/63322/"
+  },
+  {
+   "id": 63391,
+   "legacy-id": 121649,
+   "catalog-id": 32,
+   "title": "CSCE 4202  -  Applied Quantum Computing (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3282,
+     "legacy-id": 4022,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Computer Science and Engineering",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 29,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/63391/"
+  },
+  {
+   "id": 63392,
+   "legacy-id": 121650,
+   "catalog-id": 32,
+   "title": "CSCE 4800  -  The Data Science Studio: Industry Cases and Research (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3282,
+     "legacy-id": 4022,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Computer Science and Engineering",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 29,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/63392/"
+  },
+  {
+   "id": 63393,
+   "legacy-id": 121651,
+   "catalog-id": 32,
+   "title": "CSCE 6222  -  Advanced Data-Driven Optimization (3 cr.)",
+   "status": {
+    "catalog-id": 32,
+    "active": true,
+    "searchable": true,
+    "visible": true
+   },
+   "course_types": [
+    {
+     "id": 3282,
+     "legacy-id": 4022,
+     "catalog-id": 32,
+     "created": "2026-06-07 10:59:16",
+     "modified": "2026-06-07 10:59:16",
+     "name": "Computer Science and Engineering",
+     "description": "",
+     "category": "course",
+     "display": false,
+     "order": 29,
+     "status": {
+      "catalog-id": 32,
+      "active": true,
+      "searchable": true,
+      "visible": true
+     }
+    }
+   ],
+   "url": "/api/aucegypt/catalog/32/course/63393/"
+  }
+ ],
+ "description": "<div>Professors: S. Aly, T. ElBatt, S. Eldawlatly, A. El-Kadi (Chair), M. N. Mikhail, A. Rafea, C. Salama, M. Shalan, M. Youssef</div>\r\n\r\n<p>Associate Professor: A. Elmougy</p>\r\n\r\n<p>Assistant Professors: A. ElBolock, D. Mahmoud, N. Sakr, H. Sharara</p>\r\n\r\n<p style=\"text-align:justify\">The Department of Computer Science and Engineering offers two undergraduate degrees: The Bachelor of Science in Computer Science and the Bachelor of Science in Computer Engineering.</p>\r\n\r\n<p style=\"text-align:justify\"><strong>Vision</strong><br />\r\nThe Department of Computer Science and Engineering of The American University in Cairo aspires to be an internationally recognized source of knowledge that produces outstanding graduates in computer science and computer engineering.</p>\r\n\r\n<p style=\"text-align:justify\"><strong>Mission</strong><br />\r\nThe mission of the Department of Computer Science and Engineering of the American University in Cairo is to:</p>\r\n\r\n<ul>\r\n\t<li style=\"text-align:justify\">Motivate and inspire students by providing high-caliber, fully integrated computing programs</li>\r\n\t<li style=\"text-align:justify\">Provide leadership and innovation in a rapidly evolving global information society</li>\r\n\t<li style=\"text-align:justify\">Advance the state of knowledge in computing</li>\r\n\t<li style=\"text-align:justify\">Pursue scholarly research for publication and dissemination, through a comprehensive learning environment.</li>\r\n</ul>\r\n",
+ "options": "{\"searchable\":1}",
+ "college-types": [],
+ "department-types": [],
+ "created": "2026-06-07 10:59:16",
+ "modified": "2026-08-10 04:13:43"
+}
