@@ -20,9 +20,17 @@ function walk(node: AnyNode, out: string[]): void {
     return;
   }
 
+  if (tag === "li") {
+    // paragraphs inside a list item belong on the bullet line, not after it
+    const inner: string[] = [];
+    for (const child of node.children) walk(child, inner);
+    const text = tidy(inner.join("")).replace(/\n{2,}/g, "\n");
+    if (text) out.push(`\n- ${text}`);
+    return;
+  }
+
   const block = BLOCK_TAGS.has(tag);
   if (block) out.push("\n\n");
-  if (tag === "li") out.push("\n- ");
   for (const child of node.children) walk(child, out);
   if (block) out.push("\n\n");
 }

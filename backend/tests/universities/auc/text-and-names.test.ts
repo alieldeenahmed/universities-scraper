@@ -20,6 +20,10 @@ describe("htmlToText", () => {
     );
   });
 
+  it("keeps paragraphs inside a list item on the bullet line and skips empty items", () => {
+    expect(htmlToText("<ul><li><p>Interview</p><p>&nbsp;</p></li><li>&nbsp;</li></ul>")).toBe("- Interview");
+  });
+
   it("drops scripts and styles", () => {
     expect(htmlToText("<div>hi<script>alert(1)</script><style>p{}</style></div>")).toBe("hi");
   });
