@@ -1,0 +1,16 @@
+{
+  "name": "universities-scraper",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Internal tool that scrapes undergraduate majors from universities and shows them in a small web ui",
+  "scripts": {
+    "setup": "npm --prefix backend install && npm --prefix frontend install",
+    "build": "npm --prefix frontend run build",
+    "start": "npm --prefix backend run start",
+    "dev:backend": "npm --prefix backend run dev",
+    "dev:frontend": "npm --prefix frontend run dev",
+    "crawl": "npm --prefix backend run crawl --",
+    "typecheck": "npm --prefix backend run typecheck && npm --prefix frontend run typecheck",
+    "test": "npm --prefix backend test && npm --prefix frontend test"
+  }
+}
