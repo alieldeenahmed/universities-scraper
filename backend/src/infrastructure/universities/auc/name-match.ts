@@ -23,7 +23,7 @@ export function slugify(name: string): string {
  * specializations in ..."). A heading applies when it is the start of the name.
  */
 export function headingAppliesTo(heading: string, programName: string): boolean {
-  const h = normalizeName(heading);
+  const h = baseName(heading);
   const base = baseName(programName);
   if (!h || !base) return false;
   if (h === "engineering programs") return /\bengineering\b/.test(base);

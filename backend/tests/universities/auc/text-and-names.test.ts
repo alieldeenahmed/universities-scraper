@@ -47,6 +47,11 @@ describe("name helpers", () => {
     expect(headingAppliesTo("Data Science", "Data Science (B.Sc.)")).toBe(true);
   });
 
+  it("ignores a degree tag on the heading side too", () => {
+    expect(headingAppliesTo("Accounting (BAC)", "Accounting (B.A.C.)")).toBe(true);
+    expect(headingAppliesTo("Economics (BA)", "Economics (B.A.)")).toBe(true);
+  });
+
   it("does not match a different program that only shares a word", () => {
     expect(headingAppliesTo("Computer Science", "Computer Engineering with specializations (B.S)")).toBe(false);
     expect(headingAppliesTo("Mathematics", "Applied Mathematics (B.S.)")).toBe(false);
