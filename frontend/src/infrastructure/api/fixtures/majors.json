@@ -1,0 +1,80 @@
+[
+ {
+  "id": 1,
+  "universityId": 1,
+  "name": "Accounting (B.A.C.)",
+  "degreeType": "Bachelor of Accounting",
+  "faculty": "Onsi Sawiris School of Business",
+  "department": "Youssef Nabih Department of Accounting",
+  "creditHours": 127,
+  "tuitionCurrency": "USD",
+  "tuitionTotals": [
+   {
+    "label": "Egyptian students",
+    "amount": 88900
+   },
+   {
+    "label": "International students",
+    "amount": 93345
+   }
+  ],
+  "descriptionExcerpt": "Accounting is both a primary communication channel between business entities and its stakeholders and a comprehensive information system which supports effective decision making. The role of the accounting profession is becoming more pronou…",
+  "hasAdmissionRequirements": true,
+  "sourceUrl": "https://www.aucegypt.edu/academics/undergraduate-programs/accounting",
+  "status": "active",
+  "lastSeenAt": "2026-09-30T18:51:12.709Z",
+  "lastChangedAt": "2026-09-30T18:46:31.264Z"
+ },
+ {
+  "id": 7,
+  "universityId": 1,
+  "name": "Business and Entrepreneurship (B.B.E.)",
+  "degreeType": "Bachelor of Business and Entrepreneurship (B.B.E.)",
+  "faculty": "Onsi Sawiris School of Business",
+  "department": "Heikal Department of Management",
+  "creditHours": 127,
+  "tuitionCurrency": "USD",
+  "tuitionTotals": [
+   {
+    "label": "Egyptian students",
+    "amount": 88900
+   },
+   {
+    "label": "International students",
+    "amount": 93345
+   }
+  ],
+  "descriptionExcerpt": "Bachelor of Business and Entrepreneurship (BBE) A successful economic future for Egypt and the Middle East is highly concerned with a basic understanding of the principles and practices of business as they apply to firms in a dynamic enviro…",
+  "hasAdmissionRequirements": true,
+  "sourceUrl": "https://www.aucegypt.edu/academics/undergraduate-programs/business-and-entrepreneurship",
+  "status": "active",
+  "lastSeenAt": "2026-09-30T18:51:12.709Z",
+  "lastChangedAt": "2026-09-30T18:46:56.756Z"
+ },
+ {
+  "id": 8,
+  "universityId": 1,
+  "name": "Business in Finance (B.B.F.)",
+  "degreeType": "Bachelor of Business in Finance (B.B.F.)",
+  "faculty": "Onsi Sawiris School of Business",
+  "department": "Heikal Department of Management",
+  "creditHours": 127,
+  "tuitionCurrency": "USD",
+  "tuitionTotals": [
+   {
+    "label": "Egyptian students",
+    "amount": 88900
+   },
+   {
+    "label": "International students",
+    "amount": 93345
+   }
+  ],
+  "descriptionExcerpt": "Bachelor of Business in Finance (BBF) With the proliferation of ground-breaking financial services, the unprecedented growth in banking and the interconnectedness of global economies, the field of finance has never been more vital. The Bach…",
+  "hasAdmissionRequirements": true,
+  "sourceUrl": "https://www.aucegypt.edu/academics/undergraduate-programs/finance",
+  "status": "active",
+  "lastSeenAt": "2026-09-30T18:51:12.709Z",
+  "lastChangedAt": "2026-09-30T18:46:59.238Z"
+ }
+]

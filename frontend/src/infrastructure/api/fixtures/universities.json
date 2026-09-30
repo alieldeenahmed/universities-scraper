@@ -1,0 +1,73 @@
+[
+ {
+  "id": 1,
+  "slug": "auc",
+  "name": "The American University in Cairo",
+  "country": "Egypt",
+  "website": "https://www.aucegypt.edu",
+  "scheduleEveryHours": 24,
+  "activeMajors": 36,
+  "missingMajors": 0,
+  "activeRun": null,
+  "lastFinishedRun": {
+   "id": 2,
+   "universityId": 1,
+   "mode": "incremental",
+   "trigger": "manual",
+   "status": "completed",
+   "requestedAt": "2026-09-30T18:50:23.052Z",
+   "startedAt": "2026-09-30T18:50:23.155Z",
+   "finishedAt": "2026-09-30T18:51:14.360Z",
+   "progress": {
+    "done": 0,
+    "total": 0
+   },
+   "stats": {
+    "discovered": 36,
+    "scraped": 0,
+    "skipped": 36,
+    "failed": 0,
+    "created": 0,
+    "updated": 0,
+    "unchanged": 0,
+    "markedMissing": 0
+   },
+   "failure": null
+  },
+  "lastSuccessfulRun": {
+   "id": 2,
+   "universityId": 1,
+   "mode": "incremental",
+   "trigger": "manual",
+   "status": "completed",
+   "requestedAt": "2026-09-30T18:50:23.052Z",
+   "startedAt": "2026-09-30T18:50:23.155Z",
+   "finishedAt": "2026-09-30T18:51:14.360Z",
+   "progress": {
+    "done": 0,
+    "total": 0
+   },
+   "stats": {
+    "discovered": 36,
+    "scraped": 0,
+    "skipped": 36,
+    "failed": 0,
+    "created": 0,
+    "updated": 0,
+    "unchanged": 0,
+    "markedMissing": 0
+   },
+   "failure": null
+  },
+  "gaps": {
+   "open": 0,
+   "gaveUp": 0
+  },
+  "health": {
+   "status": "healthy",
+   "reasons": []
+  },
+  "nextDueAt": "2026-10-01T18:51:14.360Z",
+  "due": false
+ }
+]

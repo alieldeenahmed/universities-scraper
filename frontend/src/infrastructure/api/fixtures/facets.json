@@ -1,0 +1,56 @@
+{
+ "faculties": [
+  {
+   "name": "Onsi Sawiris School of Business",
+   "departments": [
+    "Heikal Department of Management",
+    "Mohamed Shafik Gabr Department of Economics",
+    "Youssef Nabih Department of Accounting"
+   ]
+  },
+  {
+   "name": "School of Global Affairs and Public Policy",
+   "departments": [
+    "Department of Journalism & Mass Communication",
+    "Middle East Studies Program"
+   ]
+  },
+  {
+   "name": "School of Humanities and Social Sciences",
+   "departments": [
+    "Department of English & Comparative Literature",
+    "Department of Philosophy",
+    "Department of Political Science",
+    "Department of Psychology",
+    "Department of Sociology, Egyptology and Anthropology",
+    "Department of the Arts",
+    "Sultan Al-Qasimi Department of History",
+    "The Sheikh Hassan Abbas Sharbatly Department of Arab and Islamic Civilizations"
+   ]
+  },
+  {
+   "name": "School of Sciences and Engineering",
+   "departments": [
+    "Department of Architecture",
+    "Department of Biological, Chemical and Global Health Sciences",
+    "Department of Computer Science and Engineering",
+    "Department of Construction Engineering",
+    "Department of Electronics and Communications Engineering",
+    "Department of Mathematics and Actuarial Science",
+    "Department of Mechanical Engineering",
+    "Department of Petroleum and Energy Engineering",
+    "Department of Physics"
+   ]
+  }
+ ],
+ "degreeTypes": [
+  "Bachelor of Accounting",
+  "Bachelor of Architecture",
+  "Bachelor of Arts",
+  "Bachelor of Business Administration",
+  "Bachelor of Business and Entrepreneurship (B.B.E.)",
+  "Bachelor of Business in Finance (B.B.F.)",
+  "Bachelor of Business in Marketing (B.B.M.)",
+  "Bachelor of Science"
+ ]
+}

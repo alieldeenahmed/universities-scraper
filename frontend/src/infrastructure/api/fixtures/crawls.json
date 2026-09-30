@@ -1,0 +1,52 @@
+[
+ {
+  "id": 2,
+  "universityId": 1,
+  "mode": "incremental",
+  "trigger": "manual",
+  "status": "completed",
+  "requestedAt": "2026-09-30T18:50:23.052Z",
+  "startedAt": "2026-09-30T18:50:23.155Z",
+  "finishedAt": "2026-09-30T18:51:14.360Z",
+  "progress": {
+   "done": 0,
+   "total": 0
+  },
+  "stats": {
+   "discovered": 36,
+   "scraped": 0,
+   "skipped": 36,
+   "failed": 0,
+   "created": 0,
+   "updated": 0,
+   "unchanged": 0,
+   "markedMissing": 0
+  },
+  "failure": null
+ },
+ {
+  "id": 1,
+  "universityId": 1,
+  "mode": "full",
+  "trigger": "manual",
+  "status": "completed",
+  "requestedAt": "2026-09-30T18:46:15.327Z",
+  "startedAt": "2026-09-30T18:46:15.333Z",
+  "finishedAt": "2026-09-30T18:48:42.694Z",
+  "progress": {
+   "done": 36,
+   "total": 36
+  },
+  "stats": {
+   "discovered": 36,
+   "scraped": 36,
+   "skipped": 0,
+   "failed": 0,
+   "created": 36,
+   "updated": 0,
+   "unchanged": 0,
+   "markedMissing": 0
+  },
+  "failure": null
+ }
+]

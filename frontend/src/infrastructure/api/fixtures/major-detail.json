@@ -1,0 +1,85 @@
+{
+ "id": 12,
+ "universityId": 1,
+ "name": "Computer Science with specializations in Embedded Systems, Artificial Intelligence and Cybersecurity (B.S.)",
+ "degreeType": "Bachelor of Science",
+ "faculty": "School of Sciences and Engineering",
+ "department": "Department of Computer Science and Engineering",
+ "creditHours": 130,
+ "tuitionCurrency": "USD",
+ "tuitionTotals": [
+  {
+   "label": "Egyptian students",
+   "amount": 91000
+  },
+  {
+   "label": "International students",
+   "amount": 95550
+  }
+ ],
+ "descriptionExcerpt": "Bachelor of Science in Computer Science with optional specializations in Embedded Systems, Artificial Intelligence and Cybersecurity The Computer Science (B.S.) program is accredited by the Computing Accreditation Commission of ABET, under…",
+ "hasAdmissionRequirements": true,
+ "sourceUrl": "https://www.aucegypt.edu/academics/undergraduate-programs/computer-science",
+ "status": "active",
+ "lastSeenAt": "2026-09-30T18:51:12.709Z",
+ "lastChangedAt": "2026-09-30T18:47:10.352Z",
+ "description": "Bachelor of Science in Computer Science with optional specializations in Embedded Systems, Artificial Intelligence and Cybersecurity\n\nThe Computer Science (B.S.) program is accredited by the Computing Accreditation Commission of ABET, under the commission's General Criteria and the Program Criteria for the Computer Science and Similarly Named Computing Programs.\n\nThe Computer Science (B.S.) program has an equivalence from the Supreme Council of Universities in Egypt.",
+ "admissionRequirements": {
+  "sections": [
+   {
+    "title": "Declaration of the Computer Science Major",
+    "body": "Students accepted at AUC may either get admitted into their preferred major at the time of admission to the university (declare their major at the gate) or get admitted to the university as undeclared. Students who get admitted into a major will still have the opportunity to change their major later"
+   },
+   {
+    "title": "Minimum requirements by certificate (Computer Science)",
+    "body": "American High School Diploma\nCompletion of pre-calculus and physics courses in grades 11 or 12, plus another science or computer course that could be covered in grades 10, 11 or 12, is required to qualify for admission. A minimum SAT I-MATH score of 560 or ACT I MATH score of 22 and a minimum overal"
+   },
+   {
+    "title": "Application deadlines",
+    "body": "Spring 2027: 1 Nov\nFall 2027 Early Admission: 1 Feb\nFall 2027 Regular Admission: 1 Jun"
+   },
+   {
+    "title": "General admission requirements",
+    "body": "- Submit the online application form. Application is available online only. The application can be renewed from the fall semester to the spring semester of the same academic year only by sending an email to enrolauc@aucegypt.edu. A new application should be submitted for a new academic year. Applica"
+   },
+   {
+    "title": "English language requirements",
+    "body": "Check that you have fulfilled all the University’s language requirements below:\n\n- All new undergraduate students applying as degree and non-degree students must provide evidence of academic English proficiency with the admission application. The University does not exempt applicants from this requi"
+   },
+   {
+    "title": "Declaring a major at admission",
+    "body": "Applicants interested in majors offered by the School of Sciences and Engineering and the Onsi Sawiris School of Business may be considered for major declaration provided that they meet the general undergraduate admission requirements in addition to any program-specific criteria.\n\n- Check the admiss"
+   }
+  ],
+  "sourceUrls": [
+   "https://www.aucegypt.edu/academics/undergraduate-programs/computer-science",
+   "https://www.aucegypt.edu/admissions/undergraduate-requirements",
+   "https://www.aucegypt.edu/admissions/undergraduate-requirements/sciences-and-engineering-programs"
+  ]
+ },
+ "tuition": {
+  "rates": [
+   {
+    "label": "Egyptian students",
+    "amountPerCreditHour": 700
+   },
+   {
+    "label": "International students",
+    "amountPerCreditHour": 735
+   }
+  ],
+  "currency": "USD",
+  "sourceUrl": "https://www.aucegypt.edu/admissions/tuition-and-financial-assistance",
+  "estimatedTotals": [
+   {
+    "label": "Egyptian students",
+    "amount": 91000
+   },
+   {
+    "label": "International students",
+    "amount": 95550
+   }
+  ]
+ },
+ "firstSeenAt": "2026-09-30T18:47:10.352Z"
+}
