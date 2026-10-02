@@ -44,7 +44,7 @@ describe("crawlButtonState", () => {
 
   it("is locked while the request is in flight and while a crawl is active", () => {
     expect(crawlButtonState({ activeRun: null }, true).disabled).toBe(true);
-    expect(crawlButtonState({ activeRun: run("running") }, false)).toEqual({ label: "Crawling...", disabled: true });
+    expect(crawlButtonState({ activeRun: run("running") }, false)).toEqual({ label: "Crawling…", disabled: true });
     expect(crawlButtonState({ activeRun: run("pending") }, false)).toEqual({ label: "Queued", disabled: true });
   });
 });

@@ -60,7 +60,10 @@ export class FakeGateway implements CatalogGateway {
       faculties.set(m.faculty, departments);
     }
     return {
-      faculties: [...faculties].map(([name, departments]) => ({ name, departments: [...departments].sort() })),
+      // alphabetical, like the real backend: the ui hands out faculty colours in this order
+      faculties: [...faculties]
+        .map(([name, departments]) => ({ name, departments: [...departments].sort() }))
+        .sort((a, b) => a.name.localeCompare(b.name)),
       degreeTypes: [...new Set(this.majors.map((m) => m.degreeType).filter((d): d is string => Boolean(d)))].sort(),
     };
   }
