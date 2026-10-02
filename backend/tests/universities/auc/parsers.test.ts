@@ -25,6 +25,22 @@ describe("parseUndergraduateRates", () => {
     expect(parseUndergraduateRates("<html><body><h2>Tuition</h2><p>Call us.</p></body></html>")).toBeNull();
   });
 
+  it("reads Egyptian pound rates, so a university that charges in EGP is stored as EGP", () => {
+    const card = (amount: string, label: string) =>
+      `<div class="publications__item"><h3 class="publications__item-heading">${amount}</h3><div class="publications__item-description"><h4>${label}</h4></div></div>`;
+    const html = (amounts: [string, string]) =>
+      `<section><h2>Tuition Rate per Credit Hour</h2>${card(amounts[0], "Undergraduate Egyptian students")}${card(amounts[1], "Undergraduate international students")}</section>`;
+
+    expect(parseUndergraduateRates(html(["EGP 5,000", "EGP 6,500"]))).toEqual({
+      currency: "EGP",
+      rates: [
+        { label: "Egyptian students", amountPerCreditHour: 5000 },
+        { label: "International students", amountPerCreditHour: 6500 },
+      ],
+    });
+    expect(parseUndergraduateRates(html(["E£5,000", "E£6,500"]))?.currency).toBe("EGP");
+  });
+
   it("skips graduate cards", () => {
     const html = `<section><h2>Tuition Rate per Credit Hour</h2>
       <div class="publications__item"><h3 class="publications__item-heading">$900</h3><div class="publications__item-description"><h4>Graduate students</h4></div></div>
