@@ -1,4 +1,13 @@
+// Currencies shown with their own sign instead of the one Intl would pick.
+// Dollars stay "$", Egyptian pounds are "E£".
+const CURRENCY_PREFIX: Record<string, string> = {
+  EGP: "E£",
+};
+
 export function formatMoney(amount: number, currency: string): string {
+  const prefix = CURRENCY_PREFIX[currency];
+  if (prefix) return `${prefix}${Math.round(amount).toLocaleString("en-US")}`;
+
   try {
     return new Intl.NumberFormat("en-US", { style: "currency", currency, maximumFractionDigits: 0 }).format(amount);
   } catch {

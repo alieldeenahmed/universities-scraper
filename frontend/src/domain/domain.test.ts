@@ -61,6 +61,12 @@ describe("formatting", () => {
     expect(formatMoney(91000, "USD")).toBe("$91,000");
   });
 
+  it("shows Egyptian pounds with E£ and leaves dollars alone", () => {
+    expect(formatMoney(1250000, "EGP")).toBe("E£1,250,000");
+    expect(formatMoney(2500.4, "EGP")).toBe("E£2,500");
+    expect(formatMoney(700, "USD")).toBe("$700");
+  });
+
   it("does not break on an odd currency code", () => {
     expect(formatMoney(1500, "???")).toBe("1,500 ???");
   });

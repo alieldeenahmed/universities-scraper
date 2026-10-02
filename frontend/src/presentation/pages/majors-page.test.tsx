@@ -75,6 +75,43 @@ describe("majors page", () => {
     expect(within(row).getAllByText("—")).toHaveLength(2);
   });
 
+  it("shows prices in E£ for a university that charges in Egyptian pounds, and $ for the rest", async () => {
+    const user = userEvent.setup();
+    gateway.majors = [
+      makeMajor({
+        id: 1,
+        name: "Pound Priced (B.A.)",
+        tuitionCurrency: "EGP",
+        tuitionTotals: [{ label: "Egyptian students", amount: 640000 }],
+      }),
+      makeMajor({ id: 2, name: "Dollar Priced (B.A.)" }),
+    ];
+    gateway.details.set(
+      1,
+      makeDetail({
+        id: 1,
+        name: "Pound Priced (B.A.)",
+        tuition: {
+          currency: "EGP",
+          rates: [{ label: "Egyptian students", amountPerCreditHour: 5000 }],
+          estimatedTotals: [{ label: "Egyptian students", amount: 640000 }],
+          sourceUrl: "https://example.edu/tuition",
+        },
+      }),
+    );
+    renderApp(gateway);
+    await expectCount("2 majors");
+
+    expect(within(screen.getByText("Pound Priced (B.A.)").closest("tr")!).getByText("E£640,000")).toBeInTheDocument();
+    expect(within(screen.getByText("Dollar Priced (B.A.)").closest("tr")!).getByText("$91,000")).toBeInTheDocument();
+
+    await user.click(screen.getByText("Pound Priced (B.A.)"));
+    const dialog = await screen.findByRole("dialog", { name: "Pound Priced (B.A.)" });
+    expect(within(dialog).getByText("E£5,000")).toBeInTheDocument();
+    expect(within(dialog).getAllByText("E£640,000").length).toBeGreaterThan(1);
+    expect(within(dialog).queryByText(/\$/)).not.toBeInTheDocument();
+  });
+
   it("gives every faculty its own colour", async () => {
     renderApp(gateway);
     await expectCount("3 majors");
