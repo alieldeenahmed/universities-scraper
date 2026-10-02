@@ -1,0 +1,176 @@
+/* app shell: dark sidebar on the left, content on the right */
+
+.sidebar {
+  position: fixed;
+  inset: 0 auto 0 0;
+  width: var(--sidebar-width);
+  background: var(--sidebar);
+  color: var(--sidebar-text);
+  padding: 22px 12px 24px;
+  display: flex;
+  flex-direction: column;
+  gap: 26px;
+  overflow-y: auto;
+}
+
+.brand {
+  padding: 0 12px;
+  font-size: 17px;
+  font-weight: 650;
+  letter-spacing: -0.01em;
+  color: #fff;
+}
+
+.side-nav,
+.side-universities {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.side-link {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 10px 12px;
+  border-radius: 9px;
+  color: var(--sidebar-text);
+  text-decoration: none;
+  font-weight: 550;
+  font-size: 14.5px;
+}
+
+.side-link:hover {
+  background: rgba(255, 255, 255, 0.06);
+}
+
+.side-link.active {
+  background: var(--sidebar-active);
+  color: #fff;
+}
+
+.side-link svg {
+  flex: none;
+  opacity: 0.9;
+}
+
+.side-heading {
+  padding: 0 12px 6px;
+  font-size: 12.5px;
+  font-weight: 550;
+  color: var(--sidebar-muted);
+}
+
+.side-university {
+  gap: 10px;
+  padding: 9px 12px;
+  font-size: 14px;
+}
+
+.side-university .name {
+  flex: 1;
+  min-width: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.side-university .count {
+  font-size: 12.5px;
+  color: var(--sidebar-muted);
+  font-variant-numeric: tabular-nums;
+}
+
+.side-university.active .name {
+  font-weight: 650;
+}
+
+.main {
+  margin-left: var(--sidebar-width);
+  min-width: 0;
+}
+
+.page {
+  max-width: 1180px;
+  padding: 36px 40px 72px;
+}
+
+.page-head {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 24px;
+  margin-bottom: 22px;
+}
+
+.page-head h1 {
+  font-size: 34px;
+  font-weight: 700;
+  letter-spacing: -0.025em;
+}
+
+.page-head p {
+  margin-top: 8px;
+  max-width: 640px;
+  color: var(--muted);
+}
+
+.page-head p strong {
+  color: var(--text);
+  font-weight: 650;
+}
+
+.stack > * + * {
+  margin-top: 30px;
+}
+
+.section-title {
+  font-size: 20px;
+  font-weight: 700;
+  margin-bottom: 12px;
+}
+
+/* narrow screens: the sidebar turns into a bar on top */
+
+@media (max-width: 860px) {
+  .sidebar {
+    position: static;
+    width: auto;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 6px 18px;
+    padding: 12px 14px;
+  }
+
+  .side-universities {
+    display: none;
+  }
+
+  .side-nav {
+    flex-direction: row;
+  }
+
+  .main {
+    margin-left: 0;
+  }
+
+  .page {
+    padding: 22px 16px 56px;
+  }
+
+  .page-head {
+    flex-direction: column;
+    gap: 14px;
+  }
+
+  .page-head h1 {
+    font-size: 28px;
+  }
+}
+
+@media (min-width: 861px) {
+  .mobile-only {
+    display: none;
+  }
+}

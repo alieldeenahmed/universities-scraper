@@ -1,0 +1,50 @@
+:root {
+  --font-sans: "Inter Variable", Inter, system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  --font-serif: "Source Serif 4 Variable", "Source Serif 4", Georgia, "Times New Roman", serif;
+
+  /* surfaces */
+  --bg: #ebeff3;
+  --surface: #fafcfb;
+  --surface-2: #f2f5f6;
+  --border: #d8dfe5;
+  --border-soft: #e4e9ed;
+
+  /* text */
+  --text: #17212e;
+  --muted: #5f6c7b;
+  --faint: #8a96a3;
+
+  /* sidebar */
+  --sidebar: #0e1e33;
+  --sidebar-active: #1a2c47;
+  --sidebar-text: #cdd6e2;
+  --sidebar-muted: #8394a9;
+
+  /* actions and states */
+  --ink: #111c2b;
+  --ink-hover: #1f2d41;
+  --blue: #2f4fd0;
+  --blue-soft: #e1e8fb;
+  --green: #1d7a43;
+  --green-soft: #dff1e5;
+  --amber: #a0600a;
+  --amber-soft: #fbebd0;
+  --red: #b3261e;
+  --red-soft: #fce3e0;
+  --gray: #5f6c7b;
+  --gray-soft: #e6eaee;
+
+  /* one colour per faculty, handed out in order. Dark enough to be read as text. */
+  --fac-1: #9c6309;
+  --fac-2: #0a7b7d;
+  --fac-3: #93397c;
+  --fac-4: #2f4fd0;
+  --fac-5: #2f7d42;
+  --fac-6: #b34a31;
+  --fac-7: #5340b5;
+  --fac-8: #4f5f70;
+
+  --radius: 12px;
+  --radius-sm: 8px;
+  --sidebar-width: 248px;
+}
