@@ -32,6 +32,7 @@ Things that matter:
 - `version` on the reference is anything that changes when the major changes (a modified timestamp, an etag). Incremental crawls skip majors whose version didn't move. `null` means "always re-scrape".
 - Use the `http` you are given (`AdapterDeps`), not `fetch`. It spaces requests per host, retries temporary errors, and reports bot challenges as `blocked`.
 - Throw `ScrapeError` with the right kind (`not_found`, `parse`, `transient`, `blocked`). One major failing never stops the others.
+- Tuition carries the currency the university publishes in (`USD`, `EGP`, ...). The ui shows dollars as `$` and Egyptian pounds as `E£`, other codes as plain text like `SAR 1,000`. No conversion happens anywhere, a university is shown in its own currency.
 - Don't invent data. Return `null` for what you can't find. The crawl turns empty fields into gaps, and the repair loop goes back for them.
 - If something is odd but not fatal, add a `warnings` entry (AUC uses it when the credit hours from the text and from the sections disagree).
 - Put optional shared sources in `prepare()` behind a try/catch, so one broken page shows up as a gap on those fields instead of failing the whole crawl.
