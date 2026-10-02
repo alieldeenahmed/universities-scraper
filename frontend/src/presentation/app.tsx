@@ -1,24 +1,20 @@
 import { Route, Routes } from "react-router-dom";
 import { Layout } from "./components/layout";
-import { EmptyState } from "./components/notice";
 import { CrawlsPage } from "./pages/crawls-page";
 import { MajorsPage } from "./pages/majors-page";
+import { NotFoundPage } from "./pages/not-found-page";
+import { UniversitiesProvider } from "./universities-context";
 
 export function App() {
   return (
-    <Routes>
-      <Route element={<Layout />}>
-        <Route index element={<MajorsPage />} />
-        <Route path="crawls" element={<CrawlsPage />} />
-        <Route
-          path="*"
-          element={
-            <div className="page">
-              <EmptyState title="Page not found" />
-            </div>
-          }
-        />
-      </Route>
-    </Routes>
+    <UniversitiesProvider>
+      <Routes>
+        <Route element={<Layout />}>
+          <Route index element={<MajorsPage />} />
+          <Route path="crawls" element={<CrawlsPage />} />
+          <Route path="*" element={<NotFoundPage />} />
+        </Route>
+      </Routes>
+    </UniversitiesProvider>
   );
 }
