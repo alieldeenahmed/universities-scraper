@@ -1,6 +1,7 @@
 import { useEffect, useState } from "react";
 import { changeFaculty, clearFilters, departmentOptions, hasActiveFilters } from "../../application/filters";
 import type { MajorFacets, MajorFilter } from "../../domain/major";
+import { Dropdown } from "../components/dropdown";
 import { IconSearch } from "../components/icons";
 import { Marker } from "../components/marker";
 import { colorOf, colorStyle } from "../theme/faculty-colors";
@@ -70,33 +71,25 @@ export function MajorsFilters({ filter, facets = EMPTY_FACETS, colors, count, on
       </div>
 
       <div className="filter-row">
-        <select
-          className="select"
-          aria-label="Department"
+        <Dropdown
+          label="Department"
           value={filter.department ?? ""}
-          onChange={(e) => onChange({ ...filter, department: e.target.value || undefined })}
-        >
-          <option value="">All departments</option>
-          {departmentOptions(facets, filter.faculty).map((department) => (
-            <option key={department} value={department}>
-              {department}
-            </option>
-          ))}
-        </select>
+          options={[
+            { value: "", label: "All departments" },
+            ...departmentOptions(facets, filter.faculty).map((department) => ({ value: department, label: department })),
+          ]}
+          onChange={(department) => onChange({ ...filter, department: department || undefined })}
+        />
 
-        <select
-          className="select"
-          aria-label="Degree"
+        <Dropdown
+          label="Degree"
           value={filter.degreeType ?? ""}
-          onChange={(e) => onChange({ ...filter, degreeType: e.target.value || undefined })}
-        >
-          <option value="">All degrees</option>
-          {facets.degreeTypes.map((degree) => (
-            <option key={degree} value={degree}>
-              {degree}
-            </option>
-          ))}
-        </select>
+          options={[
+            { value: "", label: "All degrees" },
+            ...facets.degreeTypes.map((degree) => ({ value: degree, label: degree })),
+          ]}
+          onChange={(degree) => onChange({ ...filter, degreeType: degree || undefined })}
+        />
 
         <button
           type="button"

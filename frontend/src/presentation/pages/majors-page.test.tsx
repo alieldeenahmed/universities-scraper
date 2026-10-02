@@ -162,19 +162,42 @@ describe("majors page", () => {
     renderApp(gateway);
     await expectCount("3 majors");
 
-    const department = screen.getByLabelText("Department");
-    expect(within(department).getAllByRole("option").map((o) => o.textContent)).toEqual([
+    const optionLabels = () => screen.getAllByRole("option").map((o) => o.textContent);
+
+    await user.click(screen.getByRole("combobox", { name: "Department" }));
+    expect(optionLabels()).toEqual([
       "All departments",
       "Department of Computer Science and Engineering",
       "Department of the Arts",
     ]);
+    await user.keyboard("{Escape}");
 
     await user.click(screen.getByRole("button", { name: HUMANITIES }));
     await expectCount("2 majors");
-    expect(within(department).getAllByRole("option").map((o) => o.textContent)).toEqual([
-      "All departments",
-      "Department of the Arts",
-    ]);
+    await user.click(screen.getByRole("combobox", { name: "Department" }));
+    expect(optionLabels()).toEqual(["All departments", "Department of the Arts"]);
+  });
+
+  it("filters by department and by degree from the dropdowns", async () => {
+    const user = userEvent.setup();
+    renderApp(gateway);
+    await expectCount("3 majors");
+
+    await user.click(screen.getByRole("combobox", { name: "Department" }));
+    await user.click(screen.getByRole("option", { name: "Department of the Arts" }));
+    await expectCount("2 majors");
+    expect(screen.getByRole("combobox", { name: "Department" })).toHaveTextContent("Department of the Arts");
+    // choosing closes the list
+    expect(screen.queryByRole("listbox")).not.toBeInTheDocument();
+
+    await user.click(screen.getByRole("combobox", { name: "Degree" }));
+    await user.click(screen.getByRole("option", { name: "Bachelor of Science" }));
+    await expect(screen.findByText("No majors match these filters")).resolves.toBeInTheDocument();
+
+    // one in the filter row and one in the empty state, both do the same
+    await user.click(screen.getAllByRole("button", { name: "Clear filters" })[0]!);
+    await expectCount("3 majors");
+    expect(screen.getByRole("combobox", { name: "Department" })).toHaveTextContent("All departments");
   });
 
   it("clears the filters", async () => {
