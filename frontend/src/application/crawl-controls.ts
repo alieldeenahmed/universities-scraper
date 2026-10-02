@@ -16,9 +16,9 @@ export interface CrawlButtonState {
 }
 
 export function crawlButtonState(university: Pick<University, "activeRun">, pendingRequest: boolean): CrawlButtonState {
-  if (pendingRequest) return { label: "Starting...", disabled: true };
+  if (pendingRequest) return { label: "Starting…", disabled: true };
   const run = university.activeRun;
-  if (run?.status === "running") return { label: "Crawling...", disabled: true };
+  if (run?.status === "running") return { label: "Crawling…", disabled: true };
   if (run?.status === "pending") return { label: "Queued", disabled: true };
   return { label: "Crawl now", disabled: false };
 }

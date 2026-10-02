@@ -1,5 +1,5 @@
 import { summarizeRun } from "../../application/crawl-controls";
-import { modeLabel, triggerLabel, type CrawlRun } from "../../domain/crawl";
+import { isRunActive, modeLabel, triggerLabel, type CrawlRun } from "../../domain/crawl";
 import { formatDateTime, formatDuration, formatRelative } from "../../domain/format";
 import { StatusBadge } from "../components/badges";
 
@@ -11,14 +11,13 @@ interface Props {
 
 export function RunsTable({ runs, universityNames, now }: Props) {
   return (
-    <div className="table-wrap">
+    <div className="table-card">
       <table>
         <thead>
           <tr>
             <th>University</th>
             <th>Started</th>
-            <th>Trigger</th>
-            <th>Mode</th>
+            <th>Run type</th>
             <th>Status</th>
             <th>Took</th>
             <th>Result</th>
@@ -29,15 +28,17 @@ export function RunsTable({ runs, universityNames, now }: Props) {
             const when = run.startedAt ?? run.requestedAt;
             return (
               <tr key={run.id}>
-                <td>{universityNames.get(run.universityId) ?? `#${run.universityId}`}</td>
+                <td style={{ fontWeight: 600 }}>{universityNames.get(run.universityId) ?? `University ${run.universityId}`}</td>
                 <td title={formatDateTime(when)}>{formatRelative(when, now)}</td>
-                <td>{triggerLabel(run.trigger)}</td>
-                <td>{modeLabel(run.mode)}</td>
+                <td className="stacked">
+                  <div className="top">{triggerLabel(run.trigger)}</div>
+                  <div className="bottom">{modeLabel(run.mode)}</div>
+                </td>
                 <td>
                   <StatusBadge status={run.status} />
                 </td>
-                <td className="num">{formatDuration(run.startedAt, run.finishedAt) ?? "-"}</td>
-                <td className="small">{run.status === "pending" || run.status === "running" ? "-" : summarizeRun(run)}</td>
+                <td className="num">{formatDuration(run.startedAt, run.finishedAt) ?? <span className="dash">-</span>}</td>
+                <td className="small">{isRunActive(run) ? <span className="dash">-</span> : summarizeRun(run)}</td>
               </tr>
             );
           })}

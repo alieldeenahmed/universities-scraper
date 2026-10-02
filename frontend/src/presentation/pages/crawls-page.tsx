@@ -1,30 +1,29 @@
 import { useEffect, useMemo, useState } from "react";
-import { describeStartResult, pollIntervalMs } from "../../application/crawl-controls";
+import { describeStartResult } from "../../application/crawl-controls";
+import type { StartedCrawl } from "../../application/ports";
 import type { CrawlMode } from "../../domain/crawl";
-import { EmptyState, Notice } from "../components/notice";
+import { Notice, StateCard } from "../components/notice";
 import { GapsTable } from "../crawls/gaps-table";
 import { RunsTable } from "../crawls/runs-table";
-import { UniversityCard } from "../crawls/university-card";
+import { UniversityRow } from "../crawls/university-row";
 import { useGateway } from "../gateway-context";
 import { useAsync } from "../hooks/use-async";
-import { usePolling } from "../hooks/use-polling";
+import { useUniversities } from "../universities-context";
 
 type Message = { kind: "success" | "error"; text: string };
 
 export function CrawlsPage() {
   const gateway = useGateway();
+  const universities = useUniversities();
 
   useEffect(() => {
     document.title = "Crawls";
   }, []);
 
-  const universities = usePolling(
-    () => gateway.listUniversities(),
-    (data) => pollIntervalMs(data ?? []),
-  );
+  const list = universities.universities ?? [];
 
   // runs and gaps change when a crawl starts or ends, not on every poll
-  const changeKey = (universities.data ?? [])
+  const changeKey = list
     .map((u) => `${u.id}:${u.activeRun?.id ?? 0}:${u.lastFinishedRun?.id ?? 0}:${u.gaps.open}:${u.gaps.gaveUp}`)
     .join("|");
   const runs = useAsync(() => gateway.listRuns({ limit: 15 }), [gateway, changeKey]);
@@ -33,12 +32,9 @@ export function CrawlsPage() {
   const [pending, setPending] = useState<Set<number | "all">>(new Set());
   const [message, setMessage] = useState<Message | null>(null);
 
-  const names = useMemo(
-    () => new Map((universities.data ?? []).map((u) => [u.id, u.name])),
-    [universities.data],
-  );
+  const names = useMemo(() => new Map(list.map((u) => [u.id, u.name])), [list]);
 
-  async function run(key: number | "all", start: () => Promise<Parameters<typeof describeStartResult>[0]>) {
+  async function run(key: number | "all", start: () => Promise<StartedCrawl[]>) {
     setPending((current) => new Set(current).add(key));
     setMessage(null);
     try {
@@ -62,48 +58,49 @@ export function CrawlsPage() {
   const crawlAll = () => run("all", () => gateway.startCrawlAll("full"));
 
   const now = new Date();
-  const list = universities.data ?? [];
   const anyActive = list.some((u) => u.activeRun);
 
   return (
     <div className="page stack">
-      <div className="page-head">
-        <div>
-          <h1>Crawls</h1>
-          <p>
-            Crawls run by themselves on a schedule, catch up after the laptop was off, and retry anything that came back
-            incomplete. Use the buttons to run one right now.
-          </p>
+      <div>
+        <div className="page-head" style={{ marginBottom: message || universities.error ? 18 : 0 }}>
+          <div>
+            <h1>Crawls</h1>
+            <p>
+              Crawls run by themselves on a schedule, catch up after the laptop was off, and retry anything that came
+              back incomplete. Use the buttons to run one right now.
+            </p>
+          </div>
+          <button
+            type="button"
+            className="btn primary"
+            onClick={crawlAll}
+            disabled={pending.has("all") || list.length === 0 || anyActive}
+          >
+            {pending.has("all") ? "Starting…" : "Crawl all universities"}
+          </button>
         </div>
-        <button
-          type="button"
-          className="btn primary"
-          onClick={crawlAll}
-          disabled={pending.has("all") || list.length === 0 || anyActive}
-        >
-          {pending.has("all") ? "Starting..." : "Crawl all universities"}
-        </button>
+
+        {message && (
+          <Notice kind={message.kind} onDismiss={() => setMessage(null)}>
+            {message.text}
+          </Notice>
+        )}
+        {universities.error && (
+          <Notice kind="error" detail={universities.error.message} onRetry={universities.reload}>
+            Could not load the universities.
+          </Notice>
+        )}
       </div>
 
-      {message && (
-        <Notice kind={message.kind} onDismiss={() => setMessage(null)}>
-          {message.text}
-        </Notice>
-      )}
-      {universities.error && (
-        <Notice kind="error" onRetry={universities.reload}>
-          {universities.error.message}
-        </Notice>
-      )}
-
-      {universities.loading && !universities.data ? (
-        <p className="muted">Loading...</p>
+      {universities.loading && !universities.universities ? (
+        <p className="muted">Loading…</p>
       ) : list.length === 0 && !universities.error ? (
-        <EmptyState title="No universities are set up" />
+        <StateCard title="No universities are set up" />
       ) : (
-        <section className="cards" aria-label="Universities">
+        <section className="uni-list" aria-label="Universities">
           {list.map((university) => (
-            <UniversityCard
+            <UniversityRow
               key={university.id}
               university={university}
               now={now}
@@ -117,27 +114,29 @@ export function CrawlsPage() {
       <section>
         <h2 className="section-title">Open gaps</h2>
         {gaps.error ? (
-          <Notice kind="error" onRetry={gaps.reload}>
-            {gaps.error.message}
+          <Notice kind="error" detail={gaps.error.message} onRetry={gaps.reload}>
+            Could not load the gaps.
           </Notice>
         ) : gaps.data && gaps.data.length > 0 ? (
           <GapsTable gaps={gaps.data} universityNames={names} now={now} />
-        ) : (
-          <p className="muted">Nothing is missing. Gaps show up here when a field comes back empty or a major can't be read.</p>
-        )}
+        ) : gaps.data ? (
+          <StateCard title="Nothing is missing" tick solid>
+            Gaps show up here when a field comes back empty or a major can't be read.
+          </StateCard>
+        ) : null}
       </section>
 
       <section>
         <h2 className="section-title">Recent crawls</h2>
         {runs.error ? (
-          <Notice kind="error" onRetry={runs.reload}>
-            {runs.error.message}
+          <Notice kind="error" detail={runs.error.message} onRetry={runs.reload}>
+            Could not load the recent crawls.
           </Notice>
         ) : runs.data && runs.data.length > 0 ? (
           <RunsTable runs={runs.data} universityNames={names} now={now} />
-        ) : (
+        ) : runs.data ? (
           <p className="muted">No crawls yet.</p>
-        )}
+        ) : null}
       </section>
     </div>
   );
