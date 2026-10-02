@@ -457,15 +457,40 @@ tbody tr:last-child td {
   background: var(--surface-2);
 }
 
+.majors-table {
+  table-layout: fixed;
+  min-width: 860px;
+}
+
+.majors-table .col-major {
+  width: 32%;
+}
+
+.majors-table .col-faculty {
+  width: 25%;
+}
+
+.majors-table .col-degree {
+  width: 21%;
+}
+
+.majors-table .col-number {
+  width: 11%;
+}
+
 .major-title {
   font-weight: 650;
   font-size: 15px;
   line-height: 1.3;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+  line-clamp: 2;
+  overflow: hidden;
 }
 
 .major-sub {
   margin-top: 3px;
-  max-width: 300px;
   overflow: hidden;
   text-overflow: ellipsis;
   white-space: nowrap;
